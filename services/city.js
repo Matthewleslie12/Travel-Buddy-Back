@@ -14,6 +14,7 @@ function searchCity(cityName) {
   })
   .then(response => {
     // console.log(response);
+  
     fs.writeFileSync(`./cities/${cityName.query}.json`, JSON.stringify(response.data), () => {
       console.log('Data written to file');
     });
