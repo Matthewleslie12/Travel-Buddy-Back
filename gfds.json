@@ -1,0 +1,4082 @@
+{
+    "data": [
+      {
+        "result_type": "geos",
+        "result_object": {
+          "location_id": "155019",
+          "name": "Toronto",
+          "latitude": "43.64381",
+          "longitude": "-79.38554",
+          "num_reviews": "676422",
+          "timezone": "America/Toronto",
+          "location_string": "Toronto, Ontario",
+          "photo": {
+            "images": {
+              "small": {
+                "width": "150",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-l/14/10/2f/e4/toronto.jpg",
+                "height": "150"
+              },
+              "thumbnail": {
+                "width": "50",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-t/14/10/2f/e4/toronto.jpg",
+                "height": "50"
+              },
+              "original": {
+                "width": "8000",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-o/14/10/2f/e4/toronto.jpg",
+                "height": "3000"
+              },
+              "large": {
+                "width": "550",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-s/14/10/2f/e4/toronto.jpg",
+                "height": "206"
+              },
+              "medium": {
+                "width": "250",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-f/14/10/2f/e4/toronto.jpg",
+                "height": "94"
+              }
+            },
+            "is_blessed": false,
+            "uploaded_date": "2018-08-09T12:31:35-0400",
+            "caption": "",
+            "id": "336605156",
+            "helpful_votes": "45",
+            "published_date": "2018-08-09T12:31:35-0400",
+            "user": null
+          },
+          "awards": [
+            {
+              "award_type": "Traveler's Choice",
+              "year": "2023",
+              "images": {
+                "small": "https://static.tacdn.com/img2/awards/TC-Color-60x60-updated-green.png",
+                "large": "https://www.tripadvisor.com/img2/awards/TC_2014_downloadable_L_TM.jpg"
+              },
+              "categories": [
+                "Popular Destinations"
+              ],
+              "display_name": "Travelers' Choice 2023"
+            }
+          ],
+          "doubleclick_zone": "na.can.ont.toronto",
+          "preferred_map_engine": "default",
+          "geo_type": "narrow",
+          "category_counts": {
+            "attractions": {
+              "activities": "1148",
+              "attractions": "515",
+              "nightlife": "303",
+              "shopping": "336",
+              "total": "2302"
+            },
+            "restaurants": {
+              "total": "9026"
+            },
+            "accommodations": {
+              "hotels": "140",
+              "bbs_inns": "146",
+              "others": "329",
+              "total": "615"
+            },
+            "neighborhoods": "274",
+            "airports": "1"
+          },
+          "map_image_url": "https://media-cdn.tripadvisor.com/media/mobile/offline/maps/static/en/155019.png?t=1435790569",
+          "nearby_attractions": [],
+          "description": "",
+          "is_localized_description": true,
+          "web_url": "",
+          "ancestors": [
+            {
+              "subcategory": [
+                {
+                  "key": "province",
+                  "name": "Province"
+                }
+              ],
+              "name": "Ontario",
+              "abbrv": null,
+              "location_id": "154979"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "country",
+                  "name": "Country"
+                }
+              ],
+              "name": "Canada",
+              "abbrv": null,
+              "location_id": "153339"
+            }
+          ],
+          "category": {
+            "key": "geographic",
+            "name": "Geographic"
+          },
+          "subcategory": [
+            {
+              "key": "city",
+              "name": "City"
+            }
+          ],
+          "is_jfy_enabled": false,
+          "nearest_metro_station": [],
+          "geo_description": "We've heard Toronto described as \"New York City run by the Swiss,\" and it's true—you can find world-class theater, shopping and restaurants here, but the sidewalks are clean and the people are friendly. The best place to start is literally at the top—the CN Tower, the tallest freestanding structure in the Western Hemisphere.",
+          "has_restaurant_coverpage": false,
+          "has_attraction_coverpage": false,
+          "has_curated_shopping_list": false
+        },
+        "scope": "local",
+        "is_top_result": true
+      },
+      {
+        "result_type": "things_to_do",
+        "result_object": {
+          "location_id": "185115",
+          "name": "Toronto Island Park",
+          "latitude": "43.62189",
+          "longitude": "-79.37876",
+          "num_reviews": "8528",
+          "timezone": "America/Toronto",
+          "location_string": "Toronto, Ontario",
+          "photo": {
+            "images": {
+              "small": {
+                "width": "150",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-l/0a/41/94/b6/toronto-island-park.jpg",
+                "height": "150"
+              },
+              "thumbnail": {
+                "width": "50",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-t/0a/41/94/b6/toronto-island-park.jpg",
+                "height": "50"
+              },
+              "original": {
+                "width": "1155",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-o/0a/41/94/b6/toronto-island-park.jpg",
+                "height": "1067"
+              },
+              "large": {
+                "width": "1024",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-w/0a/41/94/b6/toronto-island-park.jpg",
+                "height": "945"
+              },
+              "medium": {
+                "width": "487",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-s/0a/41/94/b6/toronto-island-park.jpg",
+                "height": "450"
+              }
+            },
+            "is_blessed": false,
+            "uploaded_date": "2016-02-07T15:04:33-0500",
+            "caption": "Toronto Island Park",
+            "id": "172070070",
+            "helpful_votes": "15",
+            "published_date": "2016-02-07T15:04:33-0500",
+            "user": {
+              "user_id": null,
+              "member_id": "0",
+              "type": "user"
+            }
+          },
+          "awards": [],
+          "location_subtype": "none",
+          "preferred_map_engine": "default",
+          "distance": null,
+          "distance_string": null,
+          "bearing": null,
+          "rating": "4.5",
+          "is_closed": false,
+          "open_now_text": "Open Now",
+          "is_long_closed": false,
+          "description": "",
+          "web_url": "",
+          "ancestors": [
+            {
+              "subcategory": [
+                {
+                  "key": "city",
+                  "name": "City"
+                }
+              ],
+              "name": "Toronto",
+              "abbrv": null,
+              "location_id": "155019"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "province",
+                  "name": "Province"
+                }
+              ],
+              "name": "Ontario",
+              "abbrv": null,
+              "location_id": "154979"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "country",
+                  "name": "Country"
+                }
+              ],
+              "name": "Canada",
+              "abbrv": null,
+              "location_id": "153339"
+            }
+          ],
+          "category": {
+            "key": "attraction",
+            "name": "Attraction"
+          },
+          "subcategory": [
+            {
+              "key": "57",
+              "name": "Nature & Parks"
+            }
+          ],
+          "is_jfy_enabled": false,
+          "nearest_metro_station": [],
+          "address_obj": {
+            "street1": "9 Queens Quay West",
+            "street2": "Bay Street, Jack Layton Ferry Terminal",
+            "city": "Toronto",
+            "state": null,
+            "country": "Canada",
+            "postalcode": "M5J 2H3"
+          },
+          "address": "9 Queens Quay West Bay Street, Jack Layton Ferry Terminal, Toronto, Ontario M5J 2H3 Canada",
+          "is_candidate_for_contact_info_suppression": false
+        },
+        "search_explanations": {
+          "mentioned_by_travelers": "matches 3,353 reviews"
+        },
+        "review_snippet": {
+          "snippet": "Easy ferry ride from Toronto.",
+          "spans": [
+            {
+              "start_index": 21,
+              "end_index": 29
+            }
+          ],
+          "review_id": "876758936"
+        },
+        "scope": "local"
+      },
+      {
+        "result_type": "lodging",
+        "result_object": {
+          "location_id": "1456256",
+          "name": "1 Hotel Toronto",
+          "latitude": "43.642933",
+          "longitude": "-79.401764",
+          "num_reviews": "453",
+          "timezone": "America/Toronto",
+          "location_string": "Toronto, Ontario",
+          "photo": {
+            "images": {
+              "small": {
+                "width": "150",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-l/21/ee/da/e0/city-lounge-king.jpg",
+                "height": "150"
+              },
+              "thumbnail": {
+                "width": "50",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-t/21/ee/da/e0/city-lounge-king.jpg",
+                "height": "50"
+              },
+              "original": {
+                "width": "8192",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-o/21/ee/da/e0/city-lounge-king.jpg",
+                "height": "5464"
+              },
+              "large": {
+                "width": "550",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-s/21/ee/da/e0/city-lounge-king.jpg",
+                "height": "367"
+              },
+              "medium": {
+                "width": "250",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-f/21/ee/da/e0/city-lounge-king.jpg",
+                "height": "167"
+              }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2022-01-23T01:46:46-0500",
+            "caption": "City Lounge King",
+            "id": "569301728",
+            "helpful_votes": "0",
+            "published_date": "2022-01-23T01:46:46-0500",
+            "user": null
+          },
+          "awards": [],
+          "preferred_map_engine": "default",
+          "distance": null,
+          "distance_string": null,
+          "bearing": null,
+          "rating": "5.0",
+          "is_closed": false,
+          "is_long_closed": false,
+          "special_offers": {
+            "desktop": [],
+            "mobile": []
+          },
+          "description": "",
+          "web_url": "",
+          "ancestors": [
+            {
+              "subcategory": [
+                {
+                  "key": "city",
+                  "name": "City"
+                }
+              ],
+              "name": "Toronto",
+              "abbrv": null,
+              "location_id": "155019"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "province",
+                  "name": "Province"
+                }
+              ],
+              "name": "Ontario",
+              "abbrv": null,
+              "location_id": "154979"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "country",
+                  "name": "Country"
+                }
+              ],
+              "name": "Canada",
+              "abbrv": null,
+              "location_id": "153339"
+            }
+          ],
+          "category": {
+            "key": "hotel",
+            "name": "Hotel"
+          },
+          "subcategory": [
+            {
+              "key": "hotel",
+              "name": "Hotel"
+            }
+          ],
+          "is_jfy_enabled": false,
+          "nearest_metro_station": [],
+          "address_obj": {
+            "street1": "550 Wellington St W",
+            "street2": "",
+            "city": "Toronto",
+            "state": null,
+            "country": "Canada",
+            "postalcode": "M5V 2V4"
+          },
+          "address": "550 Wellington St W, Toronto, Ontario M5V 2V4 Canada",
+          "is_candidate_for_contact_info_suppression": false,
+          "amenities": []
+        },
+        "search_explanations": {
+          "mentioned_by_travelers": "matches 157 reviews"
+        },
+        "review_snippet": {
+          "snippet": "2nd trip to Toronto and decided to go with 1 Hotel Toronto for my office",
+          "spans": [
+            {
+              "start_index": 12,
+              "end_index": 19
+            },
+            {
+              "start_index": 51,
+              "end_index": 58
+            }
+          ],
+          "review_id": "881785650"
+        },
+        "scope": "local"
+      },
+      {
+        "result_type": "lodging",
+        "result_object": {
+          "location_id": "183778",
+          "name": "Chelsea Hotel Toronto",
+          "latitude": "43.65866",
+          "longitude": "-79.383224",
+          "num_reviews": "8787",
+          "timezone": "America/Toronto",
+          "location_string": "Toronto, Ontario",
+          "photo": {
+            "images": {
+              "small": {
+                "width": "150",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-l/1c/de/fb/3a/chelsea-exterior.jpg",
+                "height": "150"
+              },
+              "thumbnail": {
+                "width": "50",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-t/1c/de/fb/3a/chelsea-exterior.jpg",
+                "height": "50"
+              },
+              "original": {
+                "width": "6496",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-o/1c/de/fb/3a/chelsea-exterior.jpg",
+                "height": "4872"
+              },
+              "large": {
+                "width": "550",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-s/1c/de/fb/3a/chelsea-exterior.jpg",
+                "height": "413"
+              },
+              "medium": {
+                "width": "250",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-f/1c/de/fb/3a/chelsea-exterior.jpg",
+                "height": "188"
+              }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2021-04-17T01:49:28-0400",
+            "caption": "Chelsea Exterior",
+            "id": "484375354",
+            "helpful_votes": "2",
+            "published_date": "2021-04-17T01:49:28-0400",
+            "user": null
+          },
+          "awards": [],
+          "preferred_map_engine": "default",
+          "distance": null,
+          "distance_string": null,
+          "bearing": null,
+          "rating": "3.5",
+          "is_closed": false,
+          "open_now_text": "Closed Now",
+          "is_long_closed": false,
+          "special_offers": {
+            "desktop": [],
+            "mobile": []
+          },
+          "description": "",
+          "web_url": "",
+          "ancestors": [
+            {
+              "subcategory": [
+                {
+                  "key": "city",
+                  "name": "City"
+                }
+              ],
+              "name": "Toronto",
+              "abbrv": null,
+              "location_id": "155019"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "province",
+                  "name": "Province"
+                }
+              ],
+              "name": "Ontario",
+              "abbrv": null,
+              "location_id": "154979"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "country",
+                  "name": "Country"
+                }
+              ],
+              "name": "Canada",
+              "abbrv": null,
+              "location_id": "153339"
+            }
+          ],
+          "category": {
+            "key": "hotel",
+            "name": "Hotel"
+          },
+          "subcategory": [
+            {
+              "key": "hotel",
+              "name": "Hotel"
+            }
+          ],
+          "is_jfy_enabled": false,
+          "nearest_metro_station": [],
+          "address_obj": {
+            "street1": "33 Gerrard Street W",
+            "street2": "",
+            "city": "Toronto",
+            "state": null,
+            "country": "Canada",
+            "postalcode": "M5G 1Z4"
+          },
+          "address": "33 Gerrard Street W, Toronto, Ontario M5G 1Z4 Canada",
+          "is_candidate_for_contact_info_suppression": false,
+          "amenities": []
+        },
+        "search_explanations": {
+          "mentioned_by_travelers": "matches 2,747 reviews"
+        },
+        "review_snippet": {
+          "snippet": "away and a great starting point for excursions around the city using Toronto&#x27;s",
+          "spans": [
+            {
+              "start_index": 69,
+              "end_index": 83
+            }
+          ],
+          "review_id": "859815773"
+        },
+        "scope": "local"
+      },
+      {
+        "result_type": "lodging",
+        "result_object": {
+          "location_id": "181946",
+          "name": "Hyatt Regency Toronto",
+          "latitude": "43.646286",
+          "longitude": "-79.39145",
+          "num_reviews": "4396",
+          "timezone": "America/Toronto",
+          "location_string": "Toronto, Ontario",
+          "photo": {
+            "images": {
+              "small": {
+                "width": "150",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-l/19/8c/25/e1/king-bed-with-city-view.jpg",
+                "height": "150"
+              },
+              "thumbnail": {
+                "width": "50",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-t/19/8c/25/e1/king-bed-with-city-view.jpg",
+                "height": "50"
+              },
+              "original": {
+                "width": "4800",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-o/19/8c/25/e1/king-bed-with-city-view.jpg",
+                "height": "2700"
+              },
+              "large": {
+                "width": "550",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-s/19/8c/25/e1/king-bed-with-city-view.jpg",
+                "height": "309"
+              },
+              "medium": {
+                "width": "250",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-f/19/8c/25/e1/king-bed-with-city-view.jpg",
+                "height": "141"
+              }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2019-10-09T17:40:52-0400",
+            "caption": "King bed with City View",
+            "id": "428615137",
+            "helpful_votes": "0",
+            "published_date": "2019-10-09T17:40:52-0400",
+            "user": {
+              "user_id": null,
+              "member_id": "0",
+              "type": "user"
+            }
+          },
+          "awards": [],
+          "preferred_map_engine": "default",
+          "distance": null,
+          "distance_string": null,
+          "bearing": null,
+          "rating": "4.0",
+          "is_closed": false,
+          "is_long_closed": false,
+          "special_offers": {
+            "desktop": [],
+            "mobile": []
+          },
+          "description": "",
+          "web_url": "",
+          "ancestors": [
+            {
+              "subcategory": [
+                {
+                  "key": "city",
+                  "name": "City"
+                }
+              ],
+              "name": "Toronto",
+              "abbrv": null,
+              "location_id": "155019"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "province",
+                  "name": "Province"
+                }
+              ],
+              "name": "Ontario",
+              "abbrv": null,
+              "location_id": "154979"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "country",
+                  "name": "Country"
+                }
+              ],
+              "name": "Canada",
+              "abbrv": null,
+              "location_id": "153339"
+            }
+          ],
+          "category": {
+            "key": "hotel",
+            "name": "Hotel"
+          },
+          "subcategory": [
+            {
+              "key": "hotel",
+              "name": "Hotel"
+            }
+          ],
+          "is_jfy_enabled": false,
+          "nearest_metro_station": [],
+          "address_obj": {
+            "street1": "370 King St West",
+            "street2": "",
+            "city": "Toronto",
+            "state": null,
+            "country": "Canada",
+            "postalcode": "M5V 1J9"
+          },
+          "address": "370 King St West, Toronto, Ontario M5V 1J9 Canada",
+          "is_candidate_for_contact_info_suppression": false,
+          "amenities": []
+        },
+        "search_explanations": {
+          "mentioned_by_travelers": "matches 1,556 reviews"
+        },
+        "review_snippet": {
+          "snippet": "My mother and I took a mother&#x2F;daughter trip in October to Toronto.",
+          "spans": [
+            {
+              "start_index": 63,
+              "end_index": 71
+            }
+          ],
+          "review_id": "873084563"
+        },
+        "scope": "local"
+      },
+      {
+        "result_type": "things_to_do",
+        "result_object": {
+          "location_id": "186704",
+          "name": "Toronto Zoo",
+          "latitude": "43.8177",
+          "longitude": "-79.18589",
+          "num_reviews": "4983",
+          "timezone": "America/Toronto",
+          "location_string": "Toronto, Ontario",
+          "photo": {
+            "images": {
+              "small": {
+                "width": "150",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-l/0e/8f/12/d8/toronto-zoo-map.jpg",
+                "height": "150"
+              },
+              "thumbnail": {
+                "width": "50",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-t/0e/8f/12/d8/toronto-zoo-map.jpg",
+                "height": "50"
+              },
+              "original": {
+                "width": "2000",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-o/0e/8f/12/d8/toronto-zoo-map.jpg",
+                "height": "1328"
+              },
+              "large": {
+                "width": "1024",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-w/0e/8f/12/d8/toronto-zoo-map.jpg",
+                "height": "680"
+              },
+              "medium": {
+                "width": "550",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-s/0e/8f/12/d8/toronto-zoo-map.jpg",
+                "height": "365"
+              }
+            },
+            "is_blessed": false,
+            "uploaded_date": "2017-03-01T12:48:53-0500",
+            "caption": "Toronto Zoo Map",
+            "id": "244257496",
+            "helpful_votes": "10",
+            "published_date": "2017-03-01T12:48:53-0500",
+            "user": {
+              "user_id": null,
+              "member_id": "0",
+              "type": "user"
+            }
+          },
+          "awards": [],
+          "location_subtype": "none",
+          "preferred_map_engine": "default",
+          "distance": null,
+          "distance_string": null,
+          "bearing": null,
+          "rating": "4.0",
+          "is_closed": false,
+          "open_now_text": "Open Now",
+          "is_long_closed": false,
+          "description": "",
+          "web_url": "",
+          "ancestors": [
+            {
+              "subcategory": [
+                {
+                  "key": "city",
+                  "name": "City"
+                }
+              ],
+              "name": "Toronto",
+              "abbrv": null,
+              "location_id": "155019"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "province",
+                  "name": "Province"
+                }
+              ],
+              "name": "Ontario",
+              "abbrv": null,
+              "location_id": "154979"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "country",
+                  "name": "Country"
+                }
+              ],
+              "name": "Canada",
+              "abbrv": null,
+              "location_id": "153339"
+            }
+          ],
+          "category": {
+            "key": "attraction",
+            "name": "Attraction"
+          },
+          "subcategory": [
+            {
+              "key": "48",
+              "name": "Zoos & Aquariums"
+            },
+            {
+              "key": "57",
+              "name": "Nature & Parks"
+            },
+            {
+              "key": "61",
+              "name": "Outdoor Activities"
+            }
+          ],
+          "is_jfy_enabled": false,
+          "nearest_metro_station": [],
+          "address_obj": {
+            "street1": "2000 Meadowvale Rd",
+            "street2": "Scarborough",
+            "city": "Toronto",
+            "state": null,
+            "country": "Canada",
+            "postalcode": "M1B 5K7"
+          },
+          "address": "2000 Meadowvale Rd Scarborough, Toronto, Ontario M1B 5K7 Canada",
+          "is_candidate_for_contact_info_suppression": false,
+          "fee": "YES"
+        },
+        "search_explanations": {
+          "mentioned_by_travelers": "matches 1,446 reviews"
+        },
+        "review_snippet": {
+          "snippet": "Our family visiting from South Korea specifically requested to see the Toronto",
+          "spans": [
+            {
+              "start_index": 71,
+              "end_index": 78
+            }
+          ],
+          "review_id": "862364096"
+        },
+        "scope": "local"
+      },
+      {
+        "result_type": "lodging",
+        "result_object": {
+          "location_id": "183091",
+          "name": "Hilton Toronto",
+          "latitude": "43.649845",
+          "longitude": "-79.385635",
+          "num_reviews": "4000",
+          "timezone": "America/Toronto",
+          "location_string": "Toronto, Ontario",
+          "photo": {
+            "images": {
+              "small": {
+                "width": "150",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-l/28/70/e7/cb/exterior.jpg",
+                "height": "150"
+              },
+              "thumbnail": {
+                "width": "50",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-t/28/70/e7/cb/exterior.jpg",
+                "height": "50"
+              },
+              "original": {
+                "width": "1023",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-o/28/70/e7/cb/exterior.jpg",
+                "height": "682"
+              },
+              "large": {
+                "width": "550",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-s/28/70/e7/cb/exterior.jpg",
+                "height": "367"
+              },
+              "medium": {
+                "width": "250",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-f/28/70/e7/cb/exterior.jpg",
+                "height": "167"
+              }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2023-03-12T17:09:06-0400",
+            "caption": "Exterior",
+            "id": "678488011",
+            "helpful_votes": "0",
+            "published_date": "2023-03-12T17:09:06-0400",
+            "user": null
+          },
+          "awards": [],
+          "preferred_map_engine": "default",
+          "distance": null,
+          "distance_string": null,
+          "bearing": null,
+          "rating": "4.0",
+          "is_closed": false,
+          "open_now_text": "Open Now",
+          "is_long_closed": false,
+          "special_offers": {
+            "desktop": [],
+            "mobile": []
+          },
+          "description": "",
+          "web_url": "",
+          "ancestors": [
+            {
+              "subcategory": [
+                {
+                  "key": "city",
+                  "name": "City"
+                }
+              ],
+              "name": "Toronto",
+              "abbrv": null,
+              "location_id": "155019"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "province",
+                  "name": "Province"
+                }
+              ],
+              "name": "Ontario",
+              "abbrv": null,
+              "location_id": "154979"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "country",
+                  "name": "Country"
+                }
+              ],
+              "name": "Canada",
+              "abbrv": null,
+              "location_id": "153339"
+            }
+          ],
+          "category": {
+            "key": "hotel",
+            "name": "Hotel"
+          },
+          "subcategory": [
+            {
+              "key": "hotel",
+              "name": "Hotel"
+            }
+          ],
+          "is_jfy_enabled": false,
+          "nearest_metro_station": [],
+          "address_obj": {
+            "street1": "145 Richmond Street West",
+            "street2": "",
+            "city": "Toronto",
+            "state": null,
+            "country": "Canada",
+            "postalcode": "M5H 2L2"
+          },
+          "address": "145 Richmond Street West, Toronto, Ontario M5H 2L2 Canada",
+          "is_candidate_for_contact_info_suppression": false,
+          "amenities": []
+        },
+        "search_explanations": {
+          "mentioned_by_travelers": "matches 1,642 reviews"
+        },
+        "review_snippet": {
+          "snippet": "I was in Toronto for a Saturday Evening Wedding and arrived at the Toronto",
+          "spans": [
+            {
+              "start_index": 9,
+              "end_index": 16
+            },
+            {
+              "start_index": 67,
+              "end_index": 74
+            }
+          ],
+          "review_id": "864308895"
+        },
+        "scope": "local"
+      },
+      {
+        "result_type": "lodging",
+        "result_object": {
+          "location_id": "183080",
+          "name": "Radisson Blu Toronto Downtown",
+          "latitude": "43.638695",
+          "longitude": "-79.38539",
+          "num_reviews": "2581",
+          "timezone": "America/Toronto",
+          "location_string": "Toronto, Ontario",
+          "photo": {
+            "images": {
+              "small": {
+                "width": "150",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-l/22/a9/ec/55/outdoor-pool.jpg",
+                "height": "150"
+              },
+              "thumbnail": {
+                "width": "50",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-t/22/a9/ec/55/outdoor-pool.jpg",
+                "height": "50"
+              },
+              "original": {
+                "width": "1024",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-o/22/a9/ec/55/outdoor-pool.jpg",
+                "height": "683"
+              },
+              "large": {
+                "width": "550",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-s/22/a9/ec/55/outdoor-pool.jpg",
+                "height": "367"
+              },
+              "medium": {
+                "width": "250",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-f/22/a9/ec/55/outdoor-pool.jpg",
+                "height": "167"
+              }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2022-03-24T01:16:42-0400",
+            "caption": "Outdoor Pool",
+            "id": "581561429",
+            "helpful_votes": "1",
+            "published_date": "2022-03-24T01:16:42-0400",
+            "user": null
+          },
+          "awards": [],
+          "preferred_map_engine": "default",
+          "distance": null,
+          "distance_string": null,
+          "bearing": null,
+          "rating": "4.5",
+          "is_closed": false,
+          "open_now_text": "Open Now",
+          "is_long_closed": false,
+          "special_offers": {
+            "desktop": [],
+            "mobile": []
+          },
+          "description": "",
+          "web_url": "",
+          "ancestors": [
+            {
+              "subcategory": [
+                {
+                  "key": "city",
+                  "name": "City"
+                }
+              ],
+              "name": "Toronto",
+              "abbrv": null,
+              "location_id": "155019"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "province",
+                  "name": "Province"
+                }
+              ],
+              "name": "Ontario",
+              "abbrv": null,
+              "location_id": "154979"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "country",
+                  "name": "Country"
+                }
+              ],
+              "name": "Canada",
+              "abbrv": null,
+              "location_id": "153339"
+            }
+          ],
+          "category": {
+            "key": "hotel",
+            "name": "Hotel"
+          },
+          "subcategory": [
+            {
+              "key": "hotel",
+              "name": "Hotel"
+            }
+          ],
+          "is_jfy_enabled": false,
+          "nearest_metro_station": [],
+          "address_obj": {
+            "street1": "249 Queen's Quay West",
+            "street2": "",
+            "city": "Toronto",
+            "state": null,
+            "country": "Canada",
+            "postalcode": "M5J 2N5"
+          },
+          "address": "249 Queen's Quay West, Toronto, Ontario M5J 2N5 Canada",
+          "is_candidate_for_contact_info_suppression": false,
+          "amenities": []
+        },
+        "search_explanations": {
+          "mentioned_by_travelers": "matches 833 reviews"
+        },
+        "review_snippet": {
+          "snippet": "very good location, the coffee in the lobbybar was the best for us in Toronto",
+          "spans": [
+            {
+              "start_index": 70,
+              "end_index": 77
+            }
+          ],
+          "review_id": "882899486"
+        },
+        "scope": "local"
+      },
+      {
+        "result_type": "lodging",
+        "result_object": {
+          "location_id": "3578916",
+          "name": "Shangri-La Toronto",
+          "latitude": "43.649105",
+          "longitude": "-79.38638",
+          "num_reviews": "1878",
+          "timezone": "America/Toronto",
+          "location_string": "Toronto, Ontario",
+          "photo": {
+            "images": {
+              "small": {
+                "width": "150",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-l/28/9d/67/0d/shangri-la-hotel-toronto.jpg",
+                "height": "150"
+              },
+              "thumbnail": {
+                "width": "50",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-t/28/9d/67/0d/shangri-la-hotel-toronto.jpg",
+                "height": "50"
+              },
+              "original": {
+                "width": "819",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-o/28/9d/67/0d/shangri-la-hotel-toronto.jpg",
+                "height": "1024"
+              },
+              "large": {
+                "width": "360",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-s/28/9d/67/0d/shangri-la-hotel-toronto.jpg",
+                "height": "450"
+              },
+              "medium": {
+                "width": "164",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-f/28/9d/67/0d/shangri-la-hotel-toronto.jpg",
+                "height": "205"
+              }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2023-03-24T17:56:30-0400",
+            "caption": "Shangri-La Hotel Toronto Lobby Lounge Cocktail",
+            "id": "681404173",
+            "helpful_votes": "0",
+            "published_date": "2023-03-24T17:56:30-0400",
+            "user": null
+          },
+          "awards": [],
+          "preferred_map_engine": "default",
+          "distance": null,
+          "distance_string": null,
+          "bearing": null,
+          "rating": "4.5",
+          "is_closed": false,
+          "is_long_closed": false,
+          "special_offers": {
+            "desktop": [],
+            "mobile": []
+          },
+          "description": "",
+          "web_url": "",
+          "ancestors": [
+            {
+              "subcategory": [
+                {
+                  "key": "city",
+                  "name": "City"
+                }
+              ],
+              "name": "Toronto",
+              "abbrv": null,
+              "location_id": "155019"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "province",
+                  "name": "Province"
+                }
+              ],
+              "name": "Ontario",
+              "abbrv": null,
+              "location_id": "154979"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "country",
+                  "name": "Country"
+                }
+              ],
+              "name": "Canada",
+              "abbrv": null,
+              "location_id": "153339"
+            }
+          ],
+          "category": {
+            "key": "hotel",
+            "name": "Hotel"
+          },
+          "subcategory": [
+            {
+              "key": "hotel",
+              "name": "Hotel"
+            }
+          ],
+          "is_jfy_enabled": false,
+          "nearest_metro_station": [],
+          "address_obj": {
+            "street1": "188 University Avenue",
+            "street2": null,
+            "city": "Toronto",
+            "state": null,
+            "country": "Canada",
+            "postalcode": "M5H 0A3"
+          },
+          "address": "188 University Avenue, Toronto, Ontario M5H 0A3 Canada",
+          "is_candidate_for_contact_info_suppression": false,
+          "amenities": []
+        },
+        "search_explanations": {
+          "mentioned_by_travelers": "matches 805 reviews"
+        },
+        "review_snippet": {
+          "snippet": "I had a bad first impression to Toronto when I just arrived Union Station",
+          "spans": [
+            {
+              "start_index": 32,
+              "end_index": 39
+            }
+          ],
+          "review_id": "879910895"
+        },
+        "scope": "local"
+      },
+      {
+        "result_type": "lodging",
+        "result_object": {
+          "location_id": "12483976",
+          "name": "Bisha Hotel Toronto",
+          "latitude": "43.64541",
+          "longitude": "-79.3923",
+          "num_reviews": "490",
+          "timezone": "America/Toronto",
+          "location_string": "Toronto, Ontario",
+          "photo": {
+            "images": {
+              "small": {
+                "width": "150",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-l/24/9a/1e/88/bisha-lobby-with-front.jpg",
+                "height": "150"
+              },
+              "thumbnail": {
+                "width": "50",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-t/24/9a/1e/88/bisha-lobby-with-front.jpg",
+                "height": "50"
+              },
+              "original": {
+                "width": "7425",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-o/24/9a/1e/88/bisha-lobby-with-front.jpg",
+                "height": "4950"
+              },
+              "large": {
+                "width": "550",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-s/24/9a/1e/88/bisha-lobby-with-front.jpg",
+                "height": "367"
+              },
+              "medium": {
+                "width": "250",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-f/24/9a/1e/88/bisha-lobby-with-front.jpg",
+                "height": "167"
+              }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2022-07-13T04:49:59-0400",
+            "caption": "Bisha Lobby With Front Desk Agent",
+            "id": "614080136",
+            "helpful_votes": "0",
+            "published_date": "2022-07-13T04:49:59-0400",
+            "user": null
+          },
+          "awards": [],
+          "preferred_map_engine": "default",
+          "distance": null,
+          "distance_string": null,
+          "bearing": null,
+          "rating": "5.0",
+          "is_closed": false,
+          "is_long_closed": false,
+          "special_offers": {
+            "desktop": [],
+            "mobile": []
+          },
+          "description": "",
+          "web_url": "",
+          "ancestors": [
+            {
+              "subcategory": [
+                {
+                  "key": "city",
+                  "name": "City"
+                }
+              ],
+              "name": "Toronto",
+              "abbrv": null,
+              "location_id": "155019"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "province",
+                  "name": "Province"
+                }
+              ],
+              "name": "Ontario",
+              "abbrv": null,
+              "location_id": "154979"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "country",
+                  "name": "Country"
+                }
+              ],
+              "name": "Canada",
+              "abbrv": null,
+              "location_id": "153339"
+            }
+          ],
+          "category": {
+            "key": "hotel",
+            "name": "Hotel"
+          },
+          "subcategory": [
+            {
+              "key": "hotel",
+              "name": "Hotel"
+            }
+          ],
+          "is_jfy_enabled": false,
+          "nearest_metro_station": [],
+          "address_obj": {
+            "street1": "80 Blue Jays Way",
+            "street2": null,
+            "city": "Toronto",
+            "state": null,
+            "country": "Canada",
+            "postalcode": "M5V 2G3"
+          },
+          "address": "80 Blue Jays Way, Toronto, Ontario M5V 2G3 Canada",
+          "is_candidate_for_contact_info_suppression": false,
+          "amenities": []
+        },
+        "search_explanations": {
+          "mentioned_by_travelers": "matches 185 reviews"
+        },
+        "review_snippet": {
+          "snippet": "Our favourite place to visit when in Toronto",
+          "spans": [
+            {
+              "start_index": 37,
+              "end_index": 44
+            }
+          ],
+          "review_id": "883551389"
+        },
+        "scope": "local"
+      },
+      {
+        "result_type": "lodging",
+        "result_object": {
+          "location_id": "183085",
+          "name": "Sheraton Centre Toronto Hotel",
+          "latitude": "43.651123",
+          "longitude": "-79.384",
+          "num_reviews": "2557",
+          "timezone": "America/Toronto",
+          "location_string": "Toronto, Ontario",
+          "photo": {
+            "images": {
+              "small": {
+                "width": "150",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-l/28/b3/4c/cc/exterior.jpg",
+                "height": "150"
+              },
+              "thumbnail": {
+                "width": "50",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-t/28/b3/4c/cc/exterior.jpg",
+                "height": "50"
+              },
+              "original": {
+                "width": "4000",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-o/28/b3/4c/cc/exterior.jpg",
+                "height": "2667"
+              },
+              "large": {
+                "width": "550",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-s/28/b3/4c/cc/exterior.jpg",
+                "height": "367"
+              },
+              "medium": {
+                "width": "250",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-f/28/b3/4c/cc/exterior.jpg",
+                "height": "167"
+              }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2023-03-31T19:44:01-0400",
+            "caption": "Exterior",
+            "id": "682839244",
+            "helpful_votes": "0",
+            "published_date": "2023-03-31T19:44:01-0400",
+            "user": null
+          },
+          "awards": [],
+          "preferred_map_engine": "default",
+          "distance": null,
+          "distance_string": null,
+          "bearing": null,
+          "rating": "4.0",
+          "is_closed": false,
+          "open_now_text": "Open Now",
+          "is_long_closed": false,
+          "special_offers": {
+            "desktop": [],
+            "mobile": []
+          },
+          "description": "",
+          "web_url": "",
+          "ancestors": [
+            {
+              "subcategory": [
+                {
+                  "key": "city",
+                  "name": "City"
+                }
+              ],
+              "name": "Toronto",
+              "abbrv": null,
+              "location_id": "155019"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "province",
+                  "name": "Province"
+                }
+              ],
+              "name": "Ontario",
+              "abbrv": null,
+              "location_id": "154979"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "country",
+                  "name": "Country"
+                }
+              ],
+              "name": "Canada",
+              "abbrv": null,
+              "location_id": "153339"
+            }
+          ],
+          "category": {
+            "key": "hotel",
+            "name": "Hotel"
+          },
+          "subcategory": [
+            {
+              "key": "hotel",
+              "name": "Hotel"
+            }
+          ],
+          "is_jfy_enabled": false,
+          "nearest_metro_station": [],
+          "address_obj": {
+            "street1": "123 Queen Street West",
+            "street2": "",
+            "city": "Toronto",
+            "state": null,
+            "country": "Canada",
+            "postalcode": "M5H 2M9"
+          },
+          "address": "123 Queen Street West, Toronto, Ontario M5H 2M9 Canada",
+          "is_candidate_for_contact_info_suppression": false,
+          "amenities": []
+        },
+        "search_explanations": {
+          "mentioned_by_travelers": "matches 992 reviews"
+        },
+        "review_snippet": {
+          "snippet": "A great base if ever in Toronto!",
+          "spans": [
+            {
+              "start_index": 24,
+              "end_index": 31
+            }
+          ],
+          "review_id": "874207487"
+        },
+        "scope": "local"
+      },
+      {
+        "result_type": "things_to_do",
+        "result_object": {
+          "location_id": "184962",
+          "name": "Toronto Union",
+          "latitude": "43.64552",
+          "longitude": "-79.38031",
+          "num_reviews": "869",
+          "timezone": "America/Toronto",
+          "location_string": "Toronto, Ontario",
+          "photo": {
+            "images": {
+              "small": {
+                "width": "150",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-l/13/21/37/77/estacion-toronto-union.jpg",
+                "height": "150"
+              },
+              "thumbnail": {
+                "width": "50",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-t/13/21/37/77/estacion-toronto-union.jpg",
+                "height": "50"
+              },
+              "original": {
+                "width": "2000",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-o/13/21/37/77/estacion-toronto-union.jpg",
+                "height": "1500"
+              },
+              "large": {
+                "width": "550",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-s/13/21/37/77/estacion-toronto-union.jpg",
+                "height": "413"
+              },
+              "medium": {
+                "width": "250",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-f/13/21/37/77/estacion-toronto-union.jpg",
+                "height": "188"
+              }
+            },
+            "is_blessed": false,
+            "uploaded_date": "2018-05-31T18:35:05-0400",
+            "caption": "Estaciòn Toronto Union: Toronto- Canadà 2017.",
+            "id": "320943991",
+            "helpful_votes": "0",
+            "published_date": "2018-05-31T18:35:05-0400",
+            "user": {
+              "user_id": null,
+              "member_id": "0",
+              "type": "user"
+            }
+          },
+          "awards": [],
+          "location_subtype": "none",
+          "preferred_map_engine": "default",
+          "distance": null,
+          "distance_string": null,
+          "bearing": null,
+          "rating": "3.5",
+          "is_closed": false,
+          "is_long_closed": false,
+          "description": "",
+          "web_url": "",
+          "ancestors": [
+            {
+              "subcategory": [
+                {
+                  "key": "city",
+                  "name": "City"
+                }
+              ],
+              "name": "Toronto",
+              "abbrv": null,
+              "location_id": "155019"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "province",
+                  "name": "Province"
+                }
+              ],
+              "name": "Ontario",
+              "abbrv": null,
+              "location_id": "154979"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "country",
+                  "name": "Country"
+                }
+              ],
+              "name": "Canada",
+              "abbrv": null,
+              "location_id": "153339"
+            }
+          ],
+          "category": {
+            "key": "attraction",
+            "name": "Attraction"
+          },
+          "subcategory": [
+            {
+              "key": "47",
+              "name": "Sights & Landmarks"
+            }
+          ],
+          "is_jfy_enabled": false,
+          "nearest_metro_station": [],
+          "address_obj": {
+            "street1": "65 Front St W",
+            "street2": null,
+            "city": "Toronto",
+            "state": null,
+            "country": "Canada",
+            "postalcode": "M5J 1E6"
+          },
+          "address": "65 Front St W, Toronto, Ontario M5J 1E6 Canada",
+          "is_candidate_for_contact_info_suppression": false
+        },
+        "search_explanations": {
+          "mentioned_by_travelers": "matches 214 reviews"
+        },
+        "review_snippet": {
+          "snippet": "Toronto Union station is old and historic.",
+          "spans": [
+            {
+              "start_index": 0,
+              "end_index": 7
+            }
+          ],
+          "review_id": "842251285"
+        },
+        "scope": "local"
+      },
+      {
+        "result_type": "lodging",
+        "result_object": {
+          "location_id": "183057",
+          "name": "Cambridge Suites Toronto",
+          "latitude": "43.651638",
+          "longitude": "-79.37872",
+          "num_reviews": "2171",
+          "timezone": "America/Toronto",
+          "location_string": "Toronto, Ontario",
+          "photo": {
+            "images": {
+              "small": {
+                "width": "150",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-l/28/94/f6/9a/ambassador-penthouse.jpg",
+                "height": "150"
+              },
+              "thumbnail": {
+                "width": "50",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-t/28/94/f6/9a/ambassador-penthouse.jpg",
+                "height": "50"
+              },
+              "original": {
+                "width": "453",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-o/28/94/f6/9a/ambassador-penthouse.jpg",
+                "height": "621"
+              },
+              "large": {
+                "width": "328",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-s/28/94/f6/9a/ambassador-penthouse.jpg",
+                "height": "450"
+              },
+              "medium": {
+                "width": "150",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-f/28/94/f6/9a/ambassador-penthouse.jpg",
+                "height": "205"
+              }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2023-03-22T16:58:08-0400",
+            "caption": "Ambassador Penthouse Suite",
+            "id": "680851098",
+            "helpful_votes": "0",
+            "published_date": "2023-03-22T16:58:08-0400",
+            "user": null
+          },
+          "awards": [],
+          "preferred_map_engine": "default",
+          "distance": null,
+          "distance_string": null,
+          "bearing": null,
+          "rating": "4.5",
+          "is_closed": false,
+          "is_long_closed": false,
+          "special_offers": {
+            "desktop": [],
+            "mobile": []
+          },
+          "description": "",
+          "web_url": "",
+          "ancestors": [
+            {
+              "subcategory": [
+                {
+                  "key": "city",
+                  "name": "City"
+                }
+              ],
+              "name": "Toronto",
+              "abbrv": null,
+              "location_id": "155019"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "province",
+                  "name": "Province"
+                }
+              ],
+              "name": "Ontario",
+              "abbrv": null,
+              "location_id": "154979"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "country",
+                  "name": "Country"
+                }
+              ],
+              "name": "Canada",
+              "abbrv": null,
+              "location_id": "153339"
+            }
+          ],
+          "category": {
+            "key": "hotel",
+            "name": "Hotel"
+          },
+          "subcategory": [
+            {
+              "key": "hotel",
+              "name": "Hotel"
+            }
+          ],
+          "is_jfy_enabled": false,
+          "nearest_metro_station": [],
+          "address_obj": {
+            "street1": "15 Richmond St. E.",
+            "street2": "",
+            "city": "Toronto",
+            "state": null,
+            "country": "Canada",
+            "postalcode": "M5C 1N2"
+          },
+          "address": "15 Richmond St. E., Toronto, Ontario M5C 1N2 Canada",
+          "is_candidate_for_contact_info_suppression": false,
+          "amenities": []
+        },
+        "search_explanations": {
+          "mentioned_by_travelers": "matches 978 reviews"
+        },
+        "review_snippet": {
+          "snippet": "Would stay here again if visiting Toronto.",
+          "spans": [
+            {
+              "start_index": 34,
+              "end_index": 42
+            }
+          ],
+          "review_id": "870170064"
+        },
+        "scope": "local"
+      },
+      {
+        "result_type": "lodging",
+        "result_object": {
+          "location_id": "296493",
+          "name": "Pantages Hotel Toronto Centre",
+          "latitude": "43.654503",
+          "longitude": "-79.379005",
+          "num_reviews": "1264",
+          "timezone": "America/Toronto",
+          "location_string": "Toronto, Ontario",
+          "photo": {
+            "images": {
+              "small": {
+                "width": "150",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-l/28/b6/df/42/pantages-exterior.jpg",
+                "height": "150"
+              },
+              "thumbnail": {
+                "width": "50",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-t/28/b6/df/42/pantages-exterior.jpg",
+                "height": "50"
+              },
+              "original": {
+                "width": "1022",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-o/28/b6/df/42/pantages-exterior.jpg",
+                "height": "659"
+              },
+              "large": {
+                "width": "550",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-s/28/b6/df/42/pantages-exterior.jpg",
+                "height": "355"
+              },
+              "medium": {
+                "width": "250",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-f/28/b6/df/42/pantages-exterior.jpg",
+                "height": "161"
+              }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2023-04-02T16:46:21-0400",
+            "caption": "Pantages Exterior",
+            "id": "683073346",
+            "helpful_votes": "0",
+            "published_date": "2023-04-02T16:46:21-0400",
+            "user": null
+          },
+          "awards": [],
+          "preferred_map_engine": "default",
+          "distance": null,
+          "distance_string": null,
+          "bearing": null,
+          "rating": "3.5",
+          "is_closed": false,
+          "is_long_closed": false,
+          "special_offers": {
+            "desktop": [],
+            "mobile": []
+          },
+          "description": "",
+          "web_url": "",
+          "ancestors": [
+            {
+              "subcategory": [
+                {
+                  "key": "city",
+                  "name": "City"
+                }
+              ],
+              "name": "Toronto",
+              "abbrv": null,
+              "location_id": "155019"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "province",
+                  "name": "Province"
+                }
+              ],
+              "name": "Ontario",
+              "abbrv": null,
+              "location_id": "154979"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "country",
+                  "name": "Country"
+                }
+              ],
+              "name": "Canada",
+              "abbrv": null,
+              "location_id": "153339"
+            }
+          ],
+          "category": {
+            "key": "hotel",
+            "name": "Hotel"
+          },
+          "subcategory": [
+            {
+              "key": "hotel",
+              "name": "Hotel"
+            }
+          ],
+          "is_jfy_enabled": false,
+          "nearest_metro_station": [],
+          "address_obj": {
+            "street1": "200 Victoria St",
+            "street2": "",
+            "city": "Toronto",
+            "state": null,
+            "country": "Canada",
+            "postalcode": "M5B 1V8"
+          },
+          "address": "200 Victoria St, Toronto, Ontario M5B 1V8 Canada",
+          "is_candidate_for_contact_info_suppression": false,
+          "amenities": []
+        },
+        "search_explanations": {
+          "mentioned_by_travelers": "matches 456 reviews"
+        },
+        "review_snippet": {
+          "snippet": "This is our first time in Toronto and will not be our last.",
+          "spans": [
+            {
+              "start_index": 26,
+              "end_index": 33
+            }
+          ],
+          "review_id": "879514725"
+        },
+        "scope": "local"
+      },
+      {
+        "result_type": "lodging",
+        "result_object": {
+          "location_id": "155564",
+          "name": "Four Seasons Hotel Toronto",
+          "latitude": "43.671772",
+          "longitude": "-79.38971",
+          "num_reviews": "3041",
+          "timezone": "America/Toronto",
+          "location_string": "Toronto, Ontario",
+          "photo": {
+            "images": {
+              "small": {
+                "width": "150",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-l/17/8b/de/ed/lobby.jpg",
+                "height": "150"
+              },
+              "thumbnail": {
+                "width": "50",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-t/17/8b/de/ed/lobby.jpg",
+                "height": "50"
+              },
+              "original": {
+                "width": "1313",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-o/17/8b/de/ed/lobby.jpg",
+                "height": "1050"
+              },
+              "large": {
+                "width": "550",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-s/17/8b/de/ed/lobby.jpg",
+                "height": "440"
+              },
+              "medium": {
+                "width": "250",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-f/17/8b/de/ed/lobby.jpg",
+                "height": "200"
+              }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2019-05-16T11:54:16-0400",
+            "caption": "Lobby",
+            "id": "395042541",
+            "helpful_votes": "1",
+            "published_date": "2019-05-16T11:54:16-0400",
+            "user": {
+              "user_id": null,
+              "member_id": "0",
+              "type": "user"
+            }
+          },
+          "awards": [],
+          "preferred_map_engine": "default",
+          "distance": null,
+          "distance_string": null,
+          "bearing": null,
+          "rating": "4.5",
+          "is_closed": false,
+          "is_long_closed": false,
+          "special_offers": {
+            "desktop": [],
+            "mobile": []
+          },
+          "description": "",
+          "web_url": "",
+          "ancestors": [
+            {
+              "subcategory": [
+                {
+                  "key": "city",
+                  "name": "City"
+                }
+              ],
+              "name": "Toronto",
+              "abbrv": null,
+              "location_id": "155019"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "province",
+                  "name": "Province"
+                }
+              ],
+              "name": "Ontario",
+              "abbrv": null,
+              "location_id": "154979"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "country",
+                  "name": "Country"
+                }
+              ],
+              "name": "Canada",
+              "abbrv": null,
+              "location_id": "153339"
+            }
+          ],
+          "category": {
+            "key": "hotel",
+            "name": "Hotel"
+          },
+          "subcategory": [
+            {
+              "key": "hotel",
+              "name": "Hotel"
+            }
+          ],
+          "is_jfy_enabled": false,
+          "nearest_metro_station": [],
+          "address_obj": {
+            "street1": "60 Yorkville Avenue",
+            "street2": null,
+            "city": "Toronto",
+            "state": null,
+            "country": "Canada",
+            "postalcode": "M4W 0A4"
+          },
+          "address": "60 Yorkville Avenue, Toronto, Ontario M4W 0A4 Canada",
+          "is_candidate_for_contact_info_suppression": false,
+          "amenities": []
+        },
+        "search_explanations": {
+          "mentioned_by_travelers": "matches 1,393 reviews"
+        },
+        "review_snippet": {
+          "snippet": "At close to three million residents, Toronto rightfully claims its place",
+          "spans": [
+            {
+              "start_index": 37,
+              "end_index": 44
+            }
+          ],
+          "review_id": "870272323"
+        },
+        "scope": "local"
+      },
+      {
+        "result_type": "lodging",
+        "result_object": {
+          "location_id": "1959496",
+          "name": "The Ritz-Carlton, Toronto",
+          "latitude": "43.645264",
+          "longitude": "-79.38698",
+          "num_reviews": "2055",
+          "timezone": "America/Toronto",
+          "location_string": "Toronto, Ontario",
+          "photo": {
+            "images": {
+              "small": {
+                "width": "150",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-l/21/94/88/db/exterior-of-the-ritz.jpg",
+                "height": "150"
+              },
+              "thumbnail": {
+                "width": "50",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-t/21/94/88/db/exterior-of-the-ritz.jpg",
+                "height": "50"
+              },
+              "original": {
+                "width": "4000",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-o/21/94/88/db/exterior-of-the-ritz.jpg",
+                "height": "2667"
+              },
+              "large": {
+                "width": "550",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-s/21/94/88/db/exterior-of-the-ritz.jpg",
+                "height": "367"
+              },
+              "medium": {
+                "width": "250",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-f/21/94/88/db/exterior-of-the-ritz.jpg",
+                "height": "167"
+              }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2021-12-11T01:59:54-0500",
+            "caption": "Exterior of The Ritz-Carlton Toronto",
+            "id": "563382491",
+            "helpful_votes": "2",
+            "published_date": "2021-12-11T01:59:54-0500",
+            "user": null
+          },
+          "awards": [],
+          "preferred_map_engine": "default",
+          "distance": null,
+          "distance_string": null,
+          "bearing": null,
+          "rating": "4.5",
+          "is_closed": false,
+          "open_now_text": "Open Now",
+          "is_long_closed": false,
+          "special_offers": {
+            "desktop": [],
+            "mobile": []
+          },
+          "description": "",
+          "web_url": "",
+          "ancestors": [
+            {
+              "subcategory": [
+                {
+                  "key": "city",
+                  "name": "City"
+                }
+              ],
+              "name": "Toronto",
+              "abbrv": null,
+              "location_id": "155019"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "province",
+                  "name": "Province"
+                }
+              ],
+              "name": "Ontario",
+              "abbrv": null,
+              "location_id": "154979"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "country",
+                  "name": "Country"
+                }
+              ],
+              "name": "Canada",
+              "abbrv": null,
+              "location_id": "153339"
+            }
+          ],
+          "category": {
+            "key": "hotel",
+            "name": "Hotel"
+          },
+          "subcategory": [
+            {
+              "key": "hotel",
+              "name": "Hotel"
+            }
+          ],
+          "is_jfy_enabled": false,
+          "nearest_metro_station": [],
+          "address_obj": {
+            "street1": "181 Wellington St W",
+            "street2": "",
+            "city": "Toronto",
+            "state": null,
+            "country": "Canada",
+            "postalcode": "M5V 3G7"
+          },
+          "address": "181 Wellington St W, Toronto, Ontario M5V 3G7 Canada",
+          "is_candidate_for_contact_info_suppression": false,
+          "amenities": []
+        },
+        "search_explanations": {
+          "mentioned_by_travelers": "matches 928 reviews"
+        },
+        "review_snippet": {
+          "snippet": "After a wonderful stay in Ritz Carlton Toronto a few months ago, I was",
+          "spans": [
+            {
+              "start_index": 39,
+              "end_index": 46
+            }
+          ],
+          "review_id": "877156812"
+        },
+        "scope": "local"
+      },
+      {
+        "result_type": "things_to_do",
+        "result_object": {
+          "location_id": "1863032",
+          "name": "CF Toronto Eaton Centre",
+          "latitude": "43.653126",
+          "longitude": "-79.38047",
+          "num_reviews": "3428",
+          "timezone": "America/Toronto",
+          "location_string": "Toronto, Ontario",
+          "photo": {
+            "images": {
+              "small": {
+                "width": "150",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-l/12/2a/fa/6b/excelente-local-para.jpg",
+                "height": "150"
+              },
+              "thumbnail": {
+                "width": "50",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-t/12/2a/fa/6b/excelente-local-para.jpg",
+                "height": "50"
+              },
+              "original": {
+                "width": "1000",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-o/12/2a/fa/6b/excelente-local-para.jpg",
+                "height": "643"
+              },
+              "large": {
+                "width": "1000",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-o/12/2a/fa/6b/excelente-local-para.jpg",
+                "height": "643"
+              },
+              "medium": {
+                "width": "550",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-s/12/2a/fa/6b/excelente-local-para.jpg",
+                "height": "354"
+              }
+            },
+            "is_blessed": false,
+            "uploaded_date": "2018-02-26T09:14:47-0500",
+            "caption": "Excelente local para compras",
+            "id": "304806507",
+            "helpful_votes": "4",
+            "published_date": "2018-02-26T09:14:47-0500",
+            "user": {
+              "user_id": null,
+              "member_id": "0",
+              "type": "user"
+            }
+          },
+          "awards": [],
+          "location_subtype": "none",
+          "preferred_map_engine": "default",
+          "distance": null,
+          "distance_string": null,
+          "bearing": null,
+          "rating": "4.0",
+          "is_closed": false,
+          "open_now_text": "Open Now",
+          "is_long_closed": false,
+          "description": "",
+          "web_url": "",
+          "ancestors": [
+            {
+              "subcategory": [
+                {
+                  "key": "city",
+                  "name": "City"
+                }
+              ],
+              "name": "Toronto",
+              "abbrv": null,
+              "location_id": "155019"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "province",
+                  "name": "Province"
+                }
+              ],
+              "name": "Ontario",
+              "abbrv": null,
+              "location_id": "154979"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "country",
+                  "name": "Country"
+                }
+              ],
+              "name": "Canada",
+              "abbrv": null,
+              "location_id": "153339"
+            }
+          ],
+          "category": {
+            "key": "attraction",
+            "name": "Attraction"
+          },
+          "subcategory": [
+            {
+              "key": "26",
+              "name": "Shopping"
+            }
+          ],
+          "is_jfy_enabled": false,
+          "nearest_metro_station": [],
+          "address_obj": {
+            "street1": "Toronto Eaton Centre Gallery 220 Yonge St Suite 110",
+            "street2": "",
+            "city": "Toronto",
+            "state": null,
+            "country": "Canada",
+            "postalcode": "M5B 2H1"
+          },
+          "address": "Toronto Eaton Centre Gallery 220 Yonge St Suite 110, Toronto, Ontario M5B 2H1 Canada",
+          "is_candidate_for_contact_info_suppression": false
+        },
+        "search_explanations": {
+          "mentioned_by_travelers": "matches 675 reviews"
+        },
+        "review_snippet": {
+          "snippet": "CF Toronto Eaton Centre is one busy shopping mall!",
+          "spans": [
+            {
+              "start_index": 3,
+              "end_index": 10
+            }
+          ],
+          "review_id": "884345327"
+        },
+        "scope": "local"
+      },
+      {
+        "result_type": "activities",
+        "result_object": {
+          "location_id": "11475348",
+          "name": "Best of Toronto Small Group Tour with CN Tower and Harbour Cruise",
+          "num_reviews": "342",
+          "timezone": "America/Toronto",
+          "location_string": "Toronto, Ontario",
+          "photo": {
+            "images": {
+              "small": {
+                "width": "150",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-l/1b/2c/be/b9/caption.jpg",
+                "height": "150"
+              },
+              "thumbnail": {
+                "width": "50",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-t/1b/2c/be/b9/caption.jpg",
+                "height": "50"
+              },
+              "original": {
+                "width": "720",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-o/1b/2c/be/b9/caption.jpg",
+                "height": "480"
+              },
+              "large": {
+                "width": "720",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-o/1b/2c/be/b9/caption.jpg",
+                "height": "480"
+              },
+              "medium": {
+                "width": "550",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-s/1b/2c/be/b9/caption.jpg",
+                "height": "367"
+              }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2020-03-17T16:46:37-0400",
+            "caption": "",
+            "id": "455917241",
+            "helpful_votes": "0",
+            "published_date": "2020-03-17T16:46:37-0400",
+            "user": null
+          },
+          "awards": [],
+          "preferred_map_engine": "default",
+          "distance": null,
+          "distance_string": null,
+          "bearing": null,
+          "rating": "4.5",
+          "is_closed": false,
+          "is_long_closed": false,
+          "description": "",
+          "web_url": "",
+          "ancestors": [
+            {
+              "subcategory": [
+                {
+                  "key": "city",
+                  "name": "City"
+                }
+              ],
+              "name": "Toronto",
+              "abbrv": null,
+              "location_id": "155019"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "province",
+                  "name": "Province"
+                }
+              ],
+              "name": "Ontario",
+              "abbrv": null,
+              "location_id": "154979"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "country",
+                  "name": "Country"
+                }
+              ],
+              "name": "Canada",
+              "abbrv": null,
+              "location_id": "153339"
+            }
+          ],
+          "category": {
+            "key": "activity",
+            "name": "Activity"
+          },
+          "subcategory": [],
+          "is_jfy_enabled": false,
+          "nearest_metro_station": [],
+          "address_obj": {
+            "street1": null,
+            "street2": null,
+            "city": "Toronto",
+            "state": null,
+            "country": "Canada",
+            "postalcode": null
+          },
+          "address": "Toronto, Ontario Canada",
+          "is_candidate_for_contact_info_suppression": false,
+          "supplier_location_id": "10717673",
+          "supplier_location_name": "See Sight Tours",
+          "supplier_location_subtype": "tour_operator",
+          "is_reviewable": true
+        },
+        "search_explanations": {
+          "mentioned_by_travelers": "matches 97 reviews"
+        },
+        "review_snippet": {
+          "snippet": "We also stopped by the Toronto sign, new and old city hall, got to know",
+          "spans": [
+            {
+              "start_index": 23,
+              "end_index": 30
+            }
+          ],
+          "review_id": "865605538"
+        },
+        "scope": "local"
+      },
+      {
+        "result_type": "lodging",
+        "result_object": {
+          "location_id": "6678171",
+          "name": "Delta Hotels by Marriott Toronto",
+          "latitude": "43.642994",
+          "longitude": "-79.38384",
+          "num_reviews": "2866",
+          "timezone": "America/Toronto",
+          "location_string": "Toronto, Ontario",
+          "photo": {
+            "images": {
+              "small": {
+                "width": "150",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-l/25/3e/e9/87/lobby.jpg",
+                "height": "150"
+              },
+              "thumbnail": {
+                "width": "50",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-t/25/3e/e9/87/lobby.jpg",
+                "height": "50"
+              },
+              "original": {
+                "width": "4000",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-o/25/3e/e9/87/lobby.jpg",
+                "height": "2667"
+              },
+              "large": {
+                "width": "550",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-s/25/3e/e9/87/lobby.jpg",
+                "height": "367"
+              },
+              "medium": {
+                "width": "250",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-f/25/3e/e9/87/lobby.jpg",
+                "height": "167"
+              }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2022-08-17T01:52:02-0400",
+            "caption": "Lobby",
+            "id": "624880007",
+            "helpful_votes": "0",
+            "published_date": "2022-08-17T01:52:02-0400",
+            "user": null
+          },
+          "awards": [],
+          "preferred_map_engine": "default",
+          "distance": null,
+          "distance_string": null,
+          "bearing": null,
+          "rating": "4.5",
+          "is_closed": false,
+          "open_now_text": "Open Now",
+          "is_long_closed": false,
+          "special_offers": {
+            "desktop": [],
+            "mobile": []
+          },
+          "description": "",
+          "web_url": "",
+          "ancestors": [
+            {
+              "subcategory": [
+                {
+                  "key": "city",
+                  "name": "City"
+                }
+              ],
+              "name": "Toronto",
+              "abbrv": null,
+              "location_id": "155019"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "province",
+                  "name": "Province"
+                }
+              ],
+              "name": "Ontario",
+              "abbrv": null,
+              "location_id": "154979"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "country",
+                  "name": "Country"
+                }
+              ],
+              "name": "Canada",
+              "abbrv": null,
+              "location_id": "153339"
+            }
+          ],
+          "category": {
+            "key": "hotel",
+            "name": "Hotel"
+          },
+          "subcategory": [
+            {
+              "key": "hotel",
+              "name": "Hotel"
+            }
+          ],
+          "is_jfy_enabled": false,
+          "nearest_metro_station": [],
+          "address_obj": {
+            "street1": "75 Lower Simcoe Street",
+            "street2": null,
+            "city": "Toronto",
+            "state": null,
+            "country": "Canada",
+            "postalcode": "M5J 3A6"
+          },
+          "address": "75 Lower Simcoe Street, Toronto, Ontario M5J 3A6 Canada",
+          "is_candidate_for_contact_info_suppression": false,
+          "amenities": []
+        },
+        "search_explanations": {
+          "mentioned_by_travelers": "matches 1,244 reviews"
+        },
+        "review_snippet": {
+          "snippet": "My wife and I would will love to return on our next visit to Toronto.",
+          "spans": [
+            {
+              "start_index": 61,
+              "end_index": 69
+            }
+          ],
+          "review_id": "882779772"
+        },
+        "scope": "local"
+      },
+      {
+        "result_type": "things_to_do",
+        "result_object": {
+          "location_id": "591332",
+          "name": "Toronto Islands Ferries",
+          "latitude": "43.640354",
+          "longitude": "-79.3754",
+          "num_reviews": "1117",
+          "timezone": "America/Toronto",
+          "location_string": "Toronto, Ontario",
+          "photo": {
+            "images": {
+              "small": {
+                "width": "150",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-l/06/03/24/31/centre-island-ferry.jpg",
+                "height": "150"
+              },
+              "thumbnail": {
+                "width": "50",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-t/06/03/24/31/centre-island-ferry.jpg",
+                "height": "50"
+              },
+              "original": {
+                "width": "4000",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-o/06/03/24/31/centre-island-ferry.jpg",
+                "height": "3000"
+              },
+              "large": {
+                "width": "550",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-s/06/03/24/31/centre-island-ferry.jpg",
+                "height": "413"
+              },
+              "medium": {
+                "width": "250",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-f/06/03/24/31/centre-island-ferry.jpg",
+                "height": "188"
+              }
+            },
+            "is_blessed": false,
+            "uploaded_date": "2014-06-12T03:41:10-0400",
+            "caption": "Centre Island ferry",
+            "id": "100869169",
+            "helpful_votes": "0",
+            "published_date": "2014-06-12T03:41:10-0400",
+            "user": {
+              "user_id": null,
+              "member_id": "0",
+              "type": "user"
+            }
+          },
+          "awards": [],
+          "location_subtype": "none",
+          "preferred_map_engine": "default",
+          "distance": null,
+          "distance_string": null,
+          "bearing": null,
+          "rating": "4.5",
+          "is_closed": false,
+          "is_long_closed": false,
+          "description": "",
+          "web_url": "",
+          "ancestors": [
+            {
+              "subcategory": [
+                {
+                  "key": "city",
+                  "name": "City"
+                }
+              ],
+              "name": "Toronto",
+              "abbrv": null,
+              "location_id": "155019"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "province",
+                  "name": "Province"
+                }
+              ],
+              "name": "Ontario",
+              "abbrv": null,
+              "location_id": "154979"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "country",
+                  "name": "Country"
+                }
+              ],
+              "name": "Canada",
+              "abbrv": null,
+              "location_id": "153339"
+            }
+          ],
+          "category": {
+            "key": "attraction",
+            "name": "Attraction"
+          },
+          "subcategory": [
+            {
+              "key": "59",
+              "name": "Transportation"
+            }
+          ],
+          "is_jfy_enabled": false,
+          "nearest_metro_station": [],
+          "address_obj": {
+            "street1": "9 Queens Quay W",
+            "street2": "",
+            "city": "Toronto",
+            "state": null,
+            "country": "Canada",
+            "postalcode": "M5J 2H3"
+          },
+          "address": "9 Queens Quay W, Toronto, Ontario M5J 2H3 Canada",
+          "is_candidate_for_contact_info_suppression": false
+        },
+        "search_explanations": {
+          "mentioned_by_travelers": "matches 406 reviews"
+        },
+        "review_snippet": {
+          "snippet": "Very punctual and  well worth taking it to see some great views of Toronto",
+          "spans": [
+            {
+              "start_index": 67,
+              "end_index": 74
+            }
+          ],
+          "review_id": "867119050"
+        },
+        "scope": "local"
+      },
+      {
+        "result_type": "lodging",
+        "result_object": {
+          "location_id": "1985963",
+          "name": "The St. Regis Toronto",
+          "latitude": "43.649734",
+          "longitude": "-79.380424",
+          "num_reviews": "2309",
+          "timezone": "America/Toronto",
+          "location_string": "Toronto, Ontario",
+          "photo": {
+            "images": {
+              "small": {
+                "width": "150",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-l/21/ee/f2/e3/king-guest-room.jpg",
+                "height": "150"
+              },
+              "thumbnail": {
+                "width": "50",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-t/21/ee/f2/e3/king-guest-room.jpg",
+                "height": "50"
+              },
+              "original": {
+                "width": "4000",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-o/21/ee/f2/e3/king-guest-room.jpg",
+                "height": "2667"
+              },
+              "large": {
+                "width": "550",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-s/21/ee/f2/e3/king-guest-room.jpg",
+                "height": "367"
+              },
+              "medium": {
+                "width": "250",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-f/21/ee/f2/e3/king-guest-room.jpg",
+                "height": "167"
+              }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2022-01-23T01:57:07-0500",
+            "caption": "King Guest Room",
+            "id": "569307875",
+            "helpful_votes": "1",
+            "published_date": "2022-01-23T01:57:07-0500",
+            "user": null
+          },
+          "awards": [],
+          "preferred_map_engine": "default",
+          "distance": null,
+          "distance_string": null,
+          "bearing": null,
+          "rating": "4.5",
+          "is_closed": false,
+          "open_now_text": "Open Now",
+          "is_long_closed": false,
+          "special_offers": {
+            "desktop": [],
+            "mobile": []
+          },
+          "description": "",
+          "web_url": "",
+          "ancestors": [
+            {
+              "subcategory": [
+                {
+                  "key": "city",
+                  "name": "City"
+                }
+              ],
+              "name": "Toronto",
+              "abbrv": null,
+              "location_id": "155019"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "province",
+                  "name": "Province"
+                }
+              ],
+              "name": "Ontario",
+              "abbrv": null,
+              "location_id": "154979"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "country",
+                  "name": "Country"
+                }
+              ],
+              "name": "Canada",
+              "abbrv": null,
+              "location_id": "153339"
+            }
+          ],
+          "category": {
+            "key": "hotel",
+            "name": "Hotel"
+          },
+          "subcategory": [
+            {
+              "key": "hotel",
+              "name": "Hotel"
+            }
+          ],
+          "is_jfy_enabled": false,
+          "nearest_metro_station": [],
+          "address_obj": {
+            "street1": "325 Bay Street",
+            "street2": "",
+            "city": "Toronto",
+            "state": null,
+            "country": "Canada",
+            "postalcode": "M5H 4G3"
+          },
+          "address": "325 Bay Street, Toronto, Ontario M5H 4G3 Canada",
+          "is_candidate_for_contact_info_suppression": false,
+          "amenities": []
+        },
+        "search_explanations": {
+          "mentioned_by_travelers": "matches 955 reviews"
+        },
+        "review_snippet": {
+          "snippet": "My sister&#x27;s and I decided to spend the night in Toronto on January 1st",
+          "spans": [
+            {
+              "start_index": 53,
+              "end_index": 60
+            }
+          ],
+          "review_id": "875249796"
+        },
+        "scope": "local"
+      },
+      {
+        "result_type": "lodging",
+        "result_object": {
+          "location_id": "183076",
+          "name": "Park Hyatt Toronto",
+          "latitude": "43.669346",
+          "longitude": "-79.394875",
+          "num_reviews": "1993",
+          "timezone": "America/Toronto",
+          "location_string": "Toronto, Ontario",
+          "photo": {
+            "images": {
+              "small": {
+                "width": "150",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-l/26/bc/05/f8/exterior.jpg",
+                "height": "150"
+              },
+              "thumbnail": {
+                "width": "50",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-t/26/bc/05/f8/exterior.jpg",
+                "height": "50"
+              },
+              "original": {
+                "width": "1024",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-o/26/bc/05/f8/exterior.jpg",
+                "height": "685"
+              },
+              "large": {
+                "width": "550",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-s/26/bc/05/f8/exterior.jpg",
+                "height": "368"
+              },
+              "medium": {
+                "width": "250",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-f/26/bc/05/f8/exterior.jpg",
+                "height": "167"
+              }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2022-10-29T17:04:06-0400",
+            "caption": "Exterior",
+            "id": "649856504",
+            "helpful_votes": "0",
+            "published_date": "2022-10-29T17:04:06-0400",
+            "user": null
+          },
+          "awards": [],
+          "preferred_map_engine": "default",
+          "distance": null,
+          "distance_string": null,
+          "bearing": null,
+          "rating": "4.5",
+          "is_closed": false,
+          "is_long_closed": false,
+          "special_offers": {
+            "desktop": [],
+            "mobile": []
+          },
+          "description": "",
+          "web_url": "",
+          "ancestors": [
+            {
+              "subcategory": [
+                {
+                  "key": "city",
+                  "name": "City"
+                }
+              ],
+              "name": "Toronto",
+              "abbrv": null,
+              "location_id": "155019"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "province",
+                  "name": "Province"
+                }
+              ],
+              "name": "Ontario",
+              "abbrv": null,
+              "location_id": "154979"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "country",
+                  "name": "Country"
+                }
+              ],
+              "name": "Canada",
+              "abbrv": null,
+              "location_id": "153339"
+            }
+          ],
+          "category": {
+            "key": "hotel",
+            "name": "Hotel"
+          },
+          "subcategory": [
+            {
+              "key": "hotel",
+              "name": "Hotel"
+            }
+          ],
+          "is_jfy_enabled": false,
+          "nearest_metro_station": [],
+          "address_obj": {
+            "street1": "4 Avenue Rd",
+            "street2": "",
+            "city": "Toronto",
+            "state": null,
+            "country": "Canada",
+            "postalcode": "M5R 2E8"
+          },
+          "address": "4 Avenue Rd, Toronto, Ontario M5R 2E8 Canada",
+          "is_candidate_for_contact_info_suppression": false,
+          "amenities": []
+        },
+        "search_explanations": {
+          "mentioned_by_travelers": "matches 866 reviews"
+        },
+        "review_snippet": {
+          "snippet": "Toronto Park Hyatt is situated in Toronto&#x27; high-end, luxury shopping district",
+          "spans": [
+            {
+              "start_index": 0,
+              "end_index": 7
+            },
+            {
+              "start_index": 34,
+              "end_index": 47
+            }
+          ],
+          "review_id": "882093214"
+        },
+        "scope": "local"
+      },
+      {
+        "result_type": "things_to_do",
+        "result_object": {
+          "location_id": "591344",
+          "name": "University of Toronto",
+          "latitude": "43.66095",
+          "longitude": "-79.39605",
+          "num_reviews": "1368",
+          "timezone": "America/Toronto",
+          "location_string": "Toronto, Ontario",
+          "photo": {
+            "images": {
+              "small": {
+                "width": "150",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-l/0d/67/2f/ce/a-universidade-vista.jpg",
+                "height": "150"
+              },
+              "thumbnail": {
+                "width": "50",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-t/0d/67/2f/ce/a-universidade-vista.jpg",
+                "height": "50"
+              },
+              "original": {
+                "width": "2000",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-o/0d/67/2f/ce/a-universidade-vista.jpg",
+                "height": "1333"
+              },
+              "large": {
+                "width": "1024",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-w/0d/67/2f/ce/a-universidade-vista.jpg",
+                "height": "682"
+              },
+              "medium": {
+                "width": "550",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-s/0d/67/2f/ce/a-universidade-vista.jpg",
+                "height": "367"
+              }
+            },
+            "is_blessed": false,
+            "uploaded_date": "2016-10-23T18:30:09-0400",
+            "caption": "A universidade vista de frente",
+            "id": "224866254",
+            "helpful_votes": "0",
+            "published_date": "2016-10-23T18:30:09-0400",
+            "user": {
+              "user_id": null,
+              "member_id": "0",
+              "type": "user"
+            }
+          },
+          "awards": [],
+          "location_subtype": "none",
+          "preferred_map_engine": "default",
+          "distance": null,
+          "distance_string": null,
+          "bearing": null,
+          "rating": "4.5",
+          "is_closed": false,
+          "is_long_closed": false,
+          "description": "",
+          "web_url": "",
+          "ancestors": [
+            {
+              "subcategory": [
+                {
+                  "key": "city",
+                  "name": "City"
+                }
+              ],
+              "name": "Toronto",
+              "abbrv": null,
+              "location_id": "155019"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "province",
+                  "name": "Province"
+                }
+              ],
+              "name": "Ontario",
+              "abbrv": null,
+              "location_id": "154979"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "country",
+                  "name": "Country"
+                }
+              ],
+              "name": "Canada",
+              "abbrv": null,
+              "location_id": "153339"
+            }
+          ],
+          "category": {
+            "key": "attraction",
+            "name": "Attraction"
+          },
+          "subcategory": [
+            {
+              "key": "47",
+              "name": "Sights & Landmarks"
+            }
+          ],
+          "is_jfy_enabled": false,
+          "nearest_metro_station": [],
+          "address_obj": {
+            "street1": "27 King's College Cir",
+            "street2": "",
+            "city": "Toronto",
+            "state": null,
+            "country": "Canada",
+            "postalcode": "M5S 1A1"
+          },
+          "address": "27 King's College Cir, Toronto, Ontario M5S 1A1 Canada",
+          "is_candidate_for_contact_info_suppression": false
+        },
+        "search_explanations": {
+          "mentioned_by_travelers": "matches 279 reviews"
+        },
+        "review_snippet": {
+          "snippet": "I can say that this was rather romantic side of our Toronto exploration",
+          "spans": [
+            {
+              "start_index": 52,
+              "end_index": 59
+            }
+          ],
+          "review_id": "741791870"
+        },
+        "scope": "local"
+      },
+      {
+        "result_type": "lodging",
+        "result_object": {
+          "location_id": "155586",
+          "name": "Toronto Marriott City Centre Hotel",
+          "latitude": "43.64222",
+          "longitude": "-79.3894",
+          "num_reviews": "2526",
+          "timezone": "America/Toronto",
+          "location_string": "Toronto, Ontario",
+          "photo": {
+            "images": {
+              "small": {
+                "width": "150",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-l/25/3e/c6/75/king-concierge-level.jpg",
+                "height": "150"
+              },
+              "thumbnail": {
+                "width": "50",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-t/25/3e/c6/75/king-concierge-level.jpg",
+                "height": "50"
+              },
+              "original": {
+                "width": "4000",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-o/25/3e/c6/75/king-concierge-level.jpg",
+                "height": "2667"
+              },
+              "large": {
+                "width": "550",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-s/25/3e/c6/75/king-concierge-level.jpg",
+                "height": "367"
+              },
+              "medium": {
+                "width": "250",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-f/25/3e/c6/75/king-concierge-level.jpg",
+                "height": "167"
+              }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2022-08-17T01:47:35-0400",
+            "caption": "King Concierge Level Guest Room",
+            "id": "624871029",
+            "helpful_votes": "0",
+            "published_date": "2022-08-17T01:47:35-0400",
+            "user": null
+          },
+          "awards": [],
+          "preferred_map_engine": "default",
+          "distance": null,
+          "distance_string": null,
+          "bearing": null,
+          "rating": "4.0",
+          "is_closed": false,
+          "open_now_text": "Open Now",
+          "is_long_closed": false,
+          "special_offers": {
+            "desktop": [],
+            "mobile": []
+          },
+          "description": "",
+          "web_url": "",
+          "ancestors": [
+            {
+              "subcategory": [
+                {
+                  "key": "city",
+                  "name": "City"
+                }
+              ],
+              "name": "Toronto",
+              "abbrv": null,
+              "location_id": "155019"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "province",
+                  "name": "Province"
+                }
+              ],
+              "name": "Ontario",
+              "abbrv": null,
+              "location_id": "154979"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "country",
+                  "name": "Country"
+                }
+              ],
+              "name": "Canada",
+              "abbrv": null,
+              "location_id": "153339"
+            }
+          ],
+          "category": {
+            "key": "hotel",
+            "name": "Hotel"
+          },
+          "subcategory": [
+            {
+              "key": "hotel",
+              "name": "Hotel"
+            }
+          ],
+          "is_jfy_enabled": false,
+          "nearest_metro_station": [],
+          "address_obj": {
+            "street1": "One Blue Jays Way",
+            "street2": "",
+            "city": "Toronto",
+            "state": null,
+            "country": "Canada",
+            "postalcode": "M5V 1J4"
+          },
+          "address": "One Blue Jays Way, Toronto, Ontario M5V 1J4 Canada",
+          "is_candidate_for_contact_info_suppression": false,
+          "amenities": []
+        },
+        "search_explanations": {
+          "mentioned_by_travelers": "matches 922 reviews"
+        },
+        "review_snippet": {
+          "snippet": "stay here for her 30th birthday back in 2018 which was our first time in Toronto.",
+          "spans": [
+            {
+              "start_index": 73,
+              "end_index": 81
+            }
+          ],
+          "review_id": "877836629"
+        },
+        "scope": "local"
+      },
+      {
+        "result_type": "lodging",
+        "result_object": {
+          "location_id": "183098",
+          "name": "Pan Pacific Toronto",
+          "latitude": "43.756756",
+          "longitude": "-79.35071",
+          "num_reviews": "121",
+          "timezone": "America/Toronto",
+          "location_string": "Toronto, Ontario",
+          "photo": {
+            "images": {
+              "small": {
+                "width": "150",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-l/1c/d3/bc/72/pan-pacific-toronto-exterior.jpg",
+                "height": "150"
+              },
+              "thumbnail": {
+                "width": "50",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-t/1c/d3/bc/72/pan-pacific-toronto-exterior.jpg",
+                "height": "50"
+              },
+              "original": {
+                "width": "1023",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-o/1c/d3/bc/72/pan-pacific-toronto-exterior.jpg",
+                "height": "682"
+              },
+              "large": {
+                "width": "550",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-s/1c/d3/bc/72/pan-pacific-toronto-exterior.jpg",
+                "height": "367"
+              },
+              "medium": {
+                "width": "250",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-f/1c/d3/bc/72/pan-pacific-toronto-exterior.jpg",
+                "height": "167"
+              }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2021-04-06T14:38:04-0400",
+            "caption": "Pan Pacific Toronto Exterior",
+            "id": "483638386",
+            "helpful_votes": "0",
+            "published_date": "2021-04-06T14:38:04-0400",
+            "user": null
+          },
+          "awards": [],
+          "preferred_map_engine": "default",
+          "distance": null,
+          "distance_string": null,
+          "bearing": null,
+          "rating": "3.0",
+          "is_closed": false,
+          "is_long_closed": false,
+          "special_offers": {
+            "desktop": [],
+            "mobile": []
+          },
+          "description": "",
+          "web_url": "",
+          "ancestors": [
+            {
+              "subcategory": [
+                {
+                  "key": "city",
+                  "name": "City"
+                }
+              ],
+              "name": "Toronto",
+              "abbrv": null,
+              "location_id": "155019"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "province",
+                  "name": "Province"
+                }
+              ],
+              "name": "Ontario",
+              "abbrv": null,
+              "location_id": "154979"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "country",
+                  "name": "Country"
+                }
+              ],
+              "name": "Canada",
+              "abbrv": null,
+              "location_id": "153339"
+            }
+          ],
+          "category": {
+            "key": "hotel",
+            "name": "Hotel"
+          },
+          "subcategory": [
+            {
+              "key": "hotel",
+              "name": "Hotel"
+            }
+          ],
+          "is_jfy_enabled": false,
+          "nearest_metro_station": [],
+          "address_obj": {
+            "street1": "900 York Mills Road",
+            "street2": "",
+            "city": "Toronto",
+            "state": null,
+            "country": "Canada",
+            "postalcode": "M3B 3H2"
+          },
+          "address": "900 York Mills Road, Toronto, Ontario M3B 3H2 Canada",
+          "is_candidate_for_contact_info_suppression": false,
+          "amenities": []
+        },
+        "search_explanations": {
+          "mentioned_by_travelers": "matches 31 reviews"
+        },
+        "review_snippet": {
+          "snippet": "I love that this hotel is located just outside of Downtown Toronto’s core",
+          "spans": [
+            {
+              "start_index": 59,
+              "end_index": 68
+            }
+          ],
+          "review_id": "878846666"
+        },
+        "scope": "local"
+      },
+      {
+        "result_type": "lodging",
+        "result_object": {
+          "location_id": "224676",
+          "name": "Old Mill Toronto Hotel",
+          "latitude": "43.65073",
+          "longitude": "-79.49285",
+          "num_reviews": "1082",
+          "timezone": "America/Toronto",
+          "location_string": "Toronto, Ontario",
+          "photo": {
+            "images": {
+              "small": {
+                "width": "150",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-l/28/95/2d/54/exterior.jpg",
+                "height": "150"
+              },
+              "thumbnail": {
+                "width": "50",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-t/28/95/2d/54/exterior.jpg",
+                "height": "50"
+              },
+              "original": {
+                "width": "1024",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-o/28/95/2d/54/exterior.jpg",
+                "height": "819"
+              },
+              "large": {
+                "width": "550",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-s/28/95/2d/54/exterior.jpg",
+                "height": "440"
+              },
+              "medium": {
+                "width": "250",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-f/28/95/2d/54/exterior.jpg",
+                "height": "200"
+              }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2023-03-22T17:28:36-0400",
+            "caption": "Exterior",
+            "id": "680865108",
+            "helpful_votes": "0",
+            "published_date": "2023-03-22T17:28:36-0400",
+            "user": null
+          },
+          "awards": [],
+          "preferred_map_engine": "default",
+          "distance": null,
+          "distance_string": null,
+          "bearing": null,
+          "rating": "4.5",
+          "is_closed": false,
+          "is_long_closed": false,
+          "special_offers": {
+            "desktop": [],
+            "mobile": []
+          },
+          "description": "",
+          "web_url": "",
+          "ancestors": [
+            {
+              "subcategory": [
+                {
+                  "key": "city",
+                  "name": "City"
+                }
+              ],
+              "name": "Toronto",
+              "abbrv": null,
+              "location_id": "155019"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "province",
+                  "name": "Province"
+                }
+              ],
+              "name": "Ontario",
+              "abbrv": null,
+              "location_id": "154979"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "country",
+                  "name": "Country"
+                }
+              ],
+              "name": "Canada",
+              "abbrv": null,
+              "location_id": "153339"
+            }
+          ],
+          "category": {
+            "key": "hotel",
+            "name": "Hotel"
+          },
+          "subcategory": [
+            {
+              "key": "hotel",
+              "name": "Hotel"
+            }
+          ],
+          "is_jfy_enabled": false,
+          "nearest_metro_station": [],
+          "address_obj": {
+            "street1": "9 Old Mill Rd",
+            "street2": "",
+            "city": "Toronto",
+            "state": null,
+            "country": "Canada",
+            "postalcode": "M8X 1G5"
+          },
+          "address": "9 Old Mill Rd, Toronto, Ontario M8X 1G5 Canada",
+          "is_candidate_for_contact_info_suppression": false,
+          "amenities": []
+        },
+        "search_explanations": {
+          "mentioned_by_travelers": "matches 322 reviews"
+        },
+        "review_snippet": {
+          "snippet": "I was on a five day trip to Toronto with my family.",
+          "spans": [
+            {
+              "start_index": 28,
+              "end_index": 35
+            }
+          ],
+          "review_id": "846868228"
+        },
+        "scope": "local"
+      },
+      {
+        "result_type": "activities",
+        "result_object": {
+          "location_id": "12373174",
+          "name": "Kensington Market -Toronto's Neighborhood International Food Tour",
+          "num_reviews": "372",
+          "timezone": "America/Toronto",
+          "location_string": "Toronto, Ontario",
+          "photo": {
+            "images": {
+              "small": {
+                "width": "150",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-l/1b/71/b4/54/caption.jpg",
+                "height": "150"
+              },
+              "thumbnail": {
+                "width": "50",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-t/1b/71/b4/54/caption.jpg",
+                "height": "50"
+              },
+              "original": {
+                "width": "720",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-o/1b/71/b4/54/caption.jpg",
+                "height": "480"
+              },
+              "large": {
+                "width": "720",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-o/1b/71/b4/54/caption.jpg",
+                "height": "480"
+              },
+              "medium": {
+                "width": "550",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-s/1b/71/b4/54/caption.jpg",
+                "height": "367"
+              }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2020-06-22T17:45:25-0400",
+            "caption": "",
+            "id": "460436564",
+            "helpful_votes": "0",
+            "published_date": "2020-06-22T17:45:25-0400",
+            "user": null
+          },
+          "awards": [],
+          "preferred_map_engine": "default",
+          "distance": null,
+          "distance_string": null,
+          "bearing": null,
+          "rating": "5.0",
+          "is_closed": false,
+          "is_long_closed": false,
+          "description": "",
+          "web_url": "",
+          "ancestors": [
+            {
+              "subcategory": [
+                {
+                  "key": "city",
+                  "name": "City"
+                }
+              ],
+              "name": "Toronto",
+              "abbrv": null,
+              "location_id": "155019"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "province",
+                  "name": "Province"
+                }
+              ],
+              "name": "Ontario",
+              "abbrv": null,
+              "location_id": "154979"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "country",
+                  "name": "Country"
+                }
+              ],
+              "name": "Canada",
+              "abbrv": null,
+              "location_id": "153339"
+            }
+          ],
+          "category": {
+            "key": "activity",
+            "name": "Activity"
+          },
+          "subcategory": [],
+          "is_jfy_enabled": false,
+          "nearest_metro_station": [],
+          "address_obj": {
+            "street1": null,
+            "street2": null,
+            "city": "Toronto",
+            "state": null,
+            "country": "Canada",
+            "postalcode": null
+          },
+          "address": "Toronto, Ontario Canada",
+          "is_candidate_for_contact_info_suppression": false,
+          "supplier_location_id": "12034909",
+          "supplier_location_name": "Chopsticks+Forks",
+          "supplier_location_subtype": "tour_operator",
+          "is_reviewable": true
+        },
+        "search_explanations": {
+          "mentioned_by_travelers": "matches 132 reviews"
+        },
+        "review_snippet": {
+          "snippet": "Jusep is passionate about food, ethnicity history and Toronto as a whole",
+          "spans": [
+            {
+              "start_index": 54,
+              "end_index": 61
+            }
+          ],
+          "review_id": "859127263"
+        },
+        "scope": "local"
+      },
+      {
+        "result_type": "lodging",
+        "result_object": {
+          "location_id": "23972957",
+          "name": "Ace Hotel Toronto",
+          "latitude": "43.646736",
+          "longitude": "-79.39813",
+          "num_reviews": "42",
+          "timezone": "America/Toronto",
+          "location_string": "Toronto, Ontario",
+          "photo": {
+            "images": {
+              "small": {
+                "width": "150",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-l/24/08/09/3f/guestroom.jpg",
+                "height": "150"
+              },
+              "thumbnail": {
+                "width": "50",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-t/24/08/09/3f/guestroom.jpg",
+                "height": "50"
+              },
+              "original": {
+                "width": "600",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-o/24/08/09/3f/guestroom.jpg",
+                "height": "400"
+              },
+              "large": {
+                "width": "550",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-s/24/08/09/3f/guestroom.jpg",
+                "height": "367"
+              },
+              "medium": {
+                "width": "250",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-f/24/08/09/3f/guestroom.jpg",
+                "height": "167"
+              }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2022-06-17T02:31:20-0400",
+            "caption": "Guestroom",
+            "id": "604506431",
+            "helpful_votes": "0",
+            "published_date": "2022-06-17T02:31:20-0400",
+            "user": null
+          },
+          "awards": [],
+          "preferred_map_engine": "default",
+          "distance": null,
+          "distance_string": null,
+          "bearing": null,
+          "rating": "5.0",
+          "is_closed": false,
+          "is_long_closed": false,
+          "special_offers": {
+            "desktop": [],
+            "mobile": []
+          },
+          "description": "",
+          "web_url": "",
+          "ancestors": [
+            {
+              "subcategory": [
+                {
+                  "key": "city",
+                  "name": "City"
+                }
+              ],
+              "name": "Toronto",
+              "abbrv": null,
+              "location_id": "155019"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "province",
+                  "name": "Province"
+                }
+              ],
+              "name": "Ontario",
+              "abbrv": null,
+              "location_id": "154979"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "country",
+                  "name": "Country"
+                }
+              ],
+              "name": "Canada",
+              "abbrv": null,
+              "location_id": "153339"
+            }
+          ],
+          "category": {
+            "key": "hotel",
+            "name": "Hotel"
+          },
+          "subcategory": [
+            {
+              "key": "hotel",
+              "name": "Hotel"
+            }
+          ],
+          "is_jfy_enabled": false,
+          "nearest_metro_station": [],
+          "address_obj": {
+            "street1": "51 Camden St",
+            "street2": null,
+            "city": "Toronto",
+            "state": null,
+            "country": "Canada",
+            "postalcode": "M5V 1V2"
+          },
+          "address": "51 Camden St, Toronto, Ontario M5V 1V2 Canada",
+          "is_candidate_for_contact_info_suppression": false,
+          "amenities": []
+        },
+        "search_explanations": {
+          "mentioned_by_travelers": "matches 17 reviews"
+        },
+        "review_snippet": {
+          "snippet": "We are from Toronto but now just visit, but visit frequently, and this",
+          "spans": [
+            {
+              "start_index": 12,
+              "end_index": 19
+            }
+          ],
+          "review_id": "883196700"
+        },
+        "scope": "local"
+      },
+      {
+        "result_type": "activities",
+        "result_object": {
+          "location_id": "11455829",
+          "name": "Niagara Falls Day Tour from Toronto",
+          "num_reviews": "1806",
+          "timezone": "America/Toronto",
+          "location_string": "Toronto, Ontario",
+          "photo": {
+            "images": {
+              "small": {
+                "width": "150",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-l/1a/65/1e/80/caption.jpg",
+                "height": "150"
+              },
+              "thumbnail": {
+                "width": "50",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-t/1a/65/1e/80/caption.jpg",
+                "height": "50"
+              },
+              "original": {
+                "width": "719",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-o/1a/65/1e/80/caption.jpg",
+                "height": "480"
+              },
+              "large": {
+                "width": "719",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-o/1a/65/1e/80/caption.jpg",
+                "height": "480"
+              },
+              "medium": {
+                "width": "550",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-s/1a/65/1e/80/caption.jpg",
+                "height": "367"
+              }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2019-12-25T21:56:37-0500",
+            "caption": "",
+            "id": "442834560",
+            "helpful_votes": "0",
+            "published_date": "2019-12-25T21:56:37-0500",
+            "user": null
+          },
+          "awards": [],
+          "preferred_map_engine": "default",
+          "distance": null,
+          "distance_string": null,
+          "bearing": null,
+          "rating": "5.0",
+          "is_closed": false,
+          "is_long_closed": false,
+          "description": "",
+          "web_url": "",
+          "ancestors": [
+            {
+              "subcategory": [
+                {
+                  "key": "city",
+                  "name": "City"
+                }
+              ],
+              "name": "Toronto",
+              "abbrv": null,
+              "location_id": "155019"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "province",
+                  "name": "Province"
+                }
+              ],
+              "name": "Ontario",
+              "abbrv": null,
+              "location_id": "154979"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "country",
+                  "name": "Country"
+                }
+              ],
+              "name": "Canada",
+              "abbrv": null,
+              "location_id": "153339"
+            }
+          ],
+          "category": {
+            "key": "activity",
+            "name": "Activity"
+          },
+          "subcategory": [],
+          "is_jfy_enabled": false,
+          "nearest_metro_station": [],
+          "address_obj": {
+            "street1": null,
+            "street2": null,
+            "city": "Toronto",
+            "state": null,
+            "country": "Canada",
+            "postalcode": null
+          },
+          "address": "Toronto, Ontario Canada",
+          "is_candidate_for_contact_info_suppression": false,
+          "supplier_location_id": "2723287",
+          "supplier_location_name": "Niagara Day Tour",
+          "supplier_location_subtype": "tour_operator",
+          "is_reviewable": true
+        },
+        "search_explanations": {
+          "mentioned_by_travelers": "matches 367 reviews"
+        },
+        "review_snippet": {
+          "snippet": "However, I did like that they get you back into Toronto at a reasonable",
+          "spans": [
+            {
+              "start_index": 48,
+              "end_index": 55
+            }
+          ],
+          "review_id": "867733786"
+        },
+        "scope": "local"
+      },
+      {
+        "result_type": "restaurants",
+        "result_object": {
+          "location_id": "685192",
+          "name": "Harbour 60 Toronto",
+          "latitude": "43.6421",
+          "longitude": "-79.378456",
+          "num_reviews": "653",
+          "timezone": "America/Toronto",
+          "location_string": "Toronto, Ontario",
+          "photo": {
+            "images": {
+              "small": {
+                "width": "150",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-l/04/a1/b2/b0/welcome-to-harbour-sixty.jpg",
+                "height": "150"
+              },
+              "thumbnail": {
+                "width": "50",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-t/04/a1/b2/b0/welcome-to-harbour-sixty.jpg",
+                "height": "50"
+              },
+              "original": {
+                "width": "3000",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-o/04/a1/b2/b0/welcome-to-harbour-sixty.jpg",
+                "height": "1996"
+              },
+              "large": {
+                "width": "3000",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-o/04/a1/b2/b0/welcome-to-harbour-sixty.jpg",
+                "height": "1996"
+              },
+              "medium": {
+                "width": "550",
+                "url": "https://media-cdn.tripadvisor.com/media/photo-s/04/a1/b2/b0/welcome-to-harbour-sixty.jpg",
+                "height": "365"
+              }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2013-10-04T21:31:36-0400",
+            "caption": "Welcome to Harbour Sixty Steakhouse",
+            "id": "77705904",
+            "helpful_votes": "9",
+            "published_date": "2013-10-04T21:31:17-0400",
+            "user": {
+              "user_id": null,
+              "member_id": "0",
+              "type": "user"
+            }
+          },
+          "awards": [],
+          "preferred_map_engine": "default",
+          "distance": null,
+          "distance_string": null,
+          "bearing": null,
+          "rating": "4.0",
+          "is_closed": false,
+          "is_long_closed": false,
+          "description": "",
+          "web_url": "",
+          "ancestors": [
+            {
+              "subcategory": [
+                {
+                  "key": "city",
+                  "name": "City"
+                }
+              ],
+              "name": "Toronto",
+              "abbrv": null,
+              "location_id": "155019"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "province",
+                  "name": "Province"
+                }
+              ],
+              "name": "Ontario",
+              "abbrv": null,
+              "location_id": "154979"
+            },
+            {
+              "subcategory": [
+                {
+                  "key": "country",
+                  "name": "Country"
+                }
+              ],
+              "name": "Canada",
+              "abbrv": null,
+              "location_id": "153339"
+            }
+          ],
+          "category": {
+            "key": "restaurant",
+            "name": "Restaurant"
+          },
+          "subcategory": [
+            {
+              "key": "sit_down",
+              "name": "Sit down"
+            }
+          ],
+          "is_jfy_enabled": false,
+          "nearest_metro_station": [],
+          "address_obj": {
+            "street1": "60 Harbour St",
+            "street2": "",
+            "city": "Toronto",
+            "state": null,
+            "country": "Canada",
+            "postalcode": "M5J 1B7"
+          },
+          "address": "60 Harbour St, Toronto, Ontario M5J 1B7 Canada",
+          "is_candidate_for_contact_info_suppression": false,
+          "cuisine": [
+            {
+              "key": "9908",
+              "name": "American"
+            },
+            {
+              "key": "10345",
+              "name": "Steakhouse"
+            },
+            {
+              "key": "10699",
+              "name": "Canadian"
+            }
+          ],
+          "establishment_types": [
+            {
+              "key": "10591",
+              "name": "Restaurants"
+            }
+          ]
+        },
+        "search_explanations": {
+          "mentioned_by_travelers": "matches 154 reviews"
+        },
+        "review_snippet": {
+          "snippet": "We thought it would be fun to try an upscale Toronto steakhouse for a family",
+          "spans": [
+            {
+              "start_index": 45,
+              "end_index": 52
+            }
+          ],
+          "review_id": "865526686"
+        },
+        "scope": "local"
+      }
+    ],
+    "metadata": {
+      "scope": "local"
+    },
+    "sort": [
+      {
+        "filter_key": "relevance",
+        "label": "Relevance",
+        "locale_independent_label": "relevance",
+        "selected": true
+      },
+      {
+        "filter_key": "distance",
+        "label": "Distance",
+        "locale_independent_label": "distance",
+        "selected": false
+      }
+    ],
+    "partial_content": false,
+    "tracking": {
+      "search_id": "AA085D52CF3F4B85A1AF767422F7024E1680704624259"
+    },
+    "paging": {
+      "results": "30",
+      "total_results": "35490"
+    }
+  }
