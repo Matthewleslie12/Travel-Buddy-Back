@@ -1,27 +1,24 @@
-const axios = require('axios');
 const fs = require('fs');
 
-
-function searchCity(cityName) {
-  return axios.get(`https://travel-advisor.p.rapidapi.com/locations/search?query=${cityName.query}`, {
-    params: {
-      query: cityName
-    },
-    headers: {
+async function searchCity(cityName) {
+  try {
+    const response = await axios.get(`https://travel-advisor.p.rapidapi.com/locations/search?query=${cityName.query}`, {
+      headers: {
         'X-RapidAPI-Key': "1092460963msh629c5ce84f775f9p16d1a9jsn9acca9ce7b3b",
-      'X-RapidAPI-Host': 'travel-advisor.p.rapidapi.com',
-    }
-  })
-  .then(response => {
-    // console.log(response);
-  
-    fs.writeFileSync(`./cities/${cityName.query}.json`, JSON.stringify(response.data), () => {
-      console.log('Data written to file');
+        'X-RapidAPI-Host': 'travel-advisor.p.rapidapi.com',
+      }
     });
-  })
-  .catch(error => {
+    const cityData = response.data.data[0];
+    const { id, name } = cityData.result_object;
+    const dataToWrite = { id, name };
+    fs.writeFileSync(`./cities/${cityName.query}.json`, JSON.stringify(dataToWrite), () => {
+      console.log(`Data written to file ${cityName.query}.json`);
+    });
+    return dataToWrite;
+  } catch (error) {
     console.log(error);
-  });
+    throw new Error(error.message);
+  }
 }
 
 module.exports = {

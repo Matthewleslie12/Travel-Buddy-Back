@@ -1,0 +1,3039 @@
+{
+  "data": [
+    {
+      "result_type": "geos",
+      "result_object": {
+        "location_id": "294217",
+        "name": "Hong Kong",
+        "latitude": "22.28331",
+        "longitude": "114.15874",
+        "num_reviews": "1192344",
+        "timezone": "Asia/Hong_Kong",
+        "location_string": "Hong Kong",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/1b/33/f4/54/caption.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/1b/33/f4/54/caption.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "3722",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/1b/33/f4/54/caption.jpg",
+              "height": "3403"
+            },
+            "large": {
+              "width": "492",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/1b/33/f4/54/caption.jpg",
+              "height": "450"
+            },
+            "medium": {
+              "width": "224",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/1b/33/f4/54/caption.jpg",
+              "height": "205"
+            }
+          },
+          "is_blessed": false,
+          "uploaded_date": "2020-03-24T15:54:31-0400",
+          "caption": "",
+          "id": "456389716",
+          "helpful_votes": "13",
+          "published_date": "2020-03-24T15:54:31-0400",
+          "user": null
+        },
+        "awards": [
+          {
+            "award_type": "Traveler's Choice",
+            "year": "2023",
+            "images": {
+              "small": "https://static.tacdn.com/img2/awards/TC-Color-60x60-updated-green.png",
+              "large": "https://www.tripadvisor.com/img2/awards/TC_2014_downloadable_L_TM.jpg"
+            },
+            "categories": ["Popular Destinations"],
+            "display_name": "Travelers' Choice 2023"
+          }
+        ],
+        "doubleclick_zone": "as.china.hong_kong",
+        "preferred_map_engine": "default",
+        "geo_type": "narrow",
+        "category_counts": {
+          "attractions": {
+            "activities": "804",
+            "attractions": "1105",
+            "nightlife": "131",
+            "shopping": "609",
+            "total": "2649"
+          },
+          "restaurants": { "total": "16097" },
+          "accommodations": {
+            "hotels": "795",
+            "bbs_inns": "429",
+            "others": "240",
+            "total": "1464"
+          },
+          "neighborhoods": "119",
+          "airports": "2"
+        },
+        "map_image_url": "https://media-cdn.tripadvisor.com/media/mobile/offline/maps/static/en/294217.png?t=1423501259",
+        "nearby_attractions": [],
+        "description": "",
+        "is_localized_description": true,
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "China",
+            "abbrv": null,
+            "location_id": "294211"
+          }
+        ],
+        "category": { "key": "geographic", "name": "Geographic" },
+        "subcategory": [{ "key": "municipality", "name": "Municipality" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "geo_description": "Delectable dim sum, floating islands, and a one-of-a-kind skyline are just some of Hong Kong’s unique features. Get an eyeful of traditional Chinese architecture in Ngong Ping village, then take the tram to the tippity-top of Victoria Peak for unparalleled views. The rocks and gentle hills of Nan Lian Garden will bring you inner peace, as will a calming cup of tea in a Stanley café. Become one with everything at the Chi Lin Nunnery, a serene Buddhist complex.",
+        "has_restaurant_coverpage": false,
+        "has_attraction_coverpage": false,
+        "has_curated_shopping_list": false
+      },
+      "scope": "local",
+      "is_top_result": true
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "15618306",
+        "name": "Rosewood Hong Kong",
+        "latitude": "22.2948",
+        "longitude": "114.175575",
+        "num_reviews": "2160",
+        "timezone": "Asia/Hong_Kong",
+        "location_string": "Hong Kong",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/28/50/82/aa/rwhkg-manor-suite-bedroom.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/28/50/82/aa/rwhkg-manor-suite-bedroom.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "7333",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/28/50/82/aa/rwhkg-manor-suite-bedroom.jpg",
+              "height": "4402"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/28/50/82/aa/rwhkg-manor-suite-bedroom.jpg",
+              "height": "330"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/28/50/82/aa/rwhkg-manor-suite-bedroom.jpg",
+              "height": "150"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2023-02-22T20:31:29-0500",
+          "caption": "RWHKG Manor Suite Bedroom",
+          "id": "676364970",
+          "helpful_votes": "0",
+          "published_date": "2023-02-22T20:31:29-0500",
+          "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "municipality", "name": "Municipality" }],
+            "name": "Hong Kong",
+            "abbrv": null,
+            "location_id": "294217"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "China",
+            "abbrv": null,
+            "location_id": "294211"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "18 Salisbury Road, Tsim Sha Tsui, Kowloon",
+          "street2": "Victoria Dockside",
+          "city": "Hong Kong",
+          "state": null,
+          "country": "China",
+          "postalcode": null
+        },
+        "address": "18 Salisbury Road, Tsim Sha Tsui, Kowloon Victoria Dockside, Hong Kong China",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 417 reviews"
+      },
+      "review_snippet": {
+        "snippet": "Now, Rosewood Hong Kong is. It is the best luxury hotel in Hong Kong.",
+        "spans": [
+          { "start_index": 14, "end_index": 18 },
+          { "start_index": 19, "end_index": 23 },
+          { "start_index": 59, "end_index": 63 },
+          { "start_index": 64, "end_index": 69 }
+        ],
+        "review_id": "875607596"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "302040",
+        "name": "The Peninsula Hong Kong",
+        "latitude": "22.294825",
+        "longitude": "114.17184",
+        "num_reviews": "2349",
+        "timezone": "Asia/Hong_Kong",
+        "location_string": "Hong Kong",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/28/6a/11/a6/hotel-exterior.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/28/6a/11/a6/hotel-exterior.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "952",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/28/6a/11/a6/hotel-exterior.jpg",
+              "height": "535"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/28/6a/11/a6/hotel-exterior.jpg",
+              "height": "309"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/28/6a/11/a6/hotel-exterior.jpg",
+              "height": "140"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2023-03-08T20:04:21-0500",
+          "caption": "Hotel Exterior",
+          "id": "678039974",
+          "helpful_votes": "0",
+          "published_date": "2023-03-08T20:04:21-0500",
+          "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "municipality", "name": "Municipality" }],
+            "name": "Hong Kong",
+            "abbrv": null,
+            "location_id": "294217"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "China",
+            "abbrv": null,
+            "location_id": "294211"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Salisbury Road",
+          "street2": "Kowloon",
+          "city": "Hong Kong",
+          "state": null,
+          "country": "China",
+          "postalcode": ""
+        },
+        "address": "Salisbury Road Kowloon, Hong Kong China",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 655 reviews"
+      },
+      "review_snippet": {
+        "snippet": "Peninsula is a Hong Kong legacy for us locals.",
+        "spans": [
+          { "start_index": 15, "end_index": 19 },
+          { "start_index": 20, "end_index": 24 }
+        ],
+        "review_id": "881728816"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "1068719",
+        "name": "W Hong Kong",
+        "latitude": "22.30495",
+        "longitude": "114.160675",
+        "num_reviews": "7106",
+        "timezone": "Asia/Hong_Kong",
+        "location_string": "Hong Kong",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/28/72/df/fa/exterior.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/28/72/df/fa/exterior.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "2667",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/28/72/df/fa/exterior.jpg",
+              "height": "4000"
+            },
+            "large": {
+              "width": "300",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/28/72/df/fa/exterior.jpg",
+              "height": "450"
+            },
+            "medium": {
+              "width": "137",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/28/72/df/fa/exterior.jpg",
+              "height": "205"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2023-03-13T20:32:02-0400",
+          "caption": "Exterior",
+          "id": "678617082",
+          "helpful_votes": "0",
+          "published_date": "2023-03-13T20:32:02-0400",
+          "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "5.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "municipality", "name": "Municipality" }],
+            "name": "Hong Kong",
+            "abbrv": null,
+            "location_id": "294217"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "China",
+            "abbrv": null,
+            "location_id": "294211"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "1 Austin Road West, Kowloon Station, Kowloon",
+          "street2": "",
+          "city": "Hong Kong",
+          "state": null,
+          "country": "China",
+          "postalcode": ""
+        },
+        "address": "1 Austin Road West, Kowloon Station, Kowloon, Hong Kong China",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 2,606 reviews"
+      },
+      "review_snippet": {
+        "snippet": "Kong whenever we are there in Hong Kong also because of their friendly",
+        "spans": [
+          { "start_index": 0, "end_index": 4 },
+          { "start_index": 30, "end_index": 34 },
+          { "start_index": 35, "end_index": 39 }
+        ],
+        "review_id": "874744861"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "2016610",
+        "name": "The Ritz-Carlton, Hong Kong",
+        "latitude": "22.303461",
+        "longitude": "114.16022",
+        "num_reviews": "7142",
+        "timezone": "Asia/Hong_Kong",
+        "location_string": "Hong Kong",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/25/3c/45/a3/night-view-from-the-ritz.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/25/3c/45/a3/night-view-from-the-ritz.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "4000",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/25/3c/45/a3/night-view-from-the-ritz.jpg",
+              "height": "2667"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/25/3c/45/a3/night-view-from-the-ritz.jpg",
+              "height": "367"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/25/3c/45/a3/night-view-from-the-ritz.jpg",
+              "height": "167"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2022-08-16T13:32:04-0400",
+          "caption": "Night View from The Ritz-Carlton Suite",
+          "id": "624706979",
+          "helpful_votes": "0",
+          "published_date": "2022-08-16T13:32:04-0400",
+          "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "5.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "municipality", "name": "Municipality" }],
+            "name": "Hong Kong",
+            "abbrv": null,
+            "location_id": "294217"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "China",
+            "abbrv": null,
+            "location_id": "294211"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "No.1 Austin Road West",
+          "street2": "International Commerce Center, Kowloon",
+          "city": "Hong Kong",
+          "state": null,
+          "country": "China",
+          "postalcode": ""
+        },
+        "address": "No.1 Austin Road West International Commerce Center, Kowloon, Hong Kong China",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 2,192 reviews"
+      },
+      "review_snippet": {
+        "snippet": "It&#x27;s relatively quick to get to Central via the Hong Kong line but if you",
+        "spans": [
+          { "start_index": 53, "end_index": 57 },
+          { "start_index": 58, "end_index": 62 }
+        ],
+        "review_id": "879617059"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "305392",
+        "name": "Grand Hyatt Hong Kong",
+        "latitude": "22.281391",
+        "longitude": "114.17215",
+        "num_reviews": "4903",
+        "timezone": "Asia/Hong_Kong",
+        "location_string": "Hong Kong",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/24/ff/75/ad/guest-room.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/24/ff/75/ad/guest-room.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "1023",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/24/ff/75/ad/guest-room.jpg",
+              "height": "768"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/24/ff/75/ad/guest-room.jpg",
+              "height": "413"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/24/ff/75/ad/guest-room.jpg",
+              "height": "188"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2022-07-28T11:36:52-0400",
+          "caption": "Guest Room",
+          "id": "620721581",
+          "helpful_votes": "0",
+          "published_date": "2022-07-28T11:36:52-0400",
+          "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "municipality", "name": "Municipality" }],
+            "name": "Hong Kong",
+            "abbrv": null,
+            "location_id": "294217"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "China",
+            "abbrv": null,
+            "location_id": "294211"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "No.1 Harbour Road",
+          "street2": "Wan Chai",
+          "city": "Hong Kong",
+          "state": null,
+          "country": "China",
+          "postalcode": ""
+        },
+        "address": "No.1 Harbour Road Wan Chai, Hong Kong China",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 1,398 reviews"
+      },
+      "review_snippet": {
+        "snippet": "I spent two great nights at the Grand Hyatt Hotel Hong Kong.",
+        "spans": [
+          { "start_index": 50, "end_index": 54 },
+          { "start_index": 55, "end_index": 60 }
+        ],
+        "review_id": "883711999"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "305813",
+        "name": "Cordis, Hong Kong",
+        "latitude": "22.318201",
+        "longitude": "114.16825",
+        "num_reviews": "4117",
+        "timezone": "Asia/Hong_Kong",
+        "location_string": "Hong Kong",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/28/6b/4b/3a/hotel-lobby.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/28/6b/4b/3a/hotel-lobby.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "3000",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/28/6b/4b/3a/hotel-lobby.jpg",
+              "height": "2251"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/28/6b/4b/3a/hotel-lobby.jpg",
+              "height": "413"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/28/6b/4b/3a/hotel-lobby.jpg",
+              "height": "188"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2023-03-09T14:45:17-0500",
+          "caption": "Hotel Lobby",
+          "id": "678120250",
+          "helpful_votes": "0",
+          "published_date": "2023-03-09T14:45:17-0500",
+          "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "5.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "municipality", "name": "Municipality" }],
+            "name": "Hong Kong",
+            "abbrv": null,
+            "location_id": "294217"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "China",
+            "abbrv": null,
+            "location_id": "294211"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "555 Shanghai Street, Mongkok, Kowloon",
+          "street2": null,
+          "city": "Hong Kong",
+          "state": null,
+          "country": "China",
+          "postalcode": ""
+        },
+        "address": "555 Shanghai Street, Mongkok, Kowloon, Hong Kong China",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 1,016 reviews"
+      },
+      "review_snippet": {
+        "snippet": "We can’t recommend Cordis Hong Kong highly enough.",
+        "spans": [
+          { "start_index": 26, "end_index": 30 },
+          { "start_index": 31, "end_index": 35 }
+        ],
+        "review_id": "879022014"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "21371069",
+        "name": "The Hari Hong Kong",
+        "latitude": "22.279009",
+        "longitude": "114.17824",
+        "num_reviews": "384",
+        "timezone": "Asia/Hong_Kong",
+        "location_string": "Hong Kong",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/28/68/50/1f/king-room.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/28/68/50/1f/king-room.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "8680",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/28/68/50/1f/king-room.jpg",
+              "height": "7212"
+            },
+            "large": {
+              "width": "542",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/28/68/50/1f/king-room.jpg",
+              "height": "450"
+            },
+            "medium": {
+              "width": "247",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/28/68/50/1f/king-room.jpg",
+              "height": "205"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2023-03-07T21:40:37-0500",
+          "caption": "King Room",
+          "id": "677924895",
+          "helpful_votes": "0",
+          "published_date": "2023-03-07T21:40:37-0500",
+          "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "5.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "municipality", "name": "Municipality" }],
+            "name": "Hong Kong",
+            "abbrv": null,
+            "location_id": "294217"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "China",
+            "abbrv": null,
+            "location_id": "294211"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "330 Lockhart Road, Wan Chai",
+          "street2": null,
+          "city": "Hong Kong",
+          "state": null,
+          "country": "China",
+          "postalcode": ""
+        },
+        "address": "330 Lockhart Road, Wan Chai, Hong Kong China",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": { "mentioned_by_travelers": "matches 68 reviews" },
+      "review_snippet": {
+        "snippet": "being my 5th time visiting Hong Kong.",
+        "spans": [
+          { "start_index": 27, "end_index": 31 },
+          { "start_index": 32, "end_index": 37 }
+        ],
+        "review_id": "873940025"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "301413",
+        "name": "Mandarin Oriental, Hong Kong",
+        "latitude": "22.28201",
+        "longitude": "114.15937",
+        "num_reviews": "5543",
+        "timezone": "Asia/Hong_Kong",
+        "location_string": "Hong Kong",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/22/d9/b9/b7/the-lobby.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/22/d9/b9/b7/the-lobby.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "3307",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/22/d9/b9/b7/the-lobby.jpg",
+              "height": "4961"
+            },
+            "large": {
+              "width": "300",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/22/d9/b9/b7/the-lobby.jpg",
+              "height": "450"
+            },
+            "medium": {
+              "width": "137",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/22/d9/b9/b7/the-lobby.jpg",
+              "height": "205"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2022-04-05T01:48:56-0400",
+          "caption": "The Lobby",
+          "id": "584694199",
+          "helpful_votes": "0",
+          "published_date": "2022-04-05T01:48:56-0400",
+          "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "5.0",
+        "is_closed": false,
+        "open_now_text": "Open Now",
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "municipality", "name": "Municipality" }],
+            "name": "Hong Kong",
+            "abbrv": null,
+            "location_id": "294217"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "China",
+            "abbrv": null,
+            "location_id": "294211"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "5 Connaught Road",
+          "street2": "Central",
+          "city": "Hong Kong",
+          "state": null,
+          "country": "China",
+          "postalcode": ""
+        },
+        "address": "5 Connaught Road Central, Hong Kong China",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 1,632 reviews"
+      },
+      "review_snippet": {
+        "snippet": "Hotel is located in Central District of Hong Kong.",
+        "spans": [
+          { "start_index": 40, "end_index": 44 },
+          { "start_index": 45, "end_index": 50 }
+        ],
+        "review_id": "880428602"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "548045",
+        "name": "Four Seasons Hotel Hong Kong",
+        "latitude": "22.286741",
+        "longitude": "114.15652",
+        "num_reviews": "6362",
+        "timezone": "Asia/Hong_Kong",
+        "location_string": "Hong Kong",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/1e/3c/98/2f/exterior.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/1e/3c/98/2f/exterior.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "1313",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/1e/3c/98/2f/exterior.jpg",
+              "height": "1050"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/1e/3c/98/2f/exterior.jpg",
+              "height": "440"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/1e/3c/98/2f/exterior.jpg",
+              "height": "200"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2021-09-25T02:07:39-0400",
+          "caption": "Exterior",
+          "id": "507287599",
+          "helpful_votes": "0",
+          "published_date": "2021-09-25T02:07:39-0400",
+          "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "5.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "municipality", "name": "Municipality" }],
+            "name": "Hong Kong",
+            "abbrv": null,
+            "location_id": "294217"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "China",
+            "abbrv": null,
+            "location_id": "294211"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "8 Finance Street",
+          "street2": "Central",
+          "city": "Hong Kong",
+          "state": null,
+          "country": "China",
+          "postalcode": ""
+        },
+        "address": "8 Finance Street Central, Hong Kong China",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 1,979 reviews"
+      },
+      "review_snippet": {
+        "snippet": "visiting Hong Kong.",
+        "spans": [
+          { "start_index": 9, "end_index": 13 },
+          { "start_index": 14, "end_index": 19 }
+        ],
+        "review_id": "880736218"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "583732",
+        "name": "Hong Kong Disneyland Hotel",
+        "latitude": "22.30781",
+        "longitude": "114.04414",
+        "num_reviews": "2818",
+        "timezone": "Asia/Hong_Kong",
+        "location_string": "Hong Kong",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/0e/81/4e/8f/kingdom-club-room.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/0e/81/4e/8f/kingdom-club-room.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "2000",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/0e/81/4e/8f/kingdom-club-room.jpg",
+              "height": "1333"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/0e/81/4e/8f/kingdom-club-room.jpg",
+              "height": "367"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/0e/81/4e/8f/kingdom-club-room.jpg",
+              "height": "167"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2017-02-22T21:21:34-0500",
+          "caption": "Kingdom Club Room",
+          "id": "243355279",
+          "helpful_votes": "25",
+          "published_date": "2017-02-22T21:21:34-0500",
+          "user": { "user_id": null, "member_id": "0", "type": "user" }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "municipality", "name": "Municipality" }],
+            "name": "Hong Kong",
+            "abbrv": null,
+            "location_id": "294217"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "China",
+            "abbrv": null,
+            "location_id": "294211"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Disneyland, Lantau Island",
+          "street2": "",
+          "city": "Hong Kong",
+          "state": null,
+          "country": "China",
+          "postalcode": ""
+        },
+        "address": "Disneyland, Lantau Island, Hong Kong China",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 461 reviews"
+      },
+      "review_snippet": {
+        "snippet": "Hong Kong Disneyland hotel is always the first choice for our family gathering",
+        "spans": [
+          { "start_index": 0, "end_index": 4 },
+          { "start_index": 5, "end_index": 9 }
+        ],
+        "review_id": "867169368"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "things_to_do",
+      "result_object": {
+        "location_id": "543602",
+        "name": "Hong Kong Disneyland",
+        "latitude": "22.31292",
+        "longitude": "114.0421",
+        "num_reviews": "17313",
+        "timezone": "Asia/Hong_Kong",
+        "location_string": "Hong Kong",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/12/52/a7/a5/hong-kong-disneyland.jpg",
+              "height": "141"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/12/52/a7/a5/hong-kong-disneyland.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "2000",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/12/52/a7/a5/hong-kong-disneyland.jpg",
+              "height": "1125"
+            },
+            "large": {
+              "width": "1024",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-w/12/52/a7/a5/hong-kong-disneyland.jpg",
+              "height": "576"
+            },
+            "medium": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/12/52/a7/a5/hong-kong-disneyland.jpg",
+              "height": "309"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2018-03-14T02:23:37-0400",
+          "caption": "Hong Kong Disneyland",
+          "id": "307406757",
+          "helpful_votes": "87",
+          "published_date": "2018-03-14T02:23:37-0400",
+          "user": { "user_id": null, "member_id": "0", "type": "user" }
+        },
+        "awards": [],
+        "location_subtype": "none",
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.0",
+        "is_closed": false,
+        "open_now_text": "Closed Now",
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "municipality", "name": "Municipality" }],
+            "name": "Hong Kong",
+            "abbrv": null,
+            "location_id": "294217"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "China",
+            "abbrv": null,
+            "location_id": "294211"
+          }
+        ],
+        "category": { "key": "attraction", "name": "Attraction" },
+        "subcategory": [{ "key": "52", "name": "Water & Amusement Parks" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Lantau Island",
+          "street2": "",
+          "city": "Hong Kong",
+          "state": null,
+          "country": "China",
+          "postalcode": ""
+        },
+        "address": "Lantau Island, Hong Kong China",
+        "is_candidate_for_contact_info_suppression": false
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 3,070 reviews"
+      },
+      "review_snippet": {
+        "snippet": "We were conflicted before travelling to Hong Kong, whether to opt for the",
+        "spans": [
+          { "start_index": 40, "end_index": 44 },
+          { "start_index": 45, "end_index": 49 }
+        ],
+        "review_id": "884245730"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "things_to_do",
+      "result_object": {
+        "location_id": "4138712",
+        "name": "Hong Kong Market",
+        "latitude": "26.715857",
+        "longitude": "88.42492",
+        "num_reviews": "164",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Siliguri, Darjeeling District, West Bengal",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/0d/9e/c5/a7/hong-kong-market-siliguri.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/0d/9e/c5/a7/hong-kong-market-siliguri.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "2000",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/0d/9e/c5/a7/hong-kong-market-siliguri.jpg",
+              "height": "1500"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/0d/9e/c5/a7/hong-kong-market-siliguri.jpg",
+              "height": "413"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/0d/9e/c5/a7/hong-kong-market-siliguri.jpg",
+              "height": "188"
+            }
+          },
+          "is_blessed": false,
+          "uploaded_date": "2016-11-14T10:31:08-0500",
+          "caption": "Hong Kong Market, Siliguri.",
+          "id": "228509095",
+          "helpful_votes": "35",
+          "published_date": "2016-11-14T10:31:08-0500",
+          "user": { "user_id": null, "member_id": "0", "type": "user" }
+        },
+        "awards": [],
+        "location_subtype": "none",
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "3.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "ride_providers": ["olaCabs"],
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "municipality", "name": "Municipality" }],
+            "name": "Siliguri",
+            "abbrv": null,
+            "location_id": "659786"
+          },
+          {
+            "subcategory": [{ "key": "district", "name": "District" }],
+            "name": "Darjeeling District",
+            "abbrv": null,
+            "location_id": "12417628"
+          },
+          {
+            "subcategory": [{ "key": "state", "name": "State" }],
+            "name": "West Bengal",
+            "abbrv": null,
+            "location_id": "297692"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "India",
+            "abbrv": null,
+            "location_id": "293860"
+          }
+        ],
+        "category": { "key": "attraction", "name": "Attraction" },
+        "subcategory": [{ "key": "26", "name": "Shopping" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Centre Of The City",
+          "street2": null,
+          "city": "Siliguri",
+          "state": "West Bengal",
+          "country": "India",
+          "postalcode": "734001"
+        },
+        "address": "Centre Of The City, Siliguri 734001 India",
+        "is_candidate_for_contact_info_suppression": false
+      },
+      "search_explanations": { "mentioned_by_travelers": "matches 26 reviews" },
+      "review_snippet": {
+        "snippet": "Really it is amazing experience to visit Hong Kong Market.",
+        "spans": [
+          { "start_index": 41, "end_index": 45 },
+          { "start_index": 46, "end_index": 50 }
+        ],
+        "review_id": "732351685"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "1590819",
+        "name": "EAST Hong Kong",
+        "latitude": "22.286062",
+        "longitude": "114.21619",
+        "num_reviews": "1431",
+        "timezone": "Asia/Hong_Kong",
+        "location_string": "Hong Kong",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/21/5e/3f/50/exterior-view.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/21/5e/3f/50/exterior-view.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "1024",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/21/5e/3f/50/exterior-view.jpg",
+              "height": "768"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/21/5e/3f/50/exterior-view.jpg",
+              "height": "413"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/21/5e/3f/50/exterior-view.jpg",
+              "height": "188"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2021-11-11T01:34:40-0500",
+          "caption": "Exterior view",
+          "id": "559824720",
+          "helpful_votes": "0",
+          "published_date": "2021-11-11T01:34:40-0500",
+          "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "municipality", "name": "Municipality" }],
+            "name": "Hong Kong",
+            "abbrv": null,
+            "location_id": "294217"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "China",
+            "abbrv": null,
+            "location_id": "294211"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "29 Taikoo Shing Road, Taikoo Shing",
+          "street2": "",
+          "city": "Hong Kong",
+          "state": null,
+          "country": "China",
+          "postalcode": "32441"
+        },
+        "address": "29 Taikoo Shing Road, Taikoo Shing, Hong Kong 32441 China",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 420 reviews"
+      },
+      "review_snippet": {
+        "snippet": "I love the trendy bar Sugar located in East Hong Kong.",
+        "spans": [
+          { "start_index": 44, "end_index": 48 },
+          { "start_index": 49, "end_index": 54 }
+        ],
+        "review_id": "884090531"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "1235711",
+        "name": "Dorsett Mongkok Hong Kong",
+        "latitude": "22.321283",
+        "longitude": "114.1622",
+        "num_reviews": "5569",
+        "timezone": "Asia/Hong_Kong",
+        "location_string": "Hong Kong",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/08/05/5c/d6/thai-pad-restaurant--v6704917.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/08/05/5c/d6/thai-pad-restaurant--v6704917.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "2600",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/08/05/5c/d6/thai-pad-restaurant--v6704917.jpg",
+              "height": "1733"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/08/05/5c/d6/thai-pad-restaurant--v6704917.jpg",
+              "height": "450"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/08/05/5c/d6/thai-pad-restaurant--v6704917.jpg",
+              "height": "205"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2015-03-04T15:54:26-0500",
+          "caption": "Oneonefishone Restaurant at the Dorsett Mongkok Hong Kong",
+          "id": "134569174",
+          "helpful_votes": "2",
+          "published_date": "2015-06-03T05:38:37-0400",
+          "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "municipality", "name": "Municipality" }],
+            "name": "Hong Kong",
+            "abbrv": null,
+            "location_id": "294217"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "China",
+            "abbrv": null,
+            "location_id": "294211"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "No.88 Tai Kok Tsui Road, Kowloon",
+          "street2": "",
+          "city": "Hong Kong",
+          "state": null,
+          "country": "China",
+          "postalcode": ""
+        },
+        "address": "No.88 Tai Kok Tsui Road, Kowloon, Hong Kong China",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 1,502 reviews"
+      },
+      "review_snippet": {
+        "snippet": "This hotel has been my go-to hotel when travelling back to Hong Kong.",
+        "spans": [
+          { "start_index": 59, "end_index": 63 },
+          { "start_index": 64, "end_index": 69 }
+        ],
+        "review_id": "875542320"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "302504",
+        "name": "New World Millennium Hong Kong Hotel",
+        "latitude": "22.299593",
+        "longitude": "114.17973",
+        "num_reviews": "2556",
+        "timezone": "Asia/Hong_Kong",
+        "location_string": "Hong Kong",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/1d/0b/3b/3a/nwmhk-elite-harbour-view.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/1d/0b/3b/3a/nwmhk-elite-harbour-view.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "1822",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/1d/0b/3b/3a/nwmhk-elite-harbour-view.jpg",
+              "height": "1162"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/1d/0b/3b/3a/nwmhk-elite-harbour-view.jpg",
+              "height": "351"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/1d/0b/3b/3a/nwmhk-elite-harbour-view.jpg",
+              "height": "159"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2021-05-28T01:53:02-0400",
+          "caption": "NWMHK Elite Harbour View Room",
+          "id": "487275322",
+          "helpful_votes": "0",
+          "published_date": "2021-05-28T01:53:02-0400",
+          "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "open_now_text": "Open Now",
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "municipality", "name": "Municipality" }],
+            "name": "Hong Kong",
+            "abbrv": null,
+            "location_id": "294217"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "China",
+            "abbrv": null,
+            "location_id": "294211"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "72 Mody Road",
+          "street2": "Kowloon",
+          "city": "Hong Kong",
+          "state": null,
+          "country": "China",
+          "postalcode": ""
+        },
+        "address": "72 Mody Road Kowloon, Hong Kong China",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 526 reviews"
+      },
+      "review_snippet": {
+        "snippet": "Kong to support the Hotel and contribute to Hong Kong tourism.",
+        "spans": [
+          { "start_index": 0, "end_index": 4 },
+          { "start_index": 44, "end_index": 48 },
+          { "start_index": 49, "end_index": 53 }
+        ],
+        "review_id": "878618238"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "24150221",
+        "name": "The Fullerton Ocean Park Hotel Hong Kong",
+        "latitude": "22.236912",
+        "longitude": "114.16554",
+        "num_reviews": "706",
+        "timezone": "Asia/Hong_Kong",
+        "location_string": "Hong Kong",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/24/74/e0/5f/balcony-oceanfront-lookout.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/24/74/e0/5f/balcony-oceanfront-lookout.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "3000",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/24/74/e0/5f/balcony-oceanfront-lookout.jpg",
+              "height": "2000"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/24/74/e0/5f/balcony-oceanfront-lookout.jpg",
+              "height": "367"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/24/74/e0/5f/balcony-oceanfront-lookout.jpg",
+              "height": "167"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2022-07-03T22:12:02-0400",
+          "caption": "Balcony Oceanfront Lookout",
+          "id": "611639391",
+          "helpful_votes": "2",
+          "published_date": "2022-07-03T22:12:02-0400",
+          "user": { "user_id": null, "member_id": "0", "type": "user" }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "municipality", "name": "Municipality" }],
+            "name": "Hong Kong",
+            "abbrv": null,
+            "location_id": "294217"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "China",
+            "abbrv": null,
+            "location_id": "294211"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "3 Ocean Drive, Aberdeen",
+          "street2": null,
+          "city": "Hong Kong",
+          "state": null,
+          "country": "China",
+          "postalcode": null
+        },
+        "address": "3 Ocean Drive, Aberdeen, Hong Kong China",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": { "mentioned_by_travelers": "matches 59 reviews" },
+      "review_snippet": {
+        "snippet": "This resort is a real gem on the south side of Hong Kong island.",
+        "spans": [
+          { "start_index": 47, "end_index": 51 },
+          { "start_index": 52, "end_index": 56 }
+        ],
+        "review_id": "875285975"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "305371",
+        "name": "Conrad Hong Kong",
+        "latitude": "22.277134",
+        "longitude": "114.16519",
+        "num_reviews": "4507",
+        "timezone": "Asia/Hong_Kong",
+        "location_string": "Hong Kong",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/25/bb/0a/f9/exterior.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/25/bb/0a/f9/exterior.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "829",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/25/bb/0a/f9/exterior.jpg",
+              "height": "1023"
+            },
+            "large": {
+              "width": "365",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/25/bb/0a/f9/exterior.jpg",
+              "height": "450"
+            },
+            "medium": {
+              "width": "166",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/25/bb/0a/f9/exterior.jpg",
+              "height": "205"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2022-09-10T01:23:05-0400",
+          "caption": "Exterior",
+          "id": "633015033",
+          "helpful_votes": "0",
+          "published_date": "2022-09-10T01:23:05-0400",
+          "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "municipality", "name": "Municipality" }],
+            "name": "Hong Kong",
+            "abbrv": null,
+            "location_id": "294217"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "China",
+            "abbrv": null,
+            "location_id": "294211"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Pacific Place",
+          "street2": "88 Queensway",
+          "city": "Hong Kong",
+          "state": null,
+          "country": "China",
+          "postalcode": ""
+        },
+        "address": "Pacific Place 88 Queensway, Hong Kong China",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 1,641 reviews"
+      },
+      "review_snippet": {
+        "snippet": "Next time visiting Hong Kong.",
+        "spans": [
+          { "start_index": 19, "end_index": 23 },
+          { "start_index": 24, "end_index": 29 }
+        ],
+        "review_id": "874806892"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "21982236",
+        "name": "Sheraton Hong Kong Tung Chung Hotel",
+        "latitude": "22.295292",
+        "longitude": "113.94654",
+        "num_reviews": "663",
+        "timezone": "Asia/Hong_Kong",
+        "location_string": "Hong Kong",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/27/ff/11/bc/deluxe-ocean-view-room.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/27/ff/11/bc/deluxe-ocean-view-room.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "4000",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/27/ff/11/bc/deluxe-ocean-view-room.jpg",
+              "height": "2667"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/27/ff/11/bc/deluxe-ocean-view-room.jpg",
+              "height": "367"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/27/ff/11/bc/deluxe-ocean-view-room.jpg",
+              "height": "167"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2023-01-24T22:09:13-0500",
+          "caption": "Deluxe Ocean View Room - King",
+          "id": "671027644",
+          "helpful_votes": "0",
+          "published_date": "2023-01-24T22:09:13-0500",
+          "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "5.0",
+        "is_closed": false,
+        "open_now_text": "Open Now",
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "municipality", "name": "Municipality" }],
+            "name": "Hong Kong",
+            "abbrv": null,
+            "location_id": "294217"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "China",
+            "abbrv": null,
+            "location_id": "294211"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "9 Yi Tung Road",
+          "street2": "Tung Chung, Lantau Island",
+          "city": "Hong Kong",
+          "state": null,
+          "country": "China",
+          "postalcode": null
+        },
+        "address": "9 Yi Tung Road Tung Chung, Lantau Island, Hong Kong China",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": { "mentioned_by_travelers": "matches 99 reviews" },
+      "review_snippet": {
+        "snippet": "anyone visiting Hong Kong.",
+        "spans": [
+          { "start_index": 16, "end_index": 20 },
+          { "start_index": 21, "end_index": 26 }
+        ],
+        "review_id": "884595245"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "14100595",
+        "name": "Hyatt Centric Victoria Harbour Hong Kong",
+        "latitude": "22.292843",
+        "longitude": "114.19934",
+        "num_reviews": "3135",
+        "timezone": "Asia/Hong_Kong",
+        "location_string": "Hong Kong",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/27/c3/fc/5a/pool.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/27/c3/fc/5a/pool.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "1024",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/27/c3/fc/5a/pool.jpg",
+              "height": "819"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/27/c3/fc/5a/pool.jpg",
+              "height": "440"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/27/c3/fc/5a/pool.jpg",
+              "height": "200"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2023-01-10T16:53:43-0500",
+          "caption": "Pool",
+          "id": "667155546",
+          "helpful_votes": "0",
+          "published_date": "2023-01-10T16:53:43-0500",
+          "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "municipality", "name": "Municipality" }],
+            "name": "Hong Kong",
+            "abbrv": null,
+            "location_id": "294217"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "China",
+            "abbrv": null,
+            "location_id": "294211"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "1 North Point Estate Lane, North Point",
+          "street2": null,
+          "city": "Hong Kong",
+          "state": null,
+          "country": "China",
+          "postalcode": null
+        },
+        "address": "1 North Point Estate Lane, North Point, Hong Kong China",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 355 reviews"
+      },
+      "review_snippet": {
+        "snippet": "I have to say that staying at Hyatt Centric Victoria Harbour Hong Kong",
+        "spans": [
+          { "start_index": 61, "end_index": 65 },
+          { "start_index": 66, "end_index": 70 }
+        ],
+        "review_id": "875717392"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "16913872",
+        "name": "The St. Regis Hong Kong",
+        "latitude": "22.280441",
+        "longitude": "114.174576",
+        "num_reviews": "1253",
+        "timezone": "Asia/Hong_Kong",
+        "location_string": "Hong Kong",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/27/aa/eb/cf/lobby.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/27/aa/eb/cf/lobby.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "4000",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/27/aa/eb/cf/lobby.jpg",
+              "height": "2666"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/27/aa/eb/cf/lobby.jpg",
+              "height": "367"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/27/aa/eb/cf/lobby.jpg",
+              "height": "167"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2023-01-04T07:56:55-0500",
+          "caption": "Lobby",
+          "id": "665512911",
+          "helpful_votes": "0",
+          "published_date": "2023-01-04T07:56:55-0500",
+          "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "5.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "municipality", "name": "Municipality" }],
+            "name": "Hong Kong",
+            "abbrv": null,
+            "location_id": "294217"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "China",
+            "abbrv": null,
+            "location_id": "294211"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "One Harbour Drive",
+          "street2": "Wan Chai",
+          "city": "Hong Kong",
+          "state": null,
+          "country": "China",
+          "postalcode": null
+        },
+        "address": "One Harbour Drive Wan Chai, Hong Kong China",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 387 reviews"
+      },
+      "review_snippet": {
+        "snippet": "This is one of the top rated hotels in all of Hong Kong and it certainly",
+        "spans": [
+          { "start_index": 46, "end_index": 50 },
+          { "start_index": 51, "end_index": 55 }
+        ],
+        "review_id": "870906392"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "304490",
+        "name": "The Langham, Hong Kong",
+        "latitude": "22.296331",
+        "longitude": "114.16982",
+        "num_reviews": "3241",
+        "timezone": "Asia/Hong_Kong",
+        "location_string": "Hong Kong",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/26/e3/30/cb/lobby.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/26/e3/30/cb/lobby.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "2395",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/26/e3/30/cb/lobby.jpg",
+              "height": "1794"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/26/e3/30/cb/lobby.jpg",
+              "height": "412"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/26/e3/30/cb/lobby.jpg",
+              "height": "187"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2022-11-16T11:20:12-0500",
+          "caption": "Lobby",
+          "id": "652423371",
+          "helpful_votes": "0",
+          "published_date": "2022-11-16T11:20:12-0500",
+          "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "municipality", "name": "Municipality" }],
+            "name": "Hong Kong",
+            "abbrv": null,
+            "location_id": "294217"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "China",
+            "abbrv": null,
+            "location_id": "294211"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "8 Peking Road, Tsim Sha Tsui, Kowloon",
+          "street2": null,
+          "city": "Hong Kong",
+          "state": null,
+          "country": "China",
+          "postalcode": ""
+        },
+        "address": "8 Peking Road, Tsim Sha Tsui, Kowloon, Hong Kong China",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 1,039 reviews"
+      },
+      "review_snippet": {
+        "snippet": "to stay a full week in The Langham Hotel Hong Kong.",
+        "spans": [
+          { "start_index": 41, "end_index": 45 },
+          { "start_index": 46, "end_index": 51 }
+        ],
+        "review_id": "871532161"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "things_to_do",
+      "result_object": {
+        "location_id": "2482919",
+        "name": "Hong Kong Skyline",
+        "latitude": "22.293068",
+        "longitude": "114.1705",
+        "num_reviews": "14722",
+        "timezone": "Asia/Hong_Kong",
+        "location_string": "Hong Kong",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/17/e1/df/05/photo0jpg.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/17/e1/df/05/photo0jpg.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "1280",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/17/e1/df/05/photo0jpg.jpg",
+              "height": "960"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/17/e1/df/05/photo0jpg.jpg",
+              "height": "413"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/17/e1/df/05/photo0jpg.jpg",
+              "height": "188"
+            }
+          },
+          "is_blessed": false,
+          "uploaded_date": "2019-06-11T04:40:37-0400",
+          "caption": "",
+          "id": "400678661",
+          "helpful_votes": "3",
+          "published_date": "2019-06-11T04:40:37-0400",
+          "user": { "user_id": null, "member_id": "0", "type": "user" }
+        },
+        "awards": [],
+        "location_subtype": "none",
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "municipality", "name": "Municipality" }],
+            "name": "Hong Kong",
+            "abbrv": null,
+            "location_id": "294217"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "China",
+            "abbrv": null,
+            "location_id": "294211"
+          }
+        ],
+        "category": { "key": "attraction", "name": "Attraction" },
+        "subcategory": [{ "key": "47", "name": "Sights & Landmarks" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Hong Kong Island, along Victoria Harbor",
+          "street2": "",
+          "city": "Hong Kong",
+          "state": null,
+          "country": "China",
+          "postalcode": ""
+        },
+        "address": "Hong Kong Island, along Victoria Harbor, Hong Kong China",
+        "is_candidate_for_contact_info_suppression": false
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 4,163 reviews"
+      },
+      "review_snippet": {
+        "snippet": "Skyline - a row of skyscrapers on the shores of Victoria Bay on Hong Kong",
+        "spans": [
+          { "start_index": 64, "end_index": 68 },
+          { "start_index": 69, "end_index": 73 }
+        ],
+        "review_id": "866805816"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "308456",
+        "name": "Stanford Hotel Hong Kong",
+        "latitude": "22.317263",
+        "longitude": "114.17314",
+        "num_reviews": "981",
+        "timezone": "Asia/Hong_Kong",
+        "location_string": "Hong Kong",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/09/50/4e/8b/stanford-hotel-hong-kong.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/09/50/4e/8b/stanford-hotel-hong-kong.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "2000",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/09/50/4e/8b/stanford-hotel-hong-kong.jpg",
+              "height": "1333"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/09/50/4e/8b/stanford-hotel-hong-kong.jpg",
+              "height": "367"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/09/50/4e/8b/stanford-hotel-hong-kong.jpg",
+              "height": "167"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2015-10-24T03:48:22-0400",
+          "caption": "Lobby",
+          "id": "156257931",
+          "helpful_votes": "3",
+          "published_date": "2015-10-24T03:48:22-0400",
+          "user": { "user_id": null, "member_id": "0", "type": "user" }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "municipality", "name": "Municipality" }],
+            "name": "Hong Kong",
+            "abbrv": null,
+            "location_id": "294217"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "China",
+            "abbrv": null,
+            "location_id": "294211"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "No.118 Soy Street, Mongkok, Kowloon",
+          "street2": "",
+          "city": "Hong Kong",
+          "state": null,
+          "country": "China",
+          "postalcode": ""
+        },
+        "address": "No.118 Soy Street, Mongkok, Kowloon, Hong Kong China",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 246 reviews"
+      },
+      "review_snippet": {
+        "snippet": "It&#x27;s located in Mongkok, one of the most crowded districts in Hong Kong.",
+        "spans": [
+          { "start_index": 67, "end_index": 71 },
+          { "start_index": 72, "end_index": 77 }
+        ],
+        "review_id": "853791042"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "13009537",
+        "name": "The Murray, Hong Kong, a Niccolo Hotel",
+        "latitude": "22.278177",
+        "longitude": "114.159966",
+        "num_reviews": "3895",
+        "timezone": "Asia/Hong_Kong",
+        "location_string": "Hong Kong",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/23/cf/cf/c7/themurraymurray-lane.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/23/cf/cf/c7/themurraymurray-lane.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "3508",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/23/cf/cf/c7/themurraymurray-lane.jpg",
+              "height": "2629"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/23/cf/cf/c7/themurraymurray-lane.jpg",
+              "height": "412"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/23/cf/cf/c7/themurraymurray-lane.jpg",
+              "height": "187"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2022-06-08T02:48:38-0400",
+          "caption": "THEMURRAYMurray Lane Driveway",
+          "id": "600821703",
+          "helpful_votes": "0",
+          "published_date": "2022-06-08T02:48:38-0400",
+          "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "5.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "municipality", "name": "Municipality" }],
+            "name": "Hong Kong",
+            "abbrv": null,
+            "location_id": "294217"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "China",
+            "abbrv": null,
+            "location_id": "294211"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "No.22 Cotton Tree Drive Central",
+          "street2": null,
+          "city": "Hong Kong",
+          "state": null,
+          "country": "China",
+          "postalcode": null
+        },
+        "address": "No.22 Cotton Tree Drive Central, Hong Kong China",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 478 reviews"
+      },
+      "review_snippet": {
+        "snippet": "Hong Kong park is accessible easily.",
+        "spans": [
+          { "start_index": 0, "end_index": 4 },
+          { "start_index": 5, "end_index": 9 }
+        ],
+        "review_id": "884517840"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "11643657",
+        "name": "Kerry Hotel Hong Kong",
+        "latitude": "22.300932",
+        "longitude": "114.18788",
+        "num_reviews": "1244",
+        "timezone": "Asia/Hong_Kong",
+        "location_string": "Hong Kong",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/27/22/40/4e/kerry-hotel-hong-kong.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/27/22/40/4e/kerry-hotel-hong-kong.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "1023",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/27/22/40/4e/kerry-hotel-hong-kong.jpg",
+              "height": "682"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/27/22/40/4e/kerry-hotel-hong-kong.jpg",
+              "height": "367"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/27/22/40/4e/kerry-hotel-hong-kong.jpg",
+              "height": "167"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2022-12-01T16:51:03-0500",
+          "caption": "Kerry Hotel Hong Kong Deluxe City View King",
+          "id": "656556110",
+          "helpful_votes": "0",
+          "published_date": "2022-12-01T16:51:03-0500",
+          "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "municipality", "name": "Municipality" }],
+            "name": "Hong Kong",
+            "abbrv": null,
+            "location_id": "294217"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "China",
+            "abbrv": null,
+            "location_id": "294211"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "38 Hung Luen Road, Hung Hom Bay, Kowloon",
+          "street2": null,
+          "city": "Hong Kong",
+          "state": null,
+          "country": "China",
+          "postalcode": null
+        },
+        "address": "38 Hung Luen Road, Hung Hom Bay, Kowloon, Hong Kong China",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 248 reviews"
+      },
+      "review_snippet": {
+        "snippet": "Kong and with easy reach to many of Hong Kong’s famous attractions!",
+        "spans": [
+          { "start_index": 0, "end_index": 4 },
+          { "start_index": 36, "end_index": 40 },
+          { "start_index": 41, "end_index": 47 }
+        ],
+        "review_id": "880055940"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "things_to_do",
+      "result_object": {
+        "location_id": "311565",
+        "name": "Hong Kong Park",
+        "latitude": "22.27764",
+        "longitude": "114.1617",
+        "num_reviews": "3140",
+        "timezone": "Asia/Hong_Kong",
+        "location_string": "Hong Kong",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/01/5f/d8/5b/hong-kong-park.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/01/5f/d8/5b/hong-kong-park.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "448",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/01/5f/d8/5b/hong-kong-park.jpg",
+              "height": "604"
+            },
+            "large": {
+              "width": "448",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/01/5f/d8/5b/hong-kong-park.jpg",
+              "height": "604"
+            },
+            "medium": {
+              "width": "333",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/01/5f/d8/5b/hong-kong-park.jpg",
+              "height": "450"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2009-12-27T04:19:17-0500",
+          "caption": "",
+          "id": "23058523",
+          "helpful_votes": "17",
+          "published_date": "2009-12-27T04:19:09-0500",
+          "user": { "user_id": null, "member_id": "0", "type": "user" }
+        },
+        "awards": [],
+        "location_subtype": "none",
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "open_now_text": "Closed Now",
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "municipality", "name": "Municipality" }],
+            "name": "Hong Kong",
+            "abbrv": null,
+            "location_id": "294217"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "China",
+            "abbrv": null,
+            "location_id": "294211"
+          }
+        ],
+        "category": { "key": "attraction", "name": "Attraction" },
+        "subcategory": [{ "key": "57", "name": "Nature & Parks" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "19 Cotton Tree Dr, Central",
+          "street2": "",
+          "city": "Hong Kong",
+          "state": null,
+          "country": "China",
+          "postalcode": ""
+        },
+        "address": "19 Cotton Tree Dr, Central, Hong Kong China",
+        "is_candidate_for_contact_info_suppression": false
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 722 reviews"
+      },
+      "review_snippet": {
+        "snippet": "Great oasis in Hong Kong Island to walk around - there&#x27;s a waterfall, and",
+        "spans": [
+          { "start_index": 15, "end_index": 19 },
+          { "start_index": 20, "end_index": 24 }
+        ],
+        "review_id": "878049344"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "things_to_do",
+      "result_object": {
+        "location_id": "311604",
+        "name": "Hong Kong Museum of History",
+        "latitude": "22.301949",
+        "longitude": "114.17759",
+        "num_reviews": "3697",
+        "timezone": "Asia/Hong_Kong",
+        "location_string": "Hong Kong",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/0c/5e/56/13/hong-kong-museum-of-history.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/0c/5e/56/13/hong-kong-museum-of-history.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "800",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/0c/5e/56/13/hong-kong-museum-of-history.jpg",
+              "height": "534"
+            },
+            "large": {
+              "width": "800",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/0c/5e/56/13/hong-kong-museum-of-history.jpg",
+              "height": "534"
+            },
+            "medium": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/0c/5e/56/13/hong-kong-museum-of-history.jpg",
+              "height": "367"
+            }
+          },
+          "is_blessed": false,
+          "uploaded_date": "2016-08-04T09:00:23-0400",
+          "caption": "Hong Kong Museum of History",
+          "id": "207509011",
+          "helpful_votes": "5",
+          "published_date": "2016-08-04T09:00:23-0400",
+          "user": { "user_id": null, "member_id": "0", "type": "user" }
+        },
+        "awards": [],
+        "location_subtype": "none",
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "open_now_text": "Closed Now",
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "municipality", "name": "Municipality" }],
+            "name": "Hong Kong",
+            "abbrv": null,
+            "location_id": "294217"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "China",
+            "abbrv": null,
+            "location_id": "294211"
+          }
+        ],
+        "category": { "key": "attraction", "name": "Attraction" },
+        "subcategory": [{ "key": "49", "name": "Museums" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "100 Chatham Rd S, Tsim Sha Tsui East, Kowloon",
+          "street2": "",
+          "city": "Hong Kong",
+          "state": null,
+          "country": "China",
+          "postalcode": ""
+        },
+        "address": "100 Chatham Rd S, Tsim Sha Tsui East, Kowloon, Hong Kong China",
+        "is_candidate_for_contact_info_suppression": false
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 1,653 reviews"
+      },
+      "review_snippet": {
+        "snippet": "This was probably the tenth time I have visited Hong Kong museum of history",
+        "spans": [
+          { "start_index": 48, "end_index": 52 },
+          { "start_index": 53, "end_index": 57 }
+        ],
+        "review_id": "880469656"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "1438231",
+        "name": "Harbour Grand Hong Kong",
+        "latitude": "22.289074",
+        "longitude": "114.1918",
+        "num_reviews": "4905",
+        "timezone": "Asia/Hong_Kong",
+        "location_string": "Hong Kong",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/1d/67/95/32/exterior-view.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/1d/67/95/32/exterior-view.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "826",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/1d/67/95/32/exterior-view.jpg",
+              "height": "1024"
+            },
+            "large": {
+              "width": "363",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/1d/67/95/32/exterior-view.jpg",
+              "height": "450"
+            },
+            "medium": {
+              "width": "165",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/1d/67/95/32/exterior-view.jpg",
+              "height": "205"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2021-07-21T10:37:04-0400",
+          "caption": "Exterior view",
+          "id": "493327666",
+          "helpful_votes": "1",
+          "published_date": "2021-07-21T10:37:04-0400",
+          "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "municipality", "name": "Municipality" }],
+            "name": "Hong Kong",
+            "abbrv": null,
+            "location_id": "294217"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "China",
+            "abbrv": null,
+            "location_id": "294211"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "No.23 Oil Street, North Point",
+          "street2": "MTR Fortress Hill Station, Exit A",
+          "city": "Hong Kong",
+          "state": null,
+          "country": "China",
+          "postalcode": ""
+        },
+        "address": "No.23 Oil Street, North Point MTR Fortress Hill Station, Exit A, Hong Kong China",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 1,519 reviews"
+      },
+      "review_snippet": {
+        "snippet": "I have spent a month in Harbour Grand Hong Kong for my visit in Hong Kong",
+        "spans": [
+          { "start_index": 38, "end_index": 42 },
+          { "start_index": 43, "end_index": 47 },
+          { "start_index": 64, "end_index": 68 },
+          { "start_index": 69, "end_index": 73 }
+        ],
+        "review_id": "871289751"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "1415169",
+        "name": "Mini Hotel Central Hong Kong",
+        "latitude": "22.28027",
+        "longitude": "114.15607",
+        "num_reviews": "1698",
+        "timezone": "Asia/Hong_Kong",
+        "location_string": "Hong Kong",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/04/ba/ef/61/mini-hotel-central-hong.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/04/ba/ef/61/mini-hotel-central-hong.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "1920",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/04/ba/ef/61/mini-hotel-central-hong.jpg",
+              "height": "1252"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/04/ba/ef/61/mini-hotel-central-hong.jpg",
+              "height": "358"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/04/ba/ef/61/mini-hotel-central-hong.jpg",
+              "height": "163"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2013-10-25T22:40:45-0400",
+          "caption": "Smart Plus",
+          "id": "79359841",
+          "helpful_votes": "7",
+          "published_date": "2013-10-25T22:40:45-0400",
+          "user": { "user_id": null, "member_id": "0", "type": "user" }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "3.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "municipality", "name": "Municipality" }],
+            "name": "Hong Kong",
+            "abbrv": null,
+            "location_id": "294217"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "China",
+            "abbrv": null,
+            "location_id": "294211"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "No.38 Ice House Street, Lan Kwai Fong, Central",
+          "street2": "",
+          "city": "Hong Kong",
+          "state": null,
+          "country": "China",
+          "postalcode": ""
+        },
+        "address": "No.38 Ice House Street, Lan Kwai Fong, Central, Hong Kong China",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 337 reviews"
+      },
+      "review_snippet": {
+        "snippet": "The rooms are very small buy, hey, this is Hong Kong.",
+        "spans": [
+          { "start_index": 43, "end_index": 47 },
+          { "start_index": 48, "end_index": 53 }
+        ],
+        "review_id": "735441113"
+      },
+      "scope": "local"
+    }
+  ],
+  "metadata": { "scope": "local" },
+  "sort": [
+    {
+      "filter_key": "relevance",
+      "label": "Relevance",
+      "locale_independent_label": "relevance",
+      "selected": true
+    },
+    {
+      "filter_key": "distance",
+      "label": "Distance",
+      "locale_independent_label": "distance",
+      "selected": false
+    }
+  ],
+  "partial_content": false,
+  "tracking": { "search_id": "20786A850CF2445DB77364FB7087D4841680815078018" },
+  "paging": { "results": "30", "total_results": "52256" }
+}

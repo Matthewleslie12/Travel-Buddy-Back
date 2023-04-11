@@ -1,0 +1,3297 @@
+{
+  "data": [
+    {
+      "result_type": "geos",
+      "result_object": {
+        "location_id": "187460",
+        "name": "Ibiza",
+        "latitude": "39.016834",
+        "longitude": "1.463359",
+        "num_reviews": "554236",
+        "timezone": "Europe/Madrid",
+        "location_string": "Ibiza, Balearic Islands",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/14/10/2e/a4/ibiza.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/14/10/2e/a4/ibiza.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "5817",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/14/10/2e/a4/ibiza.jpg",
+              "height": "3379"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/14/10/2e/a4/ibiza.jpg",
+              "height": "319"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/14/10/2e/a4/ibiza.jpg",
+              "height": "145"
+            }
+          },
+          "is_blessed": false,
+          "uploaded_date": "2018-08-09T12:30:25-0400",
+          "caption": "",
+          "id": "336604836",
+          "helpful_votes": "70",
+          "published_date": "2018-08-09T12:30:25-0400",
+          "user": null
+        },
+        "awards": [],
+        "doubleclick_zone": "eu.spain.ibiza",
+        "preferred_map_engine": "default",
+        "geo_type": "narrow",
+        "category_counts": {
+          "attractions": {
+            "activities": "571",
+            "attractions": "171",
+            "nightlife": "179",
+            "shopping": "56",
+            "total": "977"
+          },
+          "restaurants": { "total": "1918" },
+          "accommodations": {
+            "hotels": "342",
+            "bbs_inns": "139",
+            "others": "272",
+            "total": "753"
+          },
+          "neighborhoods": "0",
+          "airports": "0"
+        },
+        "nearby_attractions": [],
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "islandgroup", "name": "Island Group" }],
+            "name": "Balearic Islands",
+            "abbrv": null,
+            "location_id": "187459"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Spain",
+            "abbrv": null,
+            "location_id": "187427"
+          }
+        ],
+        "category": { "key": "geographic", "name": "Geographic" },
+        "subcategory": [{ "key": "island", "name": "Island" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "geo_description": "Ibiza: Old Spanish for \"party 'til you drop.\" Perhaps not literally, but this is definitely one of Europe's favorite nightlife playgrounds. Ibiza boasts more than 100 miles of coastline with some 50 beaches, plus plenty of restaurants, bars, and water sports—and clubs, of course. Fit in a little culture and visit Ibiza's UNESCO-designated old town.",
+        "has_restaurant_coverpage": false,
+        "has_attraction_coverpage": false,
+        "has_curated_shopping_list": false
+      },
+      "scope": "local",
+      "is_top_result": true
+    },
+    {
+      "result_type": "geos",
+      "result_object": {
+        "location_id": "664638",
+        "name": "Ibiza Town",
+        "latitude": "38.9067",
+        "longitude": "1.420624",
+        "num_reviews": "100655",
+        "timezone": "Europe/Madrid",
+        "location_string": "Ibiza Town, Ibiza, Balearic Islands",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/08/b0/28/f8/gorgeous.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/08/b0/28/f8/gorgeous.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "3264",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/08/b0/28/f8/gorgeous.jpg",
+              "height": "2448"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/08/b0/28/f8/gorgeous.jpg",
+              "height": "413"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/08/b0/28/f8/gorgeous.jpg",
+              "height": "188"
+            }
+          },
+          "is_blessed": false,
+          "uploaded_date": "2015-08-19T02:38:09-0400",
+          "caption": "Gorgeous!",
+          "id": "145762552",
+          "helpful_votes": "37",
+          "published_date": "2015-08-19T02:38:09-0400",
+          "user": { "user_id": null, "member_id": "0", "type": "user" }
+        },
+        "awards": [],
+        "doubleclick_zone": "eu.spain.ibiza",
+        "preferred_map_engine": "default",
+        "geo_type": "narrow",
+        "category_counts": {
+          "attractions": {
+            "activities": "104",
+            "attractions": "39",
+            "nightlife": "80",
+            "shopping": "16",
+            "total": "239"
+          },
+          "restaurants": { "total": "498" },
+          "accommodations": {
+            "hotels": "54",
+            "bbs_inns": "25",
+            "others": "51",
+            "total": "130"
+          },
+          "neighborhoods": "0",
+          "airports": "0"
+        },
+        "nearby_attractions": [],
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "island", "name": "Island" }],
+            "name": "Ibiza",
+            "abbrv": null,
+            "location_id": "187460"
+          },
+          {
+            "subcategory": [{ "key": "islandgroup", "name": "Island Group" }],
+            "name": "Balearic Islands",
+            "abbrv": null,
+            "location_id": "187459"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Spain",
+            "abbrv": null,
+            "location_id": "187427"
+          }
+        ],
+        "category": { "key": "geographic", "name": "Geographic" },
+        "subcategory": [{ "key": "municipality", "name": "Municipality" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "geo_description": "Visitors who come to Ibiza’s energetic capital for its nightlife are treated to more than just thumping ultraclubs and celebrity sightings. By day, the harbor town is a sun-drenched sampler of Spanish-island style, with waterfront cafes, urban beaches, trendy boutiques, and even a UNESCO-listed fortress.",
+        "has_restaurant_coverpage": false,
+        "has_attraction_coverpage": false,
+        "has_curated_shopping_list": false
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "5962526",
+        "name": "Hard Rock Hotel Ibiza",
+        "latitude": "38.883194",
+        "longitude": "1.404631",
+        "num_reviews": "4902",
+        "timezone": "Europe/Madrid",
+        "location_string": "Playa d'en Bossa, Ibiza, Balearic Islands",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/21/5d/22/43/building.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/21/5d/22/43/building.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "7000",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/21/5d/22/43/building.jpg",
+              "height": "5176"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/21/5d/22/43/building.jpg",
+              "height": "407"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/21/5d/22/43/building.jpg",
+              "height": "185"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2021-11-10T01:45:31-0500",
+          "caption": "Building",
+          "id": "559751747",
+          "helpful_votes": "0",
+          "published_date": "2021-11-10T01:45:31-0500",
+          "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "open_now_text": "Open Now",
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "city", "name": "City" }],
+            "name": "Playa d'en Bossa",
+            "abbrv": null,
+            "location_id": "659635"
+          },
+          {
+            "subcategory": [{ "key": "island", "name": "Island" }],
+            "name": "Ibiza",
+            "abbrv": null,
+            "location_id": "187460"
+          },
+          {
+            "subcategory": [{ "key": "islandgroup", "name": "Island Group" }],
+            "name": "Balearic Islands",
+            "abbrv": null,
+            "location_id": "187459"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Spain",
+            "abbrv": null,
+            "location_id": "187427"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Carretera Playa D'en Bossa, s/n",
+          "street2": null,
+          "city": "Playa d'en Bossa",
+          "state": null,
+          "country": "Spain",
+          "postalcode": "07817"
+        },
+        "address": "Carretera Playa D'en Bossa, s/n, 07817 Playa d'en Bossa, Ibiza Spain",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 907 reviews"
+      },
+      "review_snippet": {
+        "snippet": "at the Hard Rock Hotel Ibiza and what an excellent hotel it was!",
+        "spans": [{ "start_index": 23, "end_index": 28 }],
+        "review_id": "863393536"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "things_to_do",
+      "result_object": {
+        "location_id": "546923",
+        "name": "Pacha Ibiza",
+        "latitude": "38.918316",
+        "longitude": "1.443086",
+        "num_reviews": "2220",
+        "timezone": "Europe/Madrid",
+        "location_string": "Ibiza Town, Ibiza, Balearic Islands",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/14/8f/aa/20/20180909-023214-largejpg.jpg",
+              "height": "141"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/14/8f/aa/20/20180909-023214-largejpg.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "1280",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/14/8f/aa/20/20180909-023214-largejpg.jpg",
+              "height": "720"
+            },
+            "large": {
+              "width": "1024",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-w/14/8f/aa/20/20180909-023214-largejpg.jpg",
+              "height": "576"
+            },
+            "medium": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/14/8f/aa/20/20180909-023214-largejpg.jpg",
+              "height": "309"
+            }
+          },
+          "is_blessed": false,
+          "uploaded_date": "2018-09-10T12:32:12-0400",
+          "caption": "",
+          "id": "344959520",
+          "helpful_votes": "10",
+          "published_date": "2018-09-10T12:32:12-0400",
+          "user": { "user_id": null, "member_id": "0", "type": "user" }
+        },
+        "awards": [],
+        "location_subtype": "none",
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.0",
+        "is_closed": false,
+        "open_now_text": "Closed Now",
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "municipality", "name": "Municipality" }],
+            "name": "Ibiza Town",
+            "abbrv": null,
+            "location_id": "664638"
+          },
+          {
+            "subcategory": [{ "key": "island", "name": "Island" }],
+            "name": "Ibiza",
+            "abbrv": null,
+            "location_id": "187460"
+          },
+          {
+            "subcategory": [{ "key": "islandgroup", "name": "Island Group" }],
+            "name": "Balearic Islands",
+            "abbrv": null,
+            "location_id": "187459"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Spain",
+            "abbrv": null,
+            "location_id": "187427"
+          }
+        ],
+        "category": { "key": "attraction", "name": "Attraction" },
+        "subcategory": [{ "key": "20", "name": "Nightlife" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Avenida 8 de Agosto",
+          "street2": "",
+          "city": "Ibiza Town",
+          "state": null,
+          "country": "Spain",
+          "postalcode": ""
+        },
+        "address": "Avenida 8 de Agosto, Ibiza Town, Ibiza Spain",
+        "is_candidate_for_contact_info_suppression": false
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 376 reviews"
+      },
+      "review_snippet": {
+        "snippet": "We will certainly be visiting next time we are in Ibiza.",
+        "spans": [{ "start_index": 50, "end_index": 56 }],
+        "review_id": "860536768"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "18721005",
+        "name": "W Ibiza",
+        "latitude": "38.981167",
+        "longitude": "1.531442",
+        "num_reviews": "215",
+        "timezone": "Europe/Madrid",
+        "location_string": "Santa Eulalia del Rio, Ibiza, Balearic Islands",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/26/98/1f/fe/exterior-wet-deck.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/26/98/1f/fe/exterior-wet-deck.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "4000",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/26/98/1f/fe/exterior-wet-deck.jpg",
+              "height": "2667"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/26/98/1f/fe/exterior-wet-deck.jpg",
+              "height": "367"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/26/98/1f/fe/exterior-wet-deck.jpg",
+              "height": "167"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2022-10-19T03:46:52-0400",
+          "caption": "Exterior – Wet Deck",
+          "id": "647503870",
+          "helpful_votes": "0",
+          "published_date": "2022-10-19T03:46:52-0400",
+          "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "open_now_text": "Open Now",
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "municipality", "name": "Municipality" }],
+            "name": "Santa Eulalia del Rio",
+            "abbrv": null,
+            "location_id": "642208"
+          },
+          {
+            "subcategory": [{ "key": "island", "name": "Island" }],
+            "name": "Ibiza",
+            "abbrv": null,
+            "location_id": "187460"
+          },
+          {
+            "subcategory": [{ "key": "islandgroup", "name": "Island Group" }],
+            "name": "Balearic Islands",
+            "abbrv": null,
+            "location_id": "187459"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Spain",
+            "abbrv": null,
+            "location_id": "187427"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Avenida de Ricardo Curtoys Gotarredona 37",
+          "street2": null,
+          "city": "Santa Eulalia del Rio",
+          "state": null,
+          "country": "Spain",
+          "postalcode": "07840"
+        },
+        "address": "Avenida de Ricardo Curtoys Gotarredona 37, 07840, Santa Eulalia del Rio, Ibiza Spain",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": { "mentioned_by_travelers": "matches 68 reviews" },
+      "review_snippet": {
+        "snippet": "This was was my first time in Ibiza and the W Ibiza was a great choice.",
+        "spans": [
+          { "start_index": 30, "end_index": 35 },
+          { "start_index": 46, "end_index": 51 }
+        ],
+        "review_id": "861153170"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "289662",
+        "name": "Amare Beach Hotel Ibiza",
+        "latitude": "38.972725",
+        "longitude": "1.285028",
+        "num_reviews": "729",
+        "timezone": "Europe/Madrid",
+        "location_string": "Sant Josep de Sa Talaia, Ibiza, Balearic Islands",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/18/48/8c/22/amare-beach-hotel-ibiza.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/18/48/8c/22/amare-beach-hotel-ibiza.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "2048",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/18/48/8c/22/amare-beach-hotel-ibiza.jpg",
+              "height": "1536"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/18/48/8c/22/amare-beach-hotel-ibiza.jpg",
+              "height": "413"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/18/48/8c/22/amare-beach-hotel-ibiza.jpg",
+              "height": "188"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2019-07-12T07:22:30-0400",
+          "caption": "",
+          "id": "407407650",
+          "helpful_votes": "2",
+          "published_date": "2019-07-12T07:22:30-0400",
+          "user": { "user_id": null, "member_id": "0", "type": "user" }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "municipality", "name": "Municipality" }],
+            "name": "Sant Josep de Sa Talaia",
+            "abbrv": null,
+            "location_id": "673348"
+          },
+          {
+            "subcategory": [{ "key": "island", "name": "Island" }],
+            "name": "Ibiza",
+            "abbrv": null,
+            "location_id": "187460"
+          },
+          {
+            "subcategory": [{ "key": "islandgroup", "name": "Island Group" }],
+            "name": "Balearic Islands",
+            "abbrv": null,
+            "location_id": "187459"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Spain",
+            "abbrv": null,
+            "location_id": "187427"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Carrer La Rioja 9",
+          "street2": null,
+          "city": "Sant Josep de Sa Talaia",
+          "state": null,
+          "country": "Spain",
+          "postalcode": "07829"
+        },
+        "address": "Carrer La Rioja 9, 07829, Sant Josep de Sa Talaia, Ibiza Spain",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 130 reviews"
+      },
+      "review_snippet": {
+        "snippet": "We have booked Amare Marbella for July 2023 and Amare Ibiza in September",
+        "spans": [{ "start_index": 54, "end_index": 59 }],
+        "review_id": "881378613"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "2142615",
+        "name": "Ushuaia Ibiza Beach Hotel",
+        "latitude": "38.884335",
+        "longitude": "1.405257",
+        "num_reviews": "4273",
+        "timezone": "Europe/Madrid",
+        "location_string": "Playa d'en Bossa, Ibiza, Balearic Islands",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/06/3c/39/26/montauk-steak-house-in-tower--v27.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/06/3c/39/26/montauk-steak-house-in-tower--v27.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "2600",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/06/3c/39/26/montauk-steak-house-in-tower--v27.jpg",
+              "height": "1733"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/06/3c/39/26/montauk-steak-house-in-tower--v27.jpg",
+              "height": "450"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/06/3c/39/26/montauk-steak-house-in-tower--v27.jpg",
+              "height": "205"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2014-06-17T12:47:11-0400",
+          "caption": "Montauk Steak House in Tower at the Ushuaia Ibiza Beach Hotel",
+          "id": "104610086",
+          "helpful_votes": "5",
+          "published_date": "2014-07-22T14:22:42-0400",
+          "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "open_now_text": "Open Now",
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "city", "name": "City" }],
+            "name": "Playa d'en Bossa",
+            "abbrv": null,
+            "location_id": "659635"
+          },
+          {
+            "subcategory": [{ "key": "island", "name": "Island" }],
+            "name": "Ibiza",
+            "abbrv": null,
+            "location_id": "187460"
+          },
+          {
+            "subcategory": [{ "key": "islandgroup", "name": "Island Group" }],
+            "name": "Balearic Islands",
+            "abbrv": null,
+            "location_id": "187459"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Spain",
+            "abbrv": null,
+            "location_id": "187427"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Playa d'en Bossa 10",
+          "street2": null,
+          "city": "Playa d'en Bossa",
+          "state": null,
+          "country": "Spain",
+          "postalcode": "07817"
+        },
+        "address": "Playa d'en Bossa 10, 07817 Playa d'en Bossa, Ibiza Spain",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 701 reviews"
+      },
+      "review_snippet": {
+        "snippet": "This is what’s on offer at Ushuaïa Ibiza Beach Hotel: a combination of",
+        "spans": [{ "start_index": 35, "end_index": 40 }],
+        "review_id": "884001479"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "restaurants",
+      "result_object": {
+        "location_id": "2199279",
+        "name": "Lio Ibiza",
+        "latitude": "38.913746",
+        "longitude": "1.443127",
+        "num_reviews": "1396",
+        "timezone": "Europe/Madrid",
+        "location_string": "Ibiza, Balearic Islands",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/1c/c6/05/f0/lio-s-festive-atmosphere.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/1c/c6/05/f0/lio-s-festive-atmosphere.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "1280",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/c6/05/f0/lio-s-festive-atmosphere.jpg",
+              "height": "853"
+            },
+            "large": {
+              "width": "1024",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-w/1c/c6/05/f0/lio-s-festive-atmosphere.jpg",
+              "height": "683"
+            },
+            "medium": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/1c/c6/05/f0/lio-s-festive-atmosphere.jpg",
+              "height": "367"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2021-03-23T07:32:38-0400",
+          "caption": "Lío’s festive atmosphere involves diners to such extent that not infrequently, dancers and diners end up together on the dance platform.",
+          "id": "482739696",
+          "helpful_votes": "4",
+          "published_date": "2021-03-23T07:32:38-0400",
+          "user": { "user_id": null, "member_id": "0", "type": "user" }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.0",
+        "is_closed": false,
+        "open_now_text": "Closed today",
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "island", "name": "Island" }],
+            "name": "Ibiza",
+            "abbrv": null,
+            "location_id": "187460"
+          },
+          {
+            "subcategory": [{ "key": "islandgroup", "name": "Island Group" }],
+            "name": "Balearic Islands",
+            "abbrv": null,
+            "location_id": "187459"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Spain",
+            "abbrv": null,
+            "location_id": "187427"
+          }
+        ],
+        "category": { "key": "restaurant", "name": "Restaurant" },
+        "subcategory": [{ "key": "sit_down", "name": "Sit down" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Paseo Juan Carlos I",
+          "street2": "Puerto Marina",
+          "city": null,
+          "state": null,
+          "country": "Spain",
+          "postalcode": "07800"
+        },
+        "address": "Paseo Juan Carlos I Puerto Marina, 07800, Ibiza Spain",
+        "is_candidate_for_contact_info_suppression": false,
+        "cuisine": [
+          { "key": "10649", "name": "Mediterranean" },
+          { "key": "10654", "name": "European" }
+        ],
+        "establishment_types": [{ "key": "10591", "name": "Restaurants" }]
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 204 reviews"
+      },
+      "review_snippet": {
+        "snippet": "Set against a gorgeous backdrop of Ibiza Town and harbour with lightening",
+        "spans": [{ "start_index": 35, "end_index": 40 }],
+        "review_id": "856607048"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "290938",
+        "name": "AluaSoul Ibiza",
+        "latitude": "39.000084",
+        "longitude": "1.577708",
+        "num_reviews": "3159",
+        "timezone": "Europe/Madrid",
+        "location_string": "Es Canar, Santa Eulalia del Rio, Ibiza, Balearic Islands",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/12/b9/92/fb/aluasoul-ibiza.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/12/b9/92/fb/aluasoul-ibiza.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "2000",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/12/b9/92/fb/aluasoul-ibiza.jpg",
+              "height": "1125"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/12/b9/92/fb/aluasoul-ibiza.jpg",
+              "height": "309"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/12/b9/92/fb/aluasoul-ibiza.jpg",
+              "height": "141"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2018-04-23T03:44:27-0400",
+          "caption": "Hotel",
+          "id": "314151675",
+          "helpful_votes": "35",
+          "published_date": "2018-04-23T03:44:27-0400",
+          "user": { "user_id": null, "member_id": "0", "type": "user" }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "city", "name": "City" }],
+            "name": "Es Canar",
+            "abbrv": null,
+            "location_id": "664650"
+          },
+          {
+            "subcategory": [{ "key": "municipality", "name": "Municipality" }],
+            "name": "Santa Eulalia del Rio",
+            "abbrv": null,
+            "location_id": "642208"
+          },
+          {
+            "subcategory": [{ "key": "island", "name": "Island" }],
+            "name": "Ibiza",
+            "abbrv": null,
+            "location_id": "187460"
+          },
+          {
+            "subcategory": [{ "key": "islandgroup", "name": "Island Group" }],
+            "name": "Balearic Islands",
+            "abbrv": null,
+            "location_id": "187459"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Spain",
+            "abbrv": null,
+            "location_id": "187427"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Playa Es Canar, s/n",
+          "street2": null,
+          "city": "Es Canar",
+          "state": null,
+          "country": "Spain",
+          "postalcode": "07840"
+        },
+        "address": "Playa Es Canar, s/n, 07840 Es Canar, Santa Eulalia del Rio, Ibiza Spain",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 674 reviews"
+      },
+      "review_snippet": {
+        "snippet": "You are about an hour away from Ibiza Old Town, where there is a great",
+        "spans": [{ "start_index": 32, "end_index": 37 }],
+        "review_id": "873758465"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "19658447",
+        "name": "The Ibiza Twiins",
+        "latitude": "38.897465",
+        "longitude": "1.415347",
+        "num_reviews": "366",
+        "timezone": "Europe/Madrid",
+        "location_string": "Ibiza Town, Ibiza, Balearic Islands",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/1c/35/d7/a1/the-ibiza-twiins.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/1c/35/d7/a1/the-ibiza-twiins.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "2048",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/1c/35/d7/a1/the-ibiza-twiins.jpg",
+              "height": "1351"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/1c/35/d7/a1/the-ibiza-twiins.jpg",
+              "height": "363"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/1c/35/d7/a1/the-ibiza-twiins.jpg",
+              "height": "165"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2020-10-21T04:26:09-0400",
+          "caption": "",
+          "id": "473290657",
+          "helpful_votes": "0",
+          "published_date": "2020-10-21T04:26:09-0400",
+          "user": { "user_id": null, "member_id": "0", "type": "user" }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "municipality", "name": "Municipality" }],
+            "name": "Ibiza Town",
+            "abbrv": null,
+            "location_id": "664638"
+          },
+          {
+            "subcategory": [{ "key": "island", "name": "Island" }],
+            "name": "Ibiza",
+            "abbrv": null,
+            "location_id": "187460"
+          },
+          {
+            "subcategory": [{ "key": "islandgroup", "name": "Island Group" }],
+            "name": "Balearic Islands",
+            "abbrv": null,
+            "location_id": "187459"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Spain",
+            "abbrv": null,
+            "location_id": "187427"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Avda. Pedro Matutes Noguera S/N",
+          "street2": "Playa den Bossa",
+          "city": "Ibiza Town",
+          "state": null,
+          "country": "Spain",
+          "postalcode": "07800"
+        },
+        "address": "Avda. Pedro Matutes Noguera S/N Playa den Bossa, 07800, Ibiza Town, Ibiza Spain",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": { "mentioned_by_travelers": "matches 80 reviews" },
+      "review_snippet": {
+        "snippet": "Thanks again Ibiza Twiins!",
+        "spans": [{ "start_index": 13, "end_index": 18 }],
+        "review_id": "865507856"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "289667",
+        "name": "TRS Ibiza Hotel",
+        "latitude": "38.990356",
+        "longitude": "1.29252",
+        "num_reviews": "439",
+        "timezone": "Europe/Madrid",
+        "location_string": "Sant Antoni de Portmany, Ibiza, Balearic Islands",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/24/13/5c/93/swimming-pool-gaia.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/24/13/5c/93/swimming-pool-gaia.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "6500",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/24/13/5c/93/swimming-pool-gaia.jpg",
+              "height": "4335"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/24/13/5c/93/swimming-pool-gaia.jpg",
+              "height": "367"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/24/13/5c/93/swimming-pool-gaia.jpg",
+              "height": "167"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2022-06-19T01:36:30-0400",
+          "caption": "Swimming Pool Gaia",
+          "id": "605248659",
+          "helpful_votes": "0",
+          "published_date": "2022-06-19T01:36:30-0400",
+          "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "open_now_text": "Open Now",
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "municipality", "name": "Municipality" }],
+            "name": "Sant Antoni de Portmany",
+            "abbrv": null,
+            "location_id": "652116"
+          },
+          {
+            "subcategory": [{ "key": "island", "name": "Island" }],
+            "name": "Ibiza",
+            "abbrv": null,
+            "location_id": "187460"
+          },
+          {
+            "subcategory": [{ "key": "islandgroup", "name": "Island Group" }],
+            "name": "Balearic Islands",
+            "abbrv": null,
+            "location_id": "187459"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Spain",
+            "abbrv": null,
+            "location_id": "187427"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Cami Del Portixol, 1",
+          "street2": null,
+          "city": "Sant Antoni de Portmany",
+          "state": null,
+          "country": "Spain",
+          "postalcode": "07820"
+        },
+        "address": "Cami Del Portixol, 1, 07820, Sant Antoni de Portmany, Ibiza Spain",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": { "mentioned_by_travelers": "matches 74 reviews" },
+      "review_snippet": {
+        "snippet": "if you want to have a comfortable holiday on Ibiza.",
+        "spans": [{ "start_index": 45, "end_index": 51 }],
+        "review_id": "859384776"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "8263701",
+        "name": "Pure House Ibiza",
+        "latitude": "38.916027",
+        "longitude": "1.391781",
+        "num_reviews": "161",
+        "timezone": "Europe/Madrid",
+        "location_string": "Ibiza Town, Ibiza, Balearic Islands",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/1c/a1/8c/d1/pure-house-ibiza.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/1c/a1/8c/d1/pure-house-ibiza.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "2500",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/1c/a1/8c/d1/pure-house-ibiza.jpg",
+              "height": "1668"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/1c/a1/8c/d1/pure-house-ibiza.jpg",
+              "height": "367"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/1c/a1/8c/d1/pure-house-ibiza.jpg",
+              "height": "167"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2021-02-11T04:55:15-0500",
+          "caption": "",
+          "id": "480349393",
+          "helpful_votes": "1",
+          "published_date": "2021-02-11T04:55:15-0500",
+          "user": { "user_id": null, "member_id": "0", "type": "user" }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "5.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "municipality", "name": "Municipality" }],
+            "name": "Ibiza Town",
+            "abbrv": null,
+            "location_id": "664638"
+          },
+          {
+            "subcategory": [{ "key": "island", "name": "Island" }],
+            "name": "Ibiza",
+            "abbrv": null,
+            "location_id": "187460"
+          },
+          {
+            "subcategory": [{ "key": "islandgroup", "name": "Island Group" }],
+            "name": "Balearic Islands",
+            "abbrv": null,
+            "location_id": "187459"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Spain",
+            "abbrv": null,
+            "location_id": "187427"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Carrer LLobaru",
+          "street2": "Can Fita Rafal Trobat",
+          "city": "Ibiza Town",
+          "state": null,
+          "country": "Spain",
+          "postalcode": "07800"
+        },
+        "address": "Carrer LLobaru Can Fita Rafal Trobat, 07800, Ibiza Town, Ibiza Spain",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": { "mentioned_by_travelers": "matches 44 reviews" },
+      "review_snippet": {
+        "snippet": "Yesterday evening, I went to one of the dinner events at Pure House Ibiza",
+        "spans": [{ "start_index": 68, "end_index": 73 }],
+        "review_id": "854110363"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "291148",
+        "name": "Ibiza Rocks Hotel",
+        "latitude": "38.98288",
+        "longitude": "1.29981",
+        "num_reviews": "2215",
+        "timezone": "Europe/Madrid",
+        "location_string": "Sant Antoni de Portmany, Ibiza, Balearic Islands",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/24/22/d1/f1/walkway-up-to-the-ibiza.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/24/22/d1/f1/walkway-up-to-the-ibiza.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "3200",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/24/22/d1/f1/walkway-up-to-the-ibiza.jpg",
+              "height": "2135"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/24/22/d1/f1/walkway-up-to-the-ibiza.jpg",
+              "height": "367"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/24/22/d1/f1/walkway-up-to-the-ibiza.jpg",
+              "height": "167"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2022-06-21T07:08:02-0400",
+          "caption": "Walkway up to the Ibiza Rocks Hotel",
+          "id": "606261745",
+          "helpful_votes": "0",
+          "published_date": "2022-06-21T07:08:02-0400",
+          "user": { "user_id": null, "member_id": "0", "type": "user" }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "municipality", "name": "Municipality" }],
+            "name": "Sant Antoni de Portmany",
+            "abbrv": null,
+            "location_id": "652116"
+          },
+          {
+            "subcategory": [{ "key": "island", "name": "Island" }],
+            "name": "Ibiza",
+            "abbrv": null,
+            "location_id": "187460"
+          },
+          {
+            "subcategory": [{ "key": "islandgroup", "name": "Island Group" }],
+            "name": "Balearic Islands",
+            "abbrv": null,
+            "location_id": "187459"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Spain",
+            "abbrv": null,
+            "location_id": "187427"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Carrer De Cervantes, 27",
+          "street2": "",
+          "city": "Sant Antoni de Portmany",
+          "state": null,
+          "country": "Spain",
+          "postalcode": "07820"
+        },
+        "address": "Carrer De Cervantes, 27, 07820, Sant Antoni de Portmany, Ibiza Spain",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 1,373 reviews"
+      },
+      "review_snippet": {
+        "snippet": "Having visited Ibiza more than 20 times and stayed all over the Island,",
+        "spans": [{ "start_index": 15, "end_index": 20 }],
+        "review_id": "859902872"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "restaurants",
+      "result_object": {
+        "location_id": "1818337",
+        "name": "Amante Ibiza",
+        "latitude": "38.94731",
+        "longitude": "1.510434",
+        "num_reviews": "2728",
+        "timezone": "Europe/Madrid",
+        "location_string": "Cala Llonga, Ibiza, Balearic Islands",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/0f/a2/82/99/beach.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/0f/a2/82/99/beach.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "1080",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/0f/a2/82/99/beach.jpg",
+              "height": "721"
+            },
+            "large": {
+              "width": "1024",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-w/0f/a2/82/99/beach.jpg",
+              "height": "683"
+            },
+            "medium": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/0f/a2/82/99/beach.jpg",
+              "height": "367"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2017-06-21T06:10:14-0400",
+          "caption": "Beach ",
+          "id": "262308505",
+          "helpful_votes": "24",
+          "published_date": "2017-06-21T06:10:14-0400",
+          "user": { "user_id": null, "member_id": "0", "type": "user" }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "open_now_text": "Open Now",
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "city", "name": "City" }],
+            "name": "Cala Llonga",
+            "abbrv": null,
+            "location_id": "672815"
+          },
+          {
+            "subcategory": [{ "key": "island", "name": "Island" }],
+            "name": "Ibiza",
+            "abbrv": null,
+            "location_id": "187460"
+          },
+          {
+            "subcategory": [{ "key": "islandgroup", "name": "Island Group" }],
+            "name": "Balearic Islands",
+            "abbrv": null,
+            "location_id": "187459"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Spain",
+            "abbrv": null,
+            "location_id": "187427"
+          }
+        ],
+        "category": { "key": "restaurant", "name": "Restaurant" },
+        "subcategory": [{ "key": "sit_down", "name": "Sit down" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Cala Sol d'en Serra",
+          "street2": "Calle Afueras SN, Near",
+          "city": "Cala Llonga",
+          "state": null,
+          "country": "Spain",
+          "postalcode": "07849"
+        },
+        "address": "Cala Sol d'en Serra Calle Afueras SN, Near, 07849 Cala Llonga, Ibiza Spain",
+        "is_candidate_for_contact_info_suppression": false,
+        "cuisine": [
+          { "key": "10643", "name": "Seafood" },
+          { "key": "10649", "name": "Mediterranean" },
+          { "key": "10654", "name": "European" },
+          { "key": "10655", "name": "Spanish" },
+          { "key": "10679", "name": "Healthy" }
+        ],
+        "establishment_types": [{ "key": "10591", "name": "Restaurants" }]
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 359 reviews"
+      },
+      "review_snippet": {
+        "snippet": "Of all the beach clubs I visited in Ibiza, Amante is Nr.1.",
+        "spans": [{ "start_index": 36, "end_index": 41 }],
+        "review_id": "857099531"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "289656",
+        "name": "BLESS Hotel Ibiza",
+        "latitude": "39.0068",
+        "longitude": "1.5814",
+        "num_reviews": "507",
+        "timezone": "Europe/Madrid",
+        "location_string": "Es Canar, Santa Eulalia del Rio, Ibiza, Balearic Islands",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/28/45/bb/3f/bless-your-mediterranean.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/28/45/bb/3f/bless-your-mediterranean.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "6500",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/28/45/bb/3f/bless-your-mediterranean.jpg",
+              "height": "4333"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/28/45/bb/3f/bless-your-mediterranean.jpg",
+              "height": "367"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/28/45/bb/3f/bless-your-mediterranean.jpg",
+              "height": "167"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2023-02-19T20:54:34-0500",
+          "caption": "Bless Your Mediterranean Suite",
+          "id": "675658559",
+          "helpful_votes": "0",
+          "published_date": "2023-02-19T20:54:34-0500",
+          "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "open_now_text": "Open Now",
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "city", "name": "City" }],
+            "name": "Es Canar",
+            "abbrv": null,
+            "location_id": "664650"
+          },
+          {
+            "subcategory": [{ "key": "municipality", "name": "Municipality" }],
+            "name": "Santa Eulalia del Rio",
+            "abbrv": null,
+            "location_id": "642208"
+          },
+          {
+            "subcategory": [{ "key": "island", "name": "Island" }],
+            "name": "Ibiza",
+            "abbrv": null,
+            "location_id": "187460"
+          },
+          {
+            "subcategory": [{ "key": "islandgroup", "name": "Island Group" }],
+            "name": "Balearic Islands",
+            "abbrv": null,
+            "location_id": "187459"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Spain",
+            "abbrv": null,
+            "location_id": "187427"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Playa, Av. Cala Nova",
+          "street2": "",
+          "city": "Es Canar",
+          "state": null,
+          "country": "Spain",
+          "postalcode": "07849"
+        },
+        "address": "Playa, Av. Cala Nova, 07849 Es Canar, Santa Eulalia del Rio, Ibiza Spain",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": { "mentioned_by_travelers": "matches 72 reviews" },
+      "review_snippet": {
+        "snippet": "I did a lot of research on hotels in Ibiza as we only were away for the",
+        "spans": [{ "start_index": 37, "end_index": 42 }],
+        "review_id": "861393783"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "things_to_do",
+      "result_object": {
+        "location_id": "2432420",
+        "name": "Ushuaia Ibiza Beach Club",
+        "latitude": "38.91217",
+        "longitude": "1.43049",
+        "num_reviews": "2351",
+        "timezone": "Europe/Madrid",
+        "location_string": "Playa d'en Bossa, Ibiza, Balearic Islands",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/02/71/60/88/ushuaia-ibiza-beach-club.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/02/71/60/88/ushuaia-ibiza-beach-club.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "640",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/02/71/60/88/ushuaia-ibiza-beach-club.jpg",
+              "height": "459"
+            },
+            "large": {
+              "width": "640",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/02/71/60/88/ushuaia-ibiza-beach-club.jpg",
+              "height": "459"
+            },
+            "medium": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/02/71/60/88/ushuaia-ibiza-beach-club.jpg",
+              "height": "394"
+            }
+          },
+          "is_blessed": false,
+          "uploaded_date": "2012-04-25T04:35:28-0400",
+          "caption": "Ushuaïa Beach Club",
+          "id": "40984712",
+          "helpful_votes": "18",
+          "published_date": "2012-04-25T04:41:06-0400",
+          "user": { "user_id": null, "member_id": "0", "type": "user" }
+        },
+        "awards": [],
+        "location_subtype": "none",
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "city", "name": "City" }],
+            "name": "Playa d'en Bossa",
+            "abbrv": null,
+            "location_id": "659635"
+          },
+          {
+            "subcategory": [{ "key": "island", "name": "Island" }],
+            "name": "Ibiza",
+            "abbrv": null,
+            "location_id": "187460"
+          },
+          {
+            "subcategory": [{ "key": "islandgroup", "name": "Island Group" }],
+            "name": "Balearic Islands",
+            "abbrv": null,
+            "location_id": "187459"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Spain",
+            "abbrv": null,
+            "location_id": "187427"
+          }
+        ],
+        "category": { "key": "attraction", "name": "Attraction" },
+        "subcategory": [{ "key": "61", "name": "Outdoor Activities" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Playa d'en Bossa 10",
+          "street2": "",
+          "city": "Playa d'en Bossa",
+          "state": null,
+          "country": "Spain",
+          "postalcode": "07817"
+        },
+        "address": "Playa d'en Bossa 10, 07817 Playa d'en Bossa, Ibiza Spain",
+        "is_candidate_for_contact_info_suppression": false
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 312 reviews"
+      },
+      "review_snippet": {
+        "snippet": "The atmosphere is unparalleled, we are really in pure Ibiza.",
+        "spans": [{ "start_index": 54, "end_index": 60 }],
+        "review_id": "875861329"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "23341248",
+        "name": "Six Senses Ibiza",
+        "latitude": "39.11039",
+        "longitude": "1.508858",
+        "num_reviews": "156",
+        "timezone": "Europe/Madrid",
+        "location_string": "Portinatx, Sant Joan de Labritja, Ibiza, Balearic Islands",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/26/5a/b1/bd/swimming-pool.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/26/5a/b1/bd/swimming-pool.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "983",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/26/5a/b1/bd/swimming-pool.jpg",
+              "height": "656"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/26/5a/b1/bd/swimming-pool.jpg",
+              "height": "367"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/26/5a/b1/bd/swimming-pool.jpg",
+              "height": "167"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2022-10-06T04:22:36-0400",
+          "caption": "Swimming Pool ",
+          "id": "643477949",
+          "helpful_votes": "2",
+          "published_date": "2022-10-06T04:22:36-0400",
+          "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "city", "name": "City" }],
+            "name": "Portinatx",
+            "abbrv": null,
+            "location_id": "667128"
+          },
+          {
+            "subcategory": [{ "key": "municipality", "name": "Municipality" }],
+            "name": "Sant Joan de Labritja",
+            "abbrv": null,
+            "location_id": "1028034"
+          },
+          {
+            "subcategory": [{ "key": "island", "name": "Island" }],
+            "name": "Ibiza",
+            "abbrv": null,
+            "location_id": "187460"
+          },
+          {
+            "subcategory": [{ "key": "islandgroup", "name": "Island Group" }],
+            "name": "Balearic Islands",
+            "abbrv": null,
+            "location_id": "187459"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Spain",
+            "abbrv": null,
+            "location_id": "187427"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Calle Des Cami de Sa Torre 71",
+          "street2": null,
+          "city": "Portinatx",
+          "state": null,
+          "country": "Spain",
+          "postalcode": "07810"
+        },
+        "address": "Calle Des Cami de Sa Torre 71, 07810 Portinatx, Sant Joan de Labritja, Ibiza Spain",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": { "mentioned_by_travelers": "matches 49 reviews" },
+      "review_snippet": {
+        "snippet": "I had a wonderful stay during a retreat at Six Senses Ibiza.",
+        "spans": [{ "start_index": 54, "end_index": 60 }],
+        "review_id": "871477005"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "237048",
+        "name": "Occidental Ibiza",
+        "latitude": "38.96269",
+        "longitude": "1.270002",
+        "num_reviews": "3473",
+        "timezone": "Europe/Madrid",
+        "location_string": "Port d'es Torrent, Ibiza, Balearic Islands",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/27/1d/be/76/opibi-int.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/27/1d/be/76/opibi-int.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "1023",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/27/1d/be/76/opibi-int.jpg",
+              "height": "682"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/27/1d/be/76/opibi-int.jpg",
+              "height": "367"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/27/1d/be/76/opibi-int.jpg",
+              "height": "167"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2022-11-30T16:49:40-0500",
+          "caption": "OPIBI INT",
+          "id": "656260726",
+          "helpful_votes": "0",
+          "published_date": "2022-11-30T16:49:40-0500",
+          "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.0",
+        "is_closed": false,
+        "open_now_text": "Open Now",
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "city", "name": "City" }],
+            "name": "Port d'es Torrent",
+            "abbrv": null,
+            "location_id": "674779"
+          },
+          {
+            "subcategory": [{ "key": "island", "name": "Island" }],
+            "name": "Ibiza",
+            "abbrv": null,
+            "location_id": "187460"
+          },
+          {
+            "subcategory": [{ "key": "islandgroup", "name": "Island Group" }],
+            "name": "Balearic Islands",
+            "abbrv": null,
+            "location_id": "187459"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Spain",
+            "abbrv": null,
+            "location_id": "187427"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Carrer Valencia, 23-27",
+          "street2": null,
+          "city": "Port d'es Torrent",
+          "state": null,
+          "country": "Spain",
+          "postalcode": "07829"
+        },
+        "address": "Carrer Valencia, 23-27, 07829 Port d'es Torrent, Ibiza Spain",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 322 reviews"
+      },
+      "review_snippet": {
+        "snippet": "Ibiza is a lovely place and I like to spend time here.",
+        "spans": [{ "start_index": 0, "end_index": 5 }],
+        "review_id": "865060573"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "599172",
+        "name": "Grand Palladium Palace Ibiza Resort & Spa",
+        "latitude": "38.876667",
+        "longitude": "1.400556",
+        "num_reviews": "5698",
+        "timezone": "Europe/Madrid",
+        "location_string": "Playa d'en Bossa, Ibiza, Balearic Islands",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/28/6d/e2/41/ovalada-swimming-pool.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/28/6d/e2/41/ovalada-swimming-pool.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "5760",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/28/6d/e2/41/ovalada-swimming-pool.jpg",
+              "height": "3840"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/28/6d/e2/41/ovalada-swimming-pool.jpg",
+              "height": "367"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/28/6d/e2/41/ovalada-swimming-pool.jpg",
+              "height": "167"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2023-03-11T02:32:52-0500",
+          "caption": "Ovalada Swimming Pool",
+          "id": "678289985",
+          "helpful_votes": "0",
+          "published_date": "2023-03-11T02:32:52-0500",
+          "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "open_now_text": "Open Now",
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "city", "name": "City" }],
+            "name": "Playa d'en Bossa",
+            "abbrv": null,
+            "location_id": "659635"
+          },
+          {
+            "subcategory": [{ "key": "island", "name": "Island" }],
+            "name": "Ibiza",
+            "abbrv": null,
+            "location_id": "187460"
+          },
+          {
+            "subcategory": [{ "key": "islandgroup", "name": "Island Group" }],
+            "name": "Balearic Islands",
+            "abbrv": null,
+            "location_id": "187459"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Spain",
+            "abbrv": null,
+            "location_id": "187427"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Calle Playa d'en Bossa, S/N",
+          "street2": "Sant Jordi de ses Salines",
+          "city": "Playa d'en Bossa",
+          "state": null,
+          "country": "Spain",
+          "postalcode": "07817"
+        },
+        "address": "Calle Playa d'en Bossa, S/N Sant Jordi de ses Salines, 07817 Playa d'en Bossa, Ibiza Spain",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 788 reviews"
+      },
+      "review_snippet": {
+        "snippet": "The place is spotless and is genuinely 5 star for Ibiza which I have been",
+        "spans": [{ "start_index": 50, "end_index": 55 }],
+        "review_id": "860353314"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "15643656",
+        "name": "Oku Ibiza",
+        "latitude": "38.99067",
+        "longitude": "1.29409",
+        "num_reviews": "125",
+        "timezone": "Europe/Madrid",
+        "location_string": "Sant Antoni de Portmany, Ibiza, Balearic Islands",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/1a/e3/aa/3d/oku-ibiza.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/1a/e3/aa/3d/oku-ibiza.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "1024",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/1a/e3/aa/3d/oku-ibiza.jpg",
+              "height": "683"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/1a/e3/aa/3d/oku-ibiza.jpg",
+              "height": "367"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/1a/e3/aa/3d/oku-ibiza.jpg",
+              "height": "167"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2020-02-14T04:02:11-0500",
+          "caption": "",
+          "id": "451127869",
+          "helpful_votes": "0",
+          "published_date": "2020-02-14T04:02:11-0500",
+          "user": { "user_id": null, "member_id": "0", "type": "user" }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "municipality", "name": "Municipality" }],
+            "name": "Sant Antoni de Portmany",
+            "abbrv": null,
+            "location_id": "652116"
+          },
+          {
+            "subcategory": [{ "key": "island", "name": "Island" }],
+            "name": "Ibiza",
+            "abbrv": null,
+            "location_id": "187460"
+          },
+          {
+            "subcategory": [{ "key": "islandgroup", "name": "Island Group" }],
+            "name": "Balearic Islands",
+            "abbrv": null,
+            "location_id": "187459"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Spain",
+            "abbrv": null,
+            "location_id": "187427"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Cami Del Portixol 2",
+          "street2": null,
+          "city": "Sant Antoni de Portmany",
+          "state": null,
+          "country": "Spain",
+          "postalcode": "07820"
+        },
+        "address": "Cami Del Portixol 2, 07820, Sant Antoni de Portmany, Ibiza Spain",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": { "mentioned_by_travelers": "matches 25 reviews" },
+      "review_snippet": {
+        "snippet": "The hotel is beautiful, rooms are small but as expected for Ibiza unless",
+        "spans": [{ "start_index": 60, "end_index": 65 }],
+        "review_id": "862432189"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "275025",
+        "name": "Nobu Hotel Ibiza Bay",
+        "latitude": "38.918175",
+        "longitude": "1.456808",
+        "num_reviews": "577",
+        "timezone": "Europe/Madrid",
+        "location_string": "Talamanca, Ibiza Town, Ibiza, Balearic Islands",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/17/9a/b3/d4/pool.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/17/9a/b3/d4/pool.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "3500",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/17/9a/b3/d4/pool.jpg",
+              "height": "1775"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/17/9a/b3/d4/pool.jpg",
+              "height": "279"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/17/9a/b3/d4/pool.jpg",
+              "height": "127"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2019-05-20T14:48:42-0400",
+          "caption": "Pool",
+          "id": "396014548",
+          "helpful_votes": "1",
+          "published_date": "2019-05-20T14:48:42-0400",
+          "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "city", "name": "City" }],
+            "name": "Talamanca",
+            "abbrv": null,
+            "location_id": "1068676"
+          },
+          {
+            "subcategory": [{ "key": "municipality", "name": "Municipality" }],
+            "name": "Ibiza Town",
+            "abbrv": null,
+            "location_id": "664638"
+          },
+          {
+            "subcategory": [{ "key": "island", "name": "Island" }],
+            "name": "Ibiza",
+            "abbrv": null,
+            "location_id": "187460"
+          },
+          {
+            "subcategory": [{ "key": "islandgroup", "name": "Island Group" }],
+            "name": "Balearic Islands",
+            "abbrv": null,
+            "location_id": "187459"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Spain",
+            "abbrv": null,
+            "location_id": "187427"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Calle Feixes 52",
+          "street2": "Playa de Talamanca",
+          "city": "Talamanca",
+          "state": null,
+          "country": "Spain",
+          "postalcode": "07800"
+        },
+        "address": "Calle Feixes 52 Playa de Talamanca, 07800 Talamanca, Ibiza Town, Ibiza Spain",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 199 reviews"
+      },
+      "review_snippet": {
+        "snippet": "I stayed in Nobu Ibiza with my wife and was so deeply impressed at the",
+        "spans": [{ "start_index": 17, "end_index": 22 }],
+        "review_id": "866603119"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "things_to_do",
+      "result_object": {
+        "location_id": "12881404",
+        "name": "Hi Ibiza",
+        "latitude": "38.885796",
+        "longitude": "1.403829",
+        "num_reviews": "366",
+        "timezone": "Europe/Madrid",
+        "location_string": "Playa d'en Bossa, Ibiza, Balearic Islands",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/18/1d/c4/08/photo2jpg.jpg",
+              "height": "141"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/18/1d/c4/08/photo2jpg.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "1280",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/18/1d/c4/08/photo2jpg.jpg",
+              "height": "720"
+            },
+            "large": {
+              "width": "1024",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-w/18/1d/c4/08/photo2jpg.jpg",
+              "height": "576"
+            },
+            "medium": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/18/1d/c4/08/photo2jpg.jpg",
+              "height": "309"
+            }
+          },
+          "is_blessed": false,
+          "uploaded_date": "2019-06-29T16:05:47-0400",
+          "caption": "",
+          "id": "404603912",
+          "helpful_votes": "3",
+          "published_date": "2019-06-29T16:05:47-0400",
+          "user": { "user_id": null, "member_id": "0", "type": "user" }
+        },
+        "awards": [],
+        "location_subtype": "none",
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "3.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "city", "name": "City" }],
+            "name": "Playa d'en Bossa",
+            "abbrv": null,
+            "location_id": "659635"
+          },
+          {
+            "subcategory": [{ "key": "island", "name": "Island" }],
+            "name": "Ibiza",
+            "abbrv": null,
+            "location_id": "187460"
+          },
+          {
+            "subcategory": [{ "key": "islandgroup", "name": "Island Group" }],
+            "name": "Balearic Islands",
+            "abbrv": null,
+            "location_id": "187459"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Spain",
+            "abbrv": null,
+            "location_id": "187427"
+          }
+        ],
+        "category": { "key": "attraction", "name": "Attraction" },
+        "subcategory": [{ "key": "20", "name": "Nightlife" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "next to Waterslide Park",
+          "street2": null,
+          "city": "Playa d'en Bossa",
+          "state": null,
+          "country": "Spain",
+          "postalcode": "07817"
+        },
+        "address": "next to Waterslide Park, 07817 Playa d'en Bossa, Ibiza Spain",
+        "is_candidate_for_contact_info_suppression": false
+      },
+      "search_explanations": { "mentioned_by_travelers": "matches 75 reviews" },
+      "review_snippet": {
+        "snippet": "Had a VIP experience at Hi Ibiza night club, walked over from Ushuaia after",
+        "spans": [{ "start_index": 27, "end_index": 32 }],
+        "review_id": "857241546"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "4601298",
+        "name": "Destino Pacha Ibiza Resort",
+        "latitude": "38.914173",
+        "longitude": "1.468637",
+        "num_reviews": "660",
+        "timezone": "Europe/Madrid",
+        "location_string": "Santa Eulalia del Rio, Ibiza, Balearic Islands",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/25/a5/03/a5/destino-pacha-ibiza-resort.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/25/a5/03/a5/destino-pacha-ibiza-resort.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "2877",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/25/a5/03/a5/destino-pacha-ibiza-resort.jpg",
+              "height": "1918"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/25/a5/03/a5/destino-pacha-ibiza-resort.jpg",
+              "height": "367"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/25/a5/03/a5/destino-pacha-ibiza-resort.jpg",
+              "height": "167"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2022-09-05T06:02:55-0400",
+          "caption": "",
+          "id": "631571365",
+          "helpful_votes": "0",
+          "published_date": "2022-09-05T06:02:55-0400",
+          "user": { "user_id": null, "member_id": "0", "type": "user" }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "municipality", "name": "Municipality" }],
+            "name": "Santa Eulalia del Rio",
+            "abbrv": null,
+            "location_id": "642208"
+          },
+          {
+            "subcategory": [{ "key": "island", "name": "Island" }],
+            "name": "Ibiza",
+            "abbrv": null,
+            "location_id": "187460"
+          },
+          {
+            "subcategory": [{ "key": "islandgroup", "name": "Island Group" }],
+            "name": "Balearic Islands",
+            "abbrv": null,
+            "location_id": "187459"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Spain",
+            "abbrv": null,
+            "location_id": "187427"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Avenida Cap Martinet S/N",
+          "street2": null,
+          "city": "Santa Eulalia del Rio",
+          "state": null,
+          "country": "Spain",
+          "postalcode": "07819"
+        },
+        "address": "Avenida Cap Martinet S/N, 07819, Santa Eulalia del Rio, Ibiza Spain",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 136 reviews"
+      },
+      "review_snippet": {
+        "snippet": "We had an incredible stay at the Destino Pacha Ibiza and one to remember",
+        "spans": [{ "start_index": 47, "end_index": 52 }],
+        "review_id": "868309984"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "restaurants",
+      "result_object": {
+        "location_id": "10457517",
+        "name": "STK Ibiza",
+        "latitude": "38.91146",
+        "longitude": "1.450917",
+        "num_reviews": "464",
+        "timezone": "Europe/Madrid",
+        "location_string": "Ibiza Town, Ibiza, Balearic Islands",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/13/09/48/d4/usda-prime-steak-with.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/13/09/48/d4/usda-prime-steak-with.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "1280",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/13/09/48/d4/usda-prime-steak-with.jpg",
+              "height": "853"
+            },
+            "large": {
+              "width": "1024",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-w/13/09/48/d4/usda-prime-steak-with.jpg",
+              "height": "682"
+            },
+            "medium": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/13/09/48/d4/usda-prime-steak-with.jpg",
+              "height": "367"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2018-05-23T07:00:43-0400",
+          "caption": "USDA prime steak with king prawn topping",
+          "id": "319375572",
+          "helpful_votes": "0",
+          "published_date": "2018-05-23T07:00:43-0400",
+          "user": { "user_id": null, "member_id": "0", "type": "user" }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.0",
+        "is_closed": false,
+        "open_now_text": "Closed Now",
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "municipality", "name": "Municipality" }],
+            "name": "Ibiza Town",
+            "abbrv": null,
+            "location_id": "664638"
+          },
+          {
+            "subcategory": [{ "key": "island", "name": "Island" }],
+            "name": "Ibiza",
+            "abbrv": null,
+            "location_id": "187460"
+          },
+          {
+            "subcategory": [{ "key": "islandgroup", "name": "Island Group" }],
+            "name": "Balearic Islands",
+            "abbrv": null,
+            "location_id": "187459"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Spain",
+            "abbrv": null,
+            "location_id": "187427"
+          }
+        ],
+        "category": { "key": "restaurant", "name": "Restaurant" },
+        "subcategory": [{ "key": "sit_down", "name": "Sit down" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Calle de l'Illa Plana S/N",
+          "street2": "Hotel Corso Ibiza",
+          "city": "Ibiza Town",
+          "state": null,
+          "country": "Spain",
+          "postalcode": "07800"
+        },
+        "address": "Calle de l'Illa Plana S/N Hotel Corso Ibiza, 07800, Ibiza Town, Ibiza Spain",
+        "is_candidate_for_contact_info_suppression": false,
+        "cuisine": [
+          { "key": "10345", "name": "Steakhouse" },
+          { "key": "10654", "name": "European" }
+        ],
+        "establishment_types": [{ "key": "10591", "name": "Restaurants" }]
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 154 reviews"
+      },
+      "review_snippet": {
+        "snippet": "The vibe at Stk Ibiza was amazing.",
+        "spans": [{ "start_index": 16, "end_index": 21 }],
+        "review_id": "876101667"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "662867",
+        "name": "Ibiza Gran Hotel",
+        "latitude": "38.91726",
+        "longitude": "1.441844",
+        "num_reviews": "632",
+        "timezone": "Europe/Madrid",
+        "location_string": "Ibiza Town, Ibiza, Balearic Islands",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/28/3c/68/2e/ibiza-gran-hotel.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/28/3c/68/2e/ibiza-gran-hotel.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "1600",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/28/3c/68/2e/ibiza-gran-hotel.jpg",
+              "height": "1066"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/28/3c/68/2e/ibiza-gran-hotel.jpg",
+              "height": "366"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/28/3c/68/2e/ibiza-gran-hotel.jpg",
+              "height": "167"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2023-02-17T07:56:12-0500",
+          "caption": "Ibiza Gran Hotel Gran Luxe",
+          "id": "675047470",
+          "helpful_votes": "0",
+          "published_date": "2023-02-17T07:56:12-0500",
+          "user": { "user_id": null, "member_id": "0", "type": "user" }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "municipality", "name": "Municipality" }],
+            "name": "Ibiza Town",
+            "abbrv": null,
+            "location_id": "664638"
+          },
+          {
+            "subcategory": [{ "key": "island", "name": "Island" }],
+            "name": "Ibiza",
+            "abbrv": null,
+            "location_id": "187460"
+          },
+          {
+            "subcategory": [{ "key": "islandgroup", "name": "Island Group" }],
+            "name": "Balearic Islands",
+            "abbrv": null,
+            "location_id": "187459"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Spain",
+            "abbrv": null,
+            "location_id": "187427"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Paseo Juan Carlos I, 17",
+          "street2": "",
+          "city": "Ibiza Town",
+          "state": null,
+          "country": "Spain",
+          "postalcode": "07800"
+        },
+        "address": "Paseo Juan Carlos I, 17, 07800, Ibiza Town, Ibiza Spain",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 219 reviews"
+      },
+      "review_snippet": {
+        "snippet": "Over the last 10 years, we have been fortunate enough to stay at most of Ibiza’s",
+        "spans": [{ "start_index": 73, "end_index": 80 }],
+        "review_id": "853693826"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "10359662",
+        "name": "One Ibiza Suites",
+        "latitude": "38.904144",
+        "longitude": "1.420942",
+        "num_reviews": "429",
+        "timezone": "Europe/Madrid",
+        "location_string": "Ibiza Town, Ibiza, Balearic Islands",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/0b/a3/da/b2/invitando-a-nadar-por.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/0b/a3/da/b2/invitando-a-nadar-por.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "2000",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/0b/a3/da/b2/invitando-a-nadar-por.jpg",
+              "height": "1500"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/0b/a3/da/b2/invitando-a-nadar-por.jpg",
+              "height": "413"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/0b/a3/da/b2/invitando-a-nadar-por.jpg",
+              "height": "188"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2016-06-16T19:44:09-0400",
+          "caption": "Invitando a nadar por la noche",
+          "id": "195287730",
+          "helpful_votes": "5",
+          "published_date": "2016-06-16T19:44:09-0400",
+          "user": { "user_id": null, "member_id": "0", "type": "user" }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "municipality", "name": "Municipality" }],
+            "name": "Ibiza Town",
+            "abbrv": null,
+            "location_id": "664638"
+          },
+          {
+            "subcategory": [{ "key": "island", "name": "Island" }],
+            "name": "Ibiza",
+            "abbrv": null,
+            "location_id": "187460"
+          },
+          {
+            "subcategory": [{ "key": "islandgroup", "name": "Island Group" }],
+            "name": "Balearic Islands",
+            "abbrv": null,
+            "location_id": "187459"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Spain",
+            "abbrv": null,
+            "location_id": "187427"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "other", "name": "Specialty Lodging" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Periodista Francisco Escanelles 20 83",
+          "street2": null,
+          "city": "Ibiza Town",
+          "state": null,
+          "country": "Spain",
+          "postalcode": "07800"
+        },
+        "address": "Periodista Francisco Escanelles 20 83, 07800, Ibiza Town, Ibiza Spain",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 114 reviews"
+      },
+      "review_snippet": {
+        "snippet": "Perfect spot in Ibiza! Along the Boulevard.",
+        "spans": [{ "start_index": 16, "end_index": 21 }],
+        "review_id": "859096233"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "activities",
+      "result_object": {
+        "location_id": "11476278",
+        "name": "Oceanbeat Ibiza boat party",
+        "num_reviews": "1284",
+        "timezone": "Europe/Madrid",
+        "location_string": "Ibiza, Balearic Islands",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/22/a2/4a/7e/caption.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/22/a2/4a/7e/caption.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "720",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/22/a2/4a/7e/caption.jpg",
+              "height": "480"
+            },
+            "large": {
+              "width": "720",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/22/a2/4a/7e/caption.jpg",
+              "height": "480"
+            },
+            "medium": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/22/a2/4a/7e/caption.jpg",
+              "height": "367"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2022-03-22T16:45:29-0400",
+          "caption": "",
+          "id": "581061246",
+          "helpful_votes": "0",
+          "published_date": "2022-03-22T16:45:29-0400",
+          "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "5.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "island", "name": "Island" }],
+            "name": "Ibiza",
+            "abbrv": null,
+            "location_id": "187460"
+          },
+          {
+            "subcategory": [{ "key": "islandgroup", "name": "Island Group" }],
+            "name": "Balearic Islands",
+            "abbrv": null,
+            "location_id": "187459"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Spain",
+            "abbrv": null,
+            "location_id": "187427"
+          }
+        ],
+        "category": { "key": "activity", "name": "Activity" },
+        "subcategory": [],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": null,
+          "street2": null,
+          "city": null,
+          "state": null,
+          "country": "Spain",
+          "postalcode": null
+        },
+        "address": "Ibiza Spain",
+        "is_candidate_for_contact_info_suppression": false,
+        "supplier_location_id": "6216603",
+        "supplier_location_name": "Oceanbeat Ibiza",
+        "supplier_location_subtype": "tour_operator",
+        "is_reviewable": true
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 352 reviews"
+      },
+      "review_snippet": {
+        "snippet": "year in Goa in India but they cannot compare to Oceanbeat - for sure Ibiza’s",
+        "spans": [{ "start_index": 69, "end_index": 76 }],
+        "review_id": "861850768"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "1769311",
+        "name": "Ibiza The Fern Resort & Spa",
+        "latitude": "22.350555",
+        "longitude": "88.2663",
+        "num_reviews": "451",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Kolkata (Calcutta), Kolkata District, West Bengal",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/0b/47/da/ac/ibiza.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/0b/47/da/ac/ibiza.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "4320",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/0b/47/da/ac/ibiza.jpg",
+              "height": "3240"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/0b/47/da/ac/ibiza.jpg",
+              "height": "413"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/0b/47/da/ac/ibiza.jpg",
+              "height": "188"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2016-05-16T05:19:41-0400",
+          "caption": "IBIZA",
+          "id": "189258412",
+          "helpful_votes": "11",
+          "published_date": "2016-05-16T05:19:41-0400",
+          "user": { "user_id": null, "member_id": "0", "type": "user" }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "ride_providers": ["olaCabs"],
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "city", "name": "City" }],
+            "name": "Kolkata (Calcutta)",
+            "abbrv": null,
+            "location_id": "304558"
+          },
+          {
+            "subcategory": [{ "key": "district", "name": "District" }],
+            "name": "Kolkata District",
+            "abbrv": null,
+            "location_id": "12417686"
+          },
+          {
+            "subcategory": [{ "key": "state", "name": "State" }],
+            "name": "West Bengal",
+            "abbrv": null,
+            "location_id": "297692"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "India",
+            "abbrv": null,
+            "location_id": "293860"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Merlin Greens Kriparampur",
+          "street2": "Amtala 24 Parganas",
+          "city": "Kolkata (Calcutta)",
+          "state": "West Bengal",
+          "country": "India",
+          "postalcode": "743503"
+        },
+        "address": "Merlin Greens Kriparampur Amtala 24 Parganas, Kolkata (Calcutta) 743503 India",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 180 reviews"
+      },
+      "review_snippet": {
+        "snippet": "Go and visit Ibiza.",
+        "spans": [{ "start_index": 13, "end_index": 19 }],
+        "review_id": "881565244"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "23873080",
+        "name": "The Standard, Ibiza",
+        "latitude": "38.909885",
+        "longitude": "1.434095",
+        "num_reviews": "102",
+        "timezone": "Europe/Madrid",
+        "location_string": "Ibiza Town, Ibiza, Balearic Islands",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/27/f0/be/e7/up-rooftop.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/27/f0/be/e7/up-rooftop.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "6027",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/27/f0/be/e7/up-rooftop.jpg",
+              "height": "8036"
+            },
+            "large": {
+              "width": "338",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/27/f0/be/e7/up-rooftop.jpg",
+              "height": "450"
+            },
+            "medium": {
+              "width": "154",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/27/f0/be/e7/up-rooftop.jpg",
+              "height": "205"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2023-01-20T19:57:19-0500",
+          "caption": "Up Rooftop",
+          "id": "670088935",
+          "helpful_votes": "0",
+          "published_date": "2023-01-20T19:57:19-0500",
+          "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "municipality", "name": "Municipality" }],
+            "name": "Ibiza Town",
+            "abbrv": null,
+            "location_id": "664638"
+          },
+          {
+            "subcategory": [{ "key": "island", "name": "Island" }],
+            "name": "Ibiza",
+            "abbrv": null,
+            "location_id": "187460"
+          },
+          {
+            "subcategory": [{ "key": "islandgroup", "name": "Island Group" }],
+            "name": "Balearic Islands",
+            "abbrv": null,
+            "location_id": "187459"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Spain",
+            "abbrv": null,
+            "location_id": "187427"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Calle de Bartomeu Vicent Ramon 9",
+          "street2": null,
+          "city": "Ibiza Town",
+          "state": null,
+          "country": "Spain",
+          "postalcode": "07800"
+        },
+        "address": "Calle de Bartomeu Vicent Ramon 9, 07800, Ibiza Town, Ibiza Spain",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": { "mentioned_by_travelers": "matches 39 reviews" },
+      "review_snippet": {
+        "snippet": "We will definitely return to Ibiza Standard!",
+        "spans": [{ "start_index": 29, "end_index": 34 }],
+        "review_id": "869374735"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "restaurants",
+      "result_object": {
+        "location_id": "3325647",
+        "name": "Tapas Ibiza",
+        "latitude": "38.97469",
+        "longitude": "1.312631",
+        "num_reviews": "1802",
+        "timezone": "Europe/Madrid",
+        "location_string": "Sant Antoni de Portmany, Ibiza, Balearic Islands",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/25/ee/bf/74/dinner-in-the-dappled.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/25/ee/bf/74/dinner-in-the-dappled.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "640",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/25/ee/bf/74/dinner-in-the-dappled.jpg",
+              "height": "427"
+            },
+            "large": {
+              "width": "640",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/25/ee/bf/74/dinner-in-the-dappled.jpg",
+              "height": "427"
+            },
+            "medium": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/25/ee/bf/74/dinner-in-the-dappled.jpg",
+              "height": "367"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2022-09-18T10:56:10-0400",
+          "caption": "Dinner in the dappled sunshine ",
+          "id": "636403572",
+          "helpful_votes": "1",
+          "published_date": "2022-09-18T10:56:10-0400",
+          "user": { "user_id": null, "member_id": "0", "type": "user" }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "open_now_text": "Open Now",
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "municipality", "name": "Municipality" }],
+            "name": "Sant Antoni de Portmany",
+            "abbrv": null,
+            "location_id": "652116"
+          },
+          {
+            "subcategory": [{ "key": "island", "name": "Island" }],
+            "name": "Ibiza",
+            "abbrv": null,
+            "location_id": "187460"
+          },
+          {
+            "subcategory": [{ "key": "islandgroup", "name": "Island Group" }],
+            "name": "Balearic Islands",
+            "abbrv": null,
+            "location_id": "187459"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Spain",
+            "abbrv": null,
+            "location_id": "187427"
+          }
+        ],
+        "category": { "key": "restaurant", "name": "Restaurant" },
+        "subcategory": [{ "key": "sit_down", "name": "Sit down" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Cami de Reguero, 4",
+          "street2": null,
+          "city": "Sant Antoni de Portmany",
+          "state": null,
+          "country": "Spain",
+          "postalcode": "07820"
+        },
+        "address": "Cami de Reguero, 4, 07820, Sant Antoni de Portmany, Ibiza Spain",
+        "is_candidate_for_contact_info_suppression": false,
+        "cuisine": [
+          { "key": "10649", "name": "Mediterranean" },
+          { "key": "10654", "name": "European" },
+          { "key": "10655", "name": "Spanish" },
+          { "key": "10648", "name": "International" }
+        ],
+        "establishment_types": [{ "key": "10591", "name": "Restaurants" }]
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 402 reviews"
+      },
+      "review_snippet": {
+        "snippet": "Would definitely recommend a visit here whilst in Ibiza.",
+        "spans": [{ "start_index": 50, "end_index": 56 }],
+        "review_id": "864922571"
+      },
+      "scope": "local"
+    }
+  ],
+  "metadata": { "scope": "local" },
+  "sort": [
+    {
+      "filter_key": "relevance",
+      "label": "Relevance",
+      "locale_independent_label": "relevance",
+      "selected": true
+    },
+    {
+      "filter_key": "distance",
+      "label": "Distance",
+      "locale_independent_label": "distance",
+      "selected": false
+    }
+  ],
+  "partial_content": false,
+  "tracking": { "search_id": "D697E22027DC4D4A9AC26558D17644691681139039618" },
+  "paging": { "results": "30", "total_results": "9830" }
+}

@@ -1,0 +1,3136 @@
+{
+  "data": [
+    {
+      "result_type": "geos",
+      "result_object": {
+        "location_id": "255100",
+        "name": "Melbourne",
+        "latitude": "-37.818924",
+        "longitude": "144.95778",
+        "num_reviews": "848838",
+        "timezone": "Australia/Melbourne",
+        "location_string": "Melbourne, Victoria",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/1c/ba/8d/5f/caption.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/1c/ba/8d/5f/caption.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "6000",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/1c/ba/8d/5f/caption.jpg",
+              "height": "4000"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/1c/ba/8d/5f/caption.jpg",
+              "height": "367"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/1c/ba/8d/5f/caption.jpg",
+              "height": "167"
+            }
+          },
+          "is_blessed": false,
+          "uploaded_date": "2021-03-10T18:02:45-0500",
+          "caption": "",
+          "id": "481987935",
+          "helpful_votes": "2",
+          "published_date": "2021-03-10T18:02:45-0500",
+          "user": null
+        },
+        "awards": [
+          {
+            "award_type": "Traveler's Choice",
+            "year": "2023",
+            "images": {
+              "small": "https://static.tacdn.com/img2/awards/TC-Color-60x60-updated-green.png",
+              "large": "https://www.tripadvisor.com/img2/awards/TC_2014_downloadable_L_TM.jpg"
+            },
+            "categories": ["Popular Destinations"],
+            "display_name": "Travelers' Choice 2023"
+          }
+        ],
+        "doubleclick_zone": "sp.au.victoria.melbourne",
+        "preferred_map_engine": "default",
+        "geo_type": "narrow",
+        "category_counts": {
+          "attractions": {
+            "activities": "966",
+            "attractions": "723",
+            "nightlife": "246",
+            "shopping": "216",
+            "total": "2151"
+          },
+          "restaurants": { "total": "5201" },
+          "accommodations": {
+            "hotels": "174",
+            "bbs_inns": "44",
+            "others": "355",
+            "total": "573"
+          },
+          "neighborhoods": "15",
+          "airports": "1"
+        },
+        "map_image_url": "https://media-cdn.tripadvisor.com/media/mobile/offline/maps/static/en/255100.png?t=1449786465",
+        "nearby_attractions": [],
+        "description": "",
+        "is_localized_description": true,
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "state", "name": "State" }],
+            "name": "Victoria",
+            "abbrv": null,
+            "location_id": "255098"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Australia",
+            "abbrv": null,
+            "location_id": "255055"
+          }
+        ],
+        "category": { "key": "geographic", "name": "Geographic" },
+        "subcategory": [{ "key": "city", "name": "City" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "geo_description": "Lovely, laid-back Melbourne has something for everyone: family fare, local and international art, haute boutiques, multicultural dining, Australian and Aboriginal history, spectator sports, and pulsing, swanky nightlife. Cruise on the free City Circle Tram loop to check out unique attractions like the Royal Botanical Gardens and the Healesville Sanctuary, which buzzes with local animal species.",
+        "has_restaurant_coverpage": false,
+        "has_attraction_coverpage": false,
+        "has_curated_shopping_list": false
+      },
+      "scope": "local",
+      "is_top_result": true
+    },
+    {
+      "result_type": "geos",
+      "result_object": {
+        "location_id": "34433",
+        "name": "Melbourne",
+        "latitude": "28.079666",
+        "longitude": "-80.60635",
+        "num_reviews": "64333",
+        "timezone": "America/New_York",
+        "location_string": "Melbourne, Brevard County, Florida",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/06/bc/b3/ef/brevard-zoo-in-melbourne.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/06/bc/b3/ef/brevard-zoo-in-melbourne.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "1024",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/06/bc/b3/ef/brevard-zoo-in-melbourne.jpg",
+              "height": "575"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/06/bc/b3/ef/brevard-zoo-in-melbourne.jpg",
+              "height": "308"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/06/bc/b3/ef/brevard-zoo-in-melbourne.jpg",
+              "height": "140"
+            }
+          },
+          "is_blessed": false,
+          "uploaded_date": "2014-10-15T10:51:27-0400",
+          "caption": "Brevard Zoo in Melbourne",
+          "id": "113030127",
+          "helpful_votes": "2",
+          "published_date": "2014-10-21T15:20:47-0400",
+          "user": { "user_id": null, "member_id": "0", "type": "user" }
+        },
+        "awards": [],
+        "doubleclick_zone": "na.us.fl.melbourne",
+        "preferred_map_engine": "default",
+        "geo_type": "narrow",
+        "category_counts": {
+          "attractions": {
+            "activities": "103",
+            "attractions": "71",
+            "nightlife": "13",
+            "shopping": "49",
+            "total": "236"
+          },
+          "restaurants": { "total": "466" },
+          "accommodations": {
+            "hotels": "27",
+            "bbs_inns": "3",
+            "others": "7",
+            "total": "37"
+          },
+          "neighborhoods": "0",
+          "airports": "1"
+        },
+        "nearby_attractions": [],
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "county", "name": "County" }],
+            "name": "Brevard County",
+            "abbrv": null,
+            "location_id": "7659357"
+          },
+          {
+            "subcategory": [{ "key": "state", "name": "State" }],
+            "name": "Florida",
+            "abbrv": "FL",
+            "location_id": "28930"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "United States",
+            "abbrv": null,
+            "location_id": "191"
+          }
+        ],
+        "category": { "key": "geographic", "name": "Geographic" },
+        "subcategory": [{ "key": "city", "name": "City" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "has_restaurant_coverpage": false,
+        "has_attraction_coverpage": false,
+        "has_curated_shopping_list": false
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "10712642",
+        "name": "QT Melbourne",
+        "latitude": "-37.81334",
+        "longitude": "144.96794",
+        "num_reviews": "2615",
+        "timezone": "Australia/Melbourne",
+        "location_string": "Melbourne, Victoria",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/1c/d3/c2/de/qt-melbourne-lobby.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/1c/d3/c2/de/qt-melbourne-lobby.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "1023",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/1c/d3/c2/de/qt-melbourne-lobby.jpg",
+              "height": "682"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/1c/d3/c2/de/qt-melbourne-lobby.jpg",
+              "height": "367"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/1c/d3/c2/de/qt-melbourne-lobby.jpg",
+              "height": "167"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2021-04-06T14:53:18-0400",
+          "caption": "QT Melbourne Lobby",
+          "id": "483640030",
+          "helpful_votes": "1",
+          "published_date": "2021-04-06T14:53:18-0400",
+          "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "city", "name": "City" }],
+            "name": "Melbourne",
+            "abbrv": null,
+            "location_id": "255100"
+          },
+          {
+            "subcategory": [{ "key": "state", "name": "State" }],
+            "name": "Victoria",
+            "abbrv": null,
+            "location_id": "255098"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Australia",
+            "abbrv": null,
+            "location_id": "255055"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "133 Russell St",
+          "street2": null,
+          "city": "Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "postalcode": "3000"
+        },
+        "address": "133 Russell St, Melbourne, Victoria 3000 Australia",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 1,121 reviews"
+      },
+      "review_snippet": {
+        "snippet": "I’ve just stayed for 2 weeks at QT Melbourne and will be back in a heartbeat",
+        "spans": [{ "start_index": 35, "end_index": 44 }],
+        "review_id": "876151620"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "257575",
+        "name": "Crown Towers Melbourne",
+        "latitude": "-37.82229",
+        "longitude": "144.96014",
+        "num_reviews": "3558",
+        "timezone": "Australia/Melbourne",
+        "location_string": "Melbourne, Victoria",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/28/87/35/75/crown-melbourne-exterior.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/28/87/35/75/crown-melbourne-exterior.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "1023",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/28/87/35/75/crown-melbourne-exterior.jpg",
+              "height": "539"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/28/87/35/75/crown-melbourne-exterior.jpg",
+              "height": "290"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/28/87/35/75/crown-melbourne-exterior.jpg",
+              "height": "132"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2023-03-19T17:05:08-0400",
+          "caption": "Crown Melbourne Exterior",
+          "id": "679949685",
+          "helpful_votes": "0",
+          "published_date": "2023-03-19T17:05:08-0400",
+          "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "open_now_text": "Open Now",
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "city", "name": "City" }],
+            "name": "Melbourne",
+            "abbrv": null,
+            "location_id": "255100"
+          },
+          {
+            "subcategory": [{ "key": "state", "name": "State" }],
+            "name": "Victoria",
+            "abbrv": null,
+            "location_id": "255098"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Australia",
+            "abbrv": null,
+            "location_id": "255055"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "8 Whiteman Street, Southbank",
+          "street2": null,
+          "city": "Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "postalcode": "3006"
+        },
+        "address": "8 Whiteman Street, Southbank, Melbourne, Victoria 3006 Australia",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 1,154 reviews"
+      },
+      "review_snippet": {
+        "snippet": "Ideally located within the Melbourne CBD on the Yarra River front with",
+        "spans": [{ "start_index": 27, "end_index": 36 }],
+        "review_id": "880544971"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "256833",
+        "name": "Grand Hyatt Melbourne",
+        "latitude": "-37.814842",
+        "longitude": "144.96939",
+        "num_reviews": "6426",
+        "timezone": "Australia/Melbourne",
+        "location_string": "Melbourne, Victoria",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/28/4b/8a/e0/exterior.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/28/4b/8a/e0/exterior.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "850",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/28/4b/8a/e0/exterior.jpg",
+              "height": "1023"
+            },
+            "large": {
+              "width": "374",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/28/4b/8a/e0/exterior.jpg",
+              "height": "450"
+            },
+            "medium": {
+              "width": "170",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/28/4b/8a/e0/exterior.jpg",
+              "height": "205"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2023-02-21T16:59:09-0500",
+          "caption": "Exterior",
+          "id": "676039392",
+          "helpful_votes": "0",
+          "published_date": "2023-02-21T16:59:09-0500",
+          "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "city", "name": "City" }],
+            "name": "Melbourne",
+            "abbrv": null,
+            "location_id": "255100"
+          },
+          {
+            "subcategory": [{ "key": "state", "name": "State" }],
+            "name": "Victoria",
+            "abbrv": null,
+            "location_id": "255098"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Australia",
+            "abbrv": null,
+            "location_id": "255055"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "123 Collins Street",
+          "street2": null,
+          "city": "Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "postalcode": "3000"
+        },
+        "address": "123 Collins Street, Melbourne, Victoria 3000 Australia",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 2,570 reviews"
+      },
+      "review_snippet": {
+        "snippet": "Looking forward to staying again next time in Melbourne.",
+        "spans": [{ "start_index": 46, "end_index": 56 }],
+        "review_id": "877342505"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "549485",
+        "name": "The Langham, Melbourne",
+        "latitude": "-37.820545",
+        "longitude": "144.96562",
+        "num_reviews": "7580",
+        "timezone": "Australia/Melbourne",
+        "location_string": "Melbourne, Victoria",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/28/6b/4a/e2/exterior-at-night.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/28/6b/4a/e2/exterior-at-night.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "4079",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/28/6b/4a/e2/exterior-at-night.jpg",
+              "height": "2480"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/28/6b/4a/e2/exterior-at-night.jpg",
+              "height": "334"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/28/6b/4a/e2/exterior-at-night.jpg",
+              "height": "152"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2023-03-09T14:44:14-0500",
+          "caption": "Exterior At Night",
+          "id": "678120162",
+          "helpful_votes": "0",
+          "published_date": "2023-03-09T14:44:14-0500",
+          "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "city", "name": "City" }],
+            "name": "Melbourne",
+            "abbrv": null,
+            "location_id": "255100"
+          },
+          {
+            "subcategory": [{ "key": "state", "name": "State" }],
+            "name": "Victoria",
+            "abbrv": null,
+            "location_id": "255098"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Australia",
+            "abbrv": null,
+            "location_id": "255055"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "1 Southgate Ave",
+          "street2": null,
+          "city": "Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "postalcode": "3006"
+        },
+        "address": "1 Southgate Ave, Melbourne, Victoria 3006 Australia",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 3,241 reviews"
+      },
+      "review_snippet": {
+        "snippet": "The Langham is a hotel in a perfect location for enjoying Melbourne.",
+        "spans": [{ "start_index": 58, "end_index": 68 }],
+        "review_id": "884006887"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "1719031",
+        "name": "Crown Metropol Melbourne",
+        "latitude": "-37.825573",
+        "longitude": "144.95795",
+        "num_reviews": "5328",
+        "timezone": "Australia/Melbourne",
+        "location_string": "Melbourne, Victoria",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/28/7b/2a/e7/pool-dusk.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/28/7b/2a/e7/pool-dusk.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "1023",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/28/7b/2a/e7/pool-dusk.jpg",
+              "height": "682"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/28/7b/2a/e7/pool-dusk.jpg",
+              "height": "367"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/28/7b/2a/e7/pool-dusk.jpg",
+              "height": "167"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2023-03-18T17:03:17-0400",
+          "caption": "Pool Dusk",
+          "id": "679160551",
+          "helpful_votes": "0",
+          "published_date": "2023-03-18T17:03:17-0400",
+          "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "open_now_text": "Open Now",
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "city", "name": "City" }],
+            "name": "Melbourne",
+            "abbrv": null,
+            "location_id": "255100"
+          },
+          {
+            "subcategory": [{ "key": "state", "name": "State" }],
+            "name": "Victoria",
+            "abbrv": null,
+            "location_id": "255098"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Australia",
+            "abbrv": null,
+            "location_id": "255055"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "8 Whiteman Street, Southbannk",
+          "street2": "",
+          "city": "Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "postalcode": "3006"
+        },
+        "address": "8 Whiteman Street, Southbannk, Melbourne, Victoria 3006 Australia",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 1,623 reviews"
+      },
+      "review_snippet": {
+        "snippet": "A wonderful stay at the Crown Metropol Melbourne.",
+        "spans": [{ "start_index": 39, "end_index": 49 }],
+        "review_id": "876004894"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "21499503",
+        "name": "Next Hotel Melbourne",
+        "latitude": "-37.813637",
+        "longitude": "144.97023",
+        "num_reviews": "1030",
+        "timezone": "Australia/Melbourne",
+        "location_string": "Melbourne, Victoria",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/27/a2/e9/c9/exterior.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/27/a2/e9/c9/exterior.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "682",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/27/a2/e9/c9/exterior.jpg",
+              "height": "1023"
+            },
+            "large": {
+              "width": "300",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/27/a2/e9/c9/exterior.jpg",
+              "height": "450"
+            },
+            "medium": {
+              "width": "137",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/27/a2/e9/c9/exterior.jpg",
+              "height": "205"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2022-12-29T16:50:12-0500",
+          "caption": "Exterior",
+          "id": "664988105",
+          "helpful_votes": "0",
+          "published_date": "2022-12-29T16:50:12-0500",
+          "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "5.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "city", "name": "City" }],
+            "name": "Melbourne",
+            "abbrv": null,
+            "location_id": "255100"
+          },
+          {
+            "subcategory": [{ "key": "state", "name": "State" }],
+            "name": "Victoria",
+            "abbrv": null,
+            "location_id": "255098"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Australia",
+            "abbrv": null,
+            "location_id": "255055"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "103 Little Collins",
+          "street2": null,
+          "city": "Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "postalcode": "3000"
+        },
+        "address": "103 Little Collins, Melbourne, Victoria 3000 Australia",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 342 reviews"
+      },
+      "review_snippet": {
+        "snippet": "You are within very easy reach of Melbourne&#x27;s best restaurants, laneways",
+        "spans": [{ "start_index": 34, "end_index": 50 }],
+        "review_id": "874973810"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "256844",
+        "name": "Park Hyatt Melbourne",
+        "latitude": "-37.811146",
+        "longitude": "144.97641",
+        "num_reviews": "4388",
+        "timezone": "Australia/Melbourne",
+        "location_string": "Melbourne, Victoria",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/1d/8e/dc/da/exterior.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/1d/8e/dc/da/exterior.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "1024",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/1d/8e/dc/da/exterior.jpg",
+              "height": "799"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/1d/8e/dc/da/exterior.jpg",
+              "height": "429"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/1d/8e/dc/da/exterior.jpg",
+              "height": "195"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2021-08-10T01:19:36-0400",
+          "caption": "Exterior",
+          "id": "495901914",
+          "helpful_votes": "2",
+          "published_date": "2021-08-10T01:19:36-0400",
+          "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "city", "name": "City" }],
+            "name": "Melbourne",
+            "abbrv": null,
+            "location_id": "255100"
+          },
+          {
+            "subcategory": [{ "key": "state", "name": "State" }],
+            "name": "Victoria",
+            "abbrv": null,
+            "location_id": "255098"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Australia",
+            "abbrv": null,
+            "location_id": "255055"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "1 Parliament Square",
+          "street2": "off Parliament Place",
+          "city": "Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "postalcode": "3002"
+        },
+        "address": "1 Parliament Square off Parliament Place, Melbourne, Victoria 3002 Australia",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 1,835 reviews"
+      },
+      "review_snippet": {
+        "snippet": "because of the proximity to our Melbourne activities.",
+        "spans": [{ "start_index": 32, "end_index": 41 }],
+        "review_id": "884025479"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "523930",
+        "name": "Crown Promenade Melbourne",
+        "latitude": "-37.8239",
+        "longitude": "144.95973",
+        "num_reviews": "3511",
+        "timezone": "Australia/Melbourne",
+        "location_string": "Melbourne, Victoria",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/28/7b/2a/e6/lobby.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/28/7b/2a/e6/lobby.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "1023",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/28/7b/2a/e6/lobby.jpg",
+              "height": "758"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/28/7b/2a/e6/lobby.jpg",
+              "height": "408"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/28/7b/2a/e6/lobby.jpg",
+              "height": "185"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2023-03-18T17:03:16-0400",
+          "caption": "Lobby",
+          "id": "679160550",
+          "helpful_votes": "0",
+          "published_date": "2023-03-18T17:03:16-0400",
+          "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "open_now_text": "Open Now",
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "city", "name": "City" }],
+            "name": "Melbourne",
+            "abbrv": null,
+            "location_id": "255100"
+          },
+          {
+            "subcategory": [{ "key": "state", "name": "State" }],
+            "name": "Victoria",
+            "abbrv": null,
+            "location_id": "255098"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Australia",
+            "abbrv": null,
+            "location_id": "255055"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "8 Whiteman Street",
+          "street2": null,
+          "city": "Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "postalcode": "3006"
+        },
+        "address": "8 Whiteman Street, Melbourne, Victoria 3006 Australia",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 1,049 reviews"
+      },
+      "review_snippet": {
+        "snippet": "Stayed for a second time while visiting our son in Melbourne.",
+        "spans": [{ "start_index": 51, "end_index": 61 }],
+        "review_id": "883091908"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "23153980",
+        "name": "W Melbourne",
+        "latitude": "-37.81828",
+        "longitude": "144.96053",
+        "num_reviews": "98",
+        "timezone": "Australia/Melbourne",
+        "location_string": "Melbourne, Victoria",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/28/b7/d6/c3/wetr.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/28/b7/d6/c3/wetr.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "4000",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/28/b7/d6/c3/wetr.jpg",
+              "height": "2667"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/28/b7/d6/c3/wetr.jpg",
+              "height": "367"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/28/b7/d6/c3/wetr.jpg",
+              "height": "167"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2023-04-03T07:22:46-0400",
+          "caption": "WET®",
+          "id": "683136707",
+          "helpful_votes": "0",
+          "published_date": "2023-04-03T07:22:46-0400",
+          "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.0",
+        "is_closed": false,
+        "open_now_text": "Open Now",
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "city", "name": "City" }],
+            "name": "Melbourne",
+            "abbrv": null,
+            "location_id": "255100"
+          },
+          {
+            "subcategory": [{ "key": "state", "name": "State" }],
+            "name": "Victoria",
+            "abbrv": null,
+            "location_id": "255098"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Australia",
+            "abbrv": null,
+            "location_id": "255055"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "408 Flinders Lane",
+          "street2": null,
+          "city": "Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "postalcode": "3000"
+        },
+        "address": "408 Flinders Lane, Melbourne, Victoria 3000 Australia",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": { "mentioned_by_travelers": "matches 47 reviews" },
+      "review_snippet": {
+        "snippet": "Would love to come back again for my next Melbourne visit.",
+        "spans": [{ "start_index": 42, "end_index": 51 }],
+        "review_id": "872509227"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "things_to_do",
+      "result_object": {
+        "location_id": "10403901",
+        "name": "Main Street Melbourne - Downtown Melbourne",
+        "latitude": "28.078781",
+        "longitude": "-80.60632",
+        "num_reviews": "134",
+        "timezone": "America/New_York",
+        "location_string": "Melbourne, Brevard County, Florida",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/0f/0b/28/c8/very-excellent-arch.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/0f/0b/28/c8/very-excellent-arch.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "640",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/0f/0b/28/c8/very-excellent-arch.jpg",
+              "height": "480"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/0f/0b/28/c8/very-excellent-arch.jpg",
+              "height": "413"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/0f/0b/28/c8/very-excellent-arch.jpg",
+              "height": "188"
+            }
+          },
+          "is_blessed": false,
+          "uploaded_date": "2017-04-21T11:59:56-0400",
+          "caption": "Very Excellent Arch",
+          "id": "252389576",
+          "helpful_votes": "6",
+          "published_date": "2017-04-21T11:59:56-0400",
+          "user": { "user_id": null, "member_id": "0", "type": "user" }
+        },
+        "awards": [],
+        "location_subtype": "none",
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "city", "name": "City" }],
+            "name": "Melbourne",
+            "abbrv": null,
+            "location_id": "34433"
+          },
+          {
+            "subcategory": [{ "key": "county", "name": "County" }],
+            "name": "Brevard County",
+            "abbrv": null,
+            "location_id": "7659357"
+          },
+          {
+            "subcategory": [{ "key": "state", "name": "State" }],
+            "name": "Florida",
+            "abbrv": "FL",
+            "location_id": "28930"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "United States",
+            "abbrv": null,
+            "location_id": "191"
+          }
+        ],
+        "category": { "key": "attraction", "name": "Attraction" },
+        "subcategory": [
+          { "key": "47", "name": "Sights & Landmarks" },
+          { "key": "51", "name": "Other" }
+        ],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "2000 Frost Valley Road",
+          "street2": null,
+          "city": "Melbourne",
+          "state": "FL",
+          "country": "United States",
+          "postalcode": "32901-5441"
+        },
+        "address": "2000 Frost Valley Road, Melbourne, FL 32901-5441",
+        "is_candidate_for_contact_info_suppression": false
+      },
+      "search_explanations": { "mentioned_by_travelers": "matches 42 reviews" },
+      "review_snippet": {
+        "snippet": "Downtown Melbourne is historical, has a couple of terrific thrift shops",
+        "spans": [{ "start_index": 9, "end_index": 18 }],
+        "review_id": "874685975"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "257028",
+        "name": "View Melbourne",
+        "latitude": "-37.846176",
+        "longitude": "144.97859",
+        "num_reviews": "3716",
+        "timezone": "Australia/Melbourne",
+        "location_string": "Melbourne, Victoria",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/19/c5/2c/9b/deluxe-king-corner-room.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/19/c5/2c/9b/deluxe-king-corner-room.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "5916",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/19/c5/2c/9b/deluxe-king-corner-room.jpg",
+              "height": "3639"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/19/c5/2c/9b/deluxe-king-corner-room.jpg",
+              "height": "338"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/19/c5/2c/9b/deluxe-king-corner-room.jpg",
+              "height": "154"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2019-10-21T19:52:31-0400",
+          "caption": "Deluxe King Corner Room ",
+          "id": "432352411",
+          "helpful_votes": "0",
+          "published_date": "2019-10-21T19:52:31-0400",
+          "user": { "user_id": null, "member_id": "0", "type": "user" }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "city", "name": "City" }],
+            "name": "Melbourne",
+            "abbrv": null,
+            "location_id": "255100"
+          },
+          {
+            "subcategory": [{ "key": "state", "name": "State" }],
+            "name": "Victoria",
+            "abbrv": null,
+            "location_id": "255098"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Australia",
+            "abbrv": null,
+            "location_id": "255055"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "562 St Kilda Road",
+          "street2": "",
+          "city": "Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "postalcode": "3004"
+        },
+        "address": "562 St Kilda Road, Melbourne, Victoria 3004 Australia",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 1,092 reviews"
+      },
+      "review_snippet": {
+        "snippet": "Hotel well located in a quiet area 10-15 minutes by car or cab from Melbourne.",
+        "spans": [{ "start_index": 68, "end_index": 78 }],
+        "review_id": "877555757"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "things_to_do",
+      "result_object": {
+        "location_id": "256557",
+        "name": "Melbourne Zoo",
+        "latitude": "-37.783768",
+        "longitude": "144.95212",
+        "num_reviews": "6650",
+        "timezone": "Australia/Melbourne",
+        "location_string": "Melbourne, Victoria",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/11/59/b9/72/lemur.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/11/59/b9/72/lemur.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "1280",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/11/59/b9/72/lemur.jpg",
+              "height": "853"
+            },
+            "large": {
+              "width": "1024",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-w/11/59/b9/72/lemur.jpg",
+              "height": "682"
+            },
+            "medium": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/11/59/b9/72/lemur.jpg",
+              "height": "366"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2017-11-23T18:27:50-0500",
+          "caption": "Lemur",
+          "id": "291092850",
+          "helpful_votes": "16",
+          "published_date": "2017-11-23T18:27:50-0500",
+          "user": { "user_id": null, "member_id": "0", "type": "user" }
+        },
+        "awards": [],
+        "location_subtype": "none",
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "open_now_text": "Closed Now",
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "city", "name": "City" }],
+            "name": "Melbourne",
+            "abbrv": null,
+            "location_id": "255100"
+          },
+          {
+            "subcategory": [{ "key": "state", "name": "State" }],
+            "name": "Victoria",
+            "abbrv": null,
+            "location_id": "255098"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Australia",
+            "abbrv": null,
+            "location_id": "255055"
+          }
+        ],
+        "category": { "key": "attraction", "name": "Attraction" },
+        "subcategory": [
+          { "key": "48", "name": "Zoos & Aquariums" },
+          { "key": "57", "name": "Nature & Parks" },
+          { "key": "61", "name": "Outdoor Activities" }
+        ],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Elliott Avenue",
+          "street2": "Parkville",
+          "city": "Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "postalcode": "3052"
+        },
+        "address": "Elliott Avenue Parkville, Melbourne, Victoria 3052 Australia",
+        "is_candidate_for_contact_info_suppression": false
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 2,346 reviews"
+      },
+      "review_snippet": {
+        "snippet": "By the way, the Melbourne Zoo is close to the Melbourne CDB, it&#x27;s easily",
+        "spans": [
+          { "start_index": 16, "end_index": 25 },
+          { "start_index": 46, "end_index": 55 }
+        ],
+        "review_id": "878177391"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "geos",
+      "result_object": {
+        "location_id": "34434",
+        "name": "Melbourne Beach",
+        "latitude": "28.06839",
+        "longitude": "-80.56466",
+        "num_reviews": "9249",
+        "timezone": "America/New_York",
+        "location_string": "Melbourne Beach, Brevard County, Florida",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/0c/0d/af/be/panorama-of-ocean.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/0c/0d/af/be/panorama-of-ocean.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "2000",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/0c/0d/af/be/panorama-of-ocean.jpg",
+              "height": "652"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/0c/0d/af/be/panorama-of-ocean.jpg",
+              "height": "179"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/0c/0d/af/be/panorama-of-ocean.jpg",
+              "height": "82"
+            }
+          },
+          "is_blessed": false,
+          "uploaded_date": "2016-07-17T12:38:47-0400",
+          "caption": "Panorama of ocean",
+          "id": "202223550",
+          "helpful_votes": "3",
+          "published_date": "2016-07-17T12:38:47-0400",
+          "user": { "user_id": null, "member_id": "0", "type": "user" }
+        },
+        "awards": [],
+        "doubleclick_zone": "na.us.fl.melbourne_beach",
+        "preferred_map_engine": "default",
+        "geo_type": "narrow",
+        "category_counts": {
+          "attractions": {
+            "activities": "17",
+            "attractions": "10",
+            "nightlife": "1",
+            "shopping": "2",
+            "total": "30"
+          },
+          "restaurants": { "total": "23" },
+          "accommodations": {
+            "hotels": "13",
+            "bbs_inns": "2",
+            "others": "3",
+            "total": "18"
+          },
+          "neighborhoods": "0",
+          "airports": "0"
+        },
+        "nearby_attractions": [],
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "county", "name": "County" }],
+            "name": "Brevard County",
+            "abbrv": null,
+            "location_id": "7659357"
+          },
+          {
+            "subcategory": [{ "key": "state", "name": "State" }],
+            "name": "Florida",
+            "abbrv": "FL",
+            "location_id": "28930"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "United States",
+            "abbrv": null,
+            "location_id": "191"
+          }
+        ],
+        "category": { "key": "geographic", "name": "Geographic" },
+        "subcategory": [{ "key": "city", "name": "City" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "has_restaurant_coverpage": false,
+        "has_attraction_coverpage": false,
+        "has_curated_shopping_list": false
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "1388984",
+        "name": "Pan Pacific Melbourne",
+        "latitude": "-37.824787",
+        "longitude": "144.95111",
+        "num_reviews": "4775",
+        "timezone": "Australia/Melbourne",
+        "location_string": "Melbourne, Victoria",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/1c/d3/bc/68/pan-pacific-melbourne.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/1c/d3/bc/68/pan-pacific-melbourne.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "1023",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/1c/d3/bc/68/pan-pacific-melbourne.jpg",
+              "height": "682"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/1c/d3/bc/68/pan-pacific-melbourne.jpg",
+              "height": "367"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/1c/d3/bc/68/pan-pacific-melbourne.jpg",
+              "height": "167"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2021-04-06T14:37:57-0400",
+          "caption": "Pan Pacific Melbourne Exterior Bridge",
+          "id": "483638376",
+          "helpful_votes": "0",
+          "published_date": "2021-04-06T14:37:57-0400",
+          "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "city", "name": "City" }],
+            "name": "Melbourne",
+            "abbrv": null,
+            "location_id": "255100"
+          },
+          {
+            "subcategory": [{ "key": "state", "name": "State" }],
+            "name": "Victoria",
+            "abbrv": null,
+            "location_id": "255098"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Australia",
+            "abbrv": null,
+            "location_id": "255055"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "2 Convention Centre Place",
+          "street2": "South Wharf",
+          "city": "Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "postalcode": "3006"
+        },
+        "address": "2 Convention Centre Place South Wharf, Melbourne, Victoria 3006 Australia",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 1,821 reviews"
+      },
+      "review_snippet": {
+        "snippet": "our breakfast in every morning - we rode on the free tram to see all melbournes",
+        "spans": [{ "start_index": 69, "end_index": 79 }],
+        "review_id": "877612183"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "things_to_do",
+      "result_object": {
+        "location_id": "256845",
+        "name": "Melbourne Museum",
+        "latitude": "-37.803333",
+        "longitude": "144.97151",
+        "num_reviews": "4241",
+        "timezone": "Australia/Melbourne",
+        "location_string": "Melbourne, Victoria",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/17/90/cb/b5/melbourne-museum.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/17/90/cb/b5/melbourne-museum.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "563",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/17/90/cb/b5/melbourne-museum.jpg",
+              "height": "422"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/17/90/cb/b5/melbourne-museum.jpg",
+              "height": "412"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/17/90/cb/b5/melbourne-museum.jpg",
+              "height": "187"
+            }
+          },
+          "is_blessed": false,
+          "uploaded_date": "2019-05-17T23:52:08-0400",
+          "caption": "",
+          "id": "395365301",
+          "helpful_votes": "1",
+          "published_date": "2019-05-17T23:52:08-0400",
+          "user": { "user_id": null, "member_id": "0", "type": "user" }
+        },
+        "awards": [],
+        "location_subtype": "none",
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "open_now_text": "Closed Now",
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "city", "name": "City" }],
+            "name": "Melbourne",
+            "abbrv": null,
+            "location_id": "255100"
+          },
+          {
+            "subcategory": [{ "key": "state", "name": "State" }],
+            "name": "Victoria",
+            "abbrv": null,
+            "location_id": "255098"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Australia",
+            "abbrv": null,
+            "location_id": "255055"
+          }
+        ],
+        "category": { "key": "attraction", "name": "Attraction" },
+        "subcategory": [{ "key": "49", "name": "Museums" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "11 Nicholson Pl",
+          "street2": "Carlton",
+          "city": "Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "postalcode": "3000"
+        },
+        "address": "11 Nicholson Pl Carlton, Melbourne, Victoria 3000 Australia",
+        "is_candidate_for_contact_info_suppression": false
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 1,413 reviews"
+      },
+      "review_snippet": {
+        "snippet": "Melbourne Museum is a natural and cultural history museum which was founded",
+        "spans": [{ "start_index": 0, "end_index": 9 }],
+        "review_id": "875564643"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "257042",
+        "name": "Stamford Plaza Melbourne",
+        "latitude": "-37.81362",
+        "longitude": "144.97011",
+        "num_reviews": "5604",
+        "timezone": "Australia/Melbourne",
+        "location_string": "Melbourne, Victoria",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/23/85/ac/65/exterior-view-stamford.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/23/85/ac/65/exterior-view-stamford.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "1023",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/23/85/ac/65/exterior-view-stamford.jpg",
+              "height": "682"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/23/85/ac/65/exterior-view-stamford.jpg",
+              "height": "367"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/23/85/ac/65/exterior-view-stamford.jpg",
+              "height": "167"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2022-05-25T01:15:52-0400",
+          "caption": "Exterior View  Stamford Plaza Melbourne",
+          "id": "595962981",
+          "helpful_votes": "0",
+          "published_date": "2022-05-25T01:15:52-0400",
+          "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "city", "name": "City" }],
+            "name": "Melbourne",
+            "abbrv": null,
+            "location_id": "255100"
+          },
+          {
+            "subcategory": [{ "key": "state", "name": "State" }],
+            "name": "Victoria",
+            "abbrv": null,
+            "location_id": "255098"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Australia",
+            "abbrv": null,
+            "location_id": "255055"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "111 Little Collins St",
+          "street2": "",
+          "city": "Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "postalcode": "3000"
+        },
+        "address": "111 Little Collins St, Melbourne, Victoria 3000 Australia",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 1,866 reviews"
+      },
+      "review_snippet": {
+        "snippet": "stayed here at least 10-15 times, and is my choice of stay when I visit Melbourne",
+        "spans": [{ "start_index": 72, "end_index": 81 }],
+        "review_id": "878972602"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "activities",
+      "result_object": {
+        "location_id": "15638454",
+        "name": "Complete Melbourne Walking Tour",
+        "num_reviews": "738",
+        "timezone": "Australia/Melbourne",
+        "location_string": "Melbourne, Victoria",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/1c/63/e1/fd/caption.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/1c/63/e1/fd/caption.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "720",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/1c/63/e1/fd/caption.jpg",
+              "height": "480"
+            },
+            "large": {
+              "width": "720",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/1c/63/e1/fd/caption.jpg",
+              "height": "480"
+            },
+            "medium": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/1c/63/e1/fd/caption.jpg",
+              "height": "367"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2020-12-03T10:45:19-0500",
+          "caption": "",
+          "id": "476307965",
+          "helpful_votes": "0",
+          "published_date": "2020-12-03T10:45:19-0500",
+          "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "5.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "city", "name": "City" }],
+            "name": "Melbourne",
+            "abbrv": null,
+            "location_id": "255100"
+          },
+          {
+            "subcategory": [{ "key": "state", "name": "State" }],
+            "name": "Victoria",
+            "abbrv": null,
+            "location_id": "255098"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Australia",
+            "abbrv": null,
+            "location_id": "255055"
+          }
+        ],
+        "category": { "key": "activity", "name": "Activity" },
+        "subcategory": [],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": null,
+          "street2": null,
+          "city": "Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "postalcode": null
+        },
+        "address": "Melbourne, Victoria Australia",
+        "is_candidate_for_contact_info_suppression": false,
+        "supplier_location_id": "11897758",
+        "supplier_location_name": "Depot Adventures",
+        "supplier_location_subtype": "tour_operator",
+        "is_reviewable": true
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 426 reviews"
+      },
+      "review_snippet": {
+        "snippet": "We are so glad we did the Melbourne Walking Tour and Hugo was our guide",
+        "spans": [{ "start_index": 26, "end_index": 35 }],
+        "review_id": "882315192"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "21510585",
+        "name": "Quincy Hotel Melbourne",
+        "latitude": "-37.819485",
+        "longitude": "144.95721",
+        "num_reviews": "203",
+        "timezone": "Australia/Melbourne",
+        "location_string": "Melbourne, Victoria",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/28/99/8c/b3/quincy-hotel-melbourne.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/28/99/8c/b3/quincy-hotel-melbourne.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "1023",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/28/99/8c/b3/quincy-hotel-melbourne.jpg",
+              "height": "681"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/28/99/8c/b3/quincy-hotel-melbourne.jpg",
+              "height": "366"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/28/99/8c/b3/quincy-hotel-melbourne.jpg",
+              "height": "166"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2023-03-23T17:27:47-0400",
+          "caption": "quincy hotel melbourne hosier club room",
+          "id": "681151667",
+          "helpful_votes": "0",
+          "published_date": "2023-03-23T17:27:47-0400",
+          "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "city", "name": "City" }],
+            "name": "Melbourne",
+            "abbrv": null,
+            "location_id": "255100"
+          },
+          {
+            "subcategory": [{ "key": "state", "name": "State" }],
+            "name": "Victoria",
+            "abbrv": null,
+            "location_id": "255098"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Australia",
+            "abbrv": null,
+            "location_id": "255055"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "509 Flinders Lane",
+          "street2": null,
+          "city": "Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "postalcode": "3000"
+        },
+        "address": "509 Flinders Lane, Melbourne, Victoria 3000 Australia",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": { "mentioned_by_travelers": "matches 66 reviews" },
+      "review_snippet": {
+        "snippet": "The hotel was perfectly ‘Melbourne’.",
+        "spans": [{ "start_index": 25, "end_index": 34 }],
+        "review_id": "880113221"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "things_to_do",
+      "result_object": {
+        "location_id": "257322",
+        "name": "Arts Centre Melbourne",
+        "latitude": "-37.821644",
+        "longitude": "144.96895",
+        "num_reviews": "590",
+        "timezone": "Australia/Melbourne",
+        "location_string": "Melbourne, Victoria",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/11/ac/22/a0/arts-centre-melbourne.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/11/ac/22/a0/arts-centre-melbourne.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "2000",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/11/ac/22/a0/arts-centre-melbourne.jpg",
+              "height": "1356"
+            },
+            "large": {
+              "width": "1024",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-w/11/ac/22/a0/arts-centre-melbourne.jpg",
+              "height": "694"
+            },
+            "medium": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/11/ac/22/a0/arts-centre-melbourne.jpg",
+              "height": "373"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2018-01-03T19:55:27-0500",
+          "caption": "Arts Centre Melbourne",
+          "id": "296493728",
+          "helpful_votes": "5",
+          "published_date": "2018-01-03T19:55:27-0500",
+          "user": { "user_id": null, "member_id": "0", "type": "user" }
+        },
+        "awards": [],
+        "location_subtype": "none",
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "open_now_text": "Open Now",
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "city", "name": "City" }],
+            "name": "Melbourne",
+            "abbrv": null,
+            "location_id": "255100"
+          },
+          {
+            "subcategory": [{ "key": "state", "name": "State" }],
+            "name": "Victoria",
+            "abbrv": null,
+            "location_id": "255098"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Australia",
+            "abbrv": null,
+            "location_id": "255055"
+          }
+        ],
+        "category": { "key": "attraction", "name": "Attraction" },
+        "subcategory": [{ "key": "58", "name": "Concerts & Shows" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "100 St Kilda Rd",
+          "street2": null,
+          "city": "Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "postalcode": "3004"
+        },
+        "address": "100 St Kilda Rd, Melbourne, Victoria 3004 Australia",
+        "is_candidate_for_contact_info_suppression": false
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 182 reviews"
+      },
+      "review_snippet": {
+        "snippet": "The State Theatre in the Theatres Building of Arts Centre Melbourne (under",
+        "spans": [{ "start_index": 58, "end_index": 67 }],
+        "review_id": "878981168"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "19260510",
+        "name": "Vibe Hotel Melbourne",
+        "latitude": "-37.81879",
+        "longitude": "144.96202",
+        "num_reviews": "287",
+        "timezone": "Australia/Melbourne",
+        "location_string": "Melbourne, Victoria",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/21/72/35/6b/vibe-hotel-melbourne.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/21/72/35/6b/vibe-hotel-melbourne.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "1024",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/21/72/35/6b/vibe-hotel-melbourne.jpg",
+              "height": "681"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/21/72/35/6b/vibe-hotel-melbourne.jpg",
+              "height": "366"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/21/72/35/6b/vibe-hotel-melbourne.jpg",
+              "height": "166"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2021-11-24T01:40:03-0500",
+          "caption": "vibe hotel melbourne exterior",
+          "id": "561132907",
+          "helpful_votes": "0",
+          "published_date": "2021-11-24T01:40:03-0500",
+          "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "city", "name": "City" }],
+            "name": "Melbourne",
+            "abbrv": null,
+            "location_id": "255100"
+          },
+          {
+            "subcategory": [{ "key": "state", "name": "State" }],
+            "name": "Victoria",
+            "abbrv": null,
+            "location_id": "255098"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Australia",
+            "abbrv": null,
+            "location_id": "255055"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "1 Queen St",
+          "street2": null,
+          "city": "Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "postalcode": "3000"
+        },
+        "address": "1 Queen St, Melbourne, Victoria 3000 Australia",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": { "mentioned_by_travelers": "matches 90 reviews" },
+      "review_snippet": {
+        "snippet": "It is near places of interests in the Melbourne CBD.",
+        "spans": [{ "start_index": 38, "end_index": 47 }],
+        "review_id": "867753569"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "255647",
+        "name": "PARKROYAL Melbourne Airport",
+        "latitude": "-37.670498",
+        "longitude": "144.84995",
+        "num_reviews": "3603",
+        "timezone": "Australia/Melbourne",
+        "location_string": "Tullamarine, Greater Melbourne, Victoria",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/1f/5d/e0/89/prmla-exterior-day.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/1f/5d/e0/89/prmla-exterior-day.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "1024",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/1f/5d/e0/89/prmla-exterior-day.jpg",
+              "height": "768"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/1f/5d/e0/89/prmla-exterior-day.jpg",
+              "height": "413"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/1f/5d/e0/89/prmla-exterior-day.jpg",
+              "height": "188"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2021-10-08T01:41:56-0400",
+          "caption": "PRMLA Exterior Day",
+          "id": "526246025",
+          "helpful_votes": "0",
+          "published_date": "2021-10-08T01:41:56-0400",
+          "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "city", "name": "City" }],
+            "name": "Tullamarine",
+            "abbrv": null,
+            "location_id": "580517"
+          },
+          {
+            "subcategory": [{ "key": "department", "name": "Department" }],
+            "name": "Greater Melbourne",
+            "abbrv": null,
+            "location_id": "2699946"
+          },
+          {
+            "subcategory": [{ "key": "state", "name": "State" }],
+            "name": "Victoria",
+            "abbrv": null,
+            "location_id": "255098"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Australia",
+            "abbrv": null,
+            "location_id": "255055"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Airport Arrival Drive",
+          "street2": "Melbourne Airport",
+          "city": "Tullamarine",
+          "state": "Victoria",
+          "country": "Australia",
+          "postalcode": "3045"
+        },
+        "address": "Airport Arrival Drive Melbourne Airport, Tullamarine, Victoria 3045 Australia",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 883 reviews"
+      },
+      "review_snippet": {
+        "snippet": "Arrived in Melbourne at the end of a very very ling series of flights.",
+        "spans": [{ "start_index": 11, "end_index": 20 }],
+        "review_id": "881526586"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "activities",
+      "result_object": {
+        "location_id": "11451451",
+        "name": "Melbourne Skydeck Entry Ticket",
+        "num_reviews": "337",
+        "timezone": "Australia/Melbourne",
+        "location_string": "Melbourne, Victoria",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/1b/32/51/2e/caption.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/1b/32/51/2e/caption.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "720",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/1b/32/51/2e/caption.jpg",
+              "height": "479"
+            },
+            "large": {
+              "width": "720",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/1b/32/51/2e/caption.jpg",
+              "height": "479"
+            },
+            "medium": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/1b/32/51/2e/caption.jpg",
+              "height": "366"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2020-03-22T18:45:16-0400",
+          "caption": "",
+          "id": "456282414",
+          "helpful_votes": "0",
+          "published_date": "2020-03-22T18:45:16-0400",
+          "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "city", "name": "City" }],
+            "name": "Melbourne",
+            "abbrv": null,
+            "location_id": "255100"
+          },
+          {
+            "subcategory": [{ "key": "state", "name": "State" }],
+            "name": "Victoria",
+            "abbrv": null,
+            "location_id": "255098"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Australia",
+            "abbrv": null,
+            "location_id": "255055"
+          }
+        ],
+        "category": { "key": "activity", "name": "Activity" },
+        "subcategory": [],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": null,
+          "street2": null,
+          "city": "Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "postalcode": null
+        },
+        "address": "Melbourne, Victoria Australia",
+        "is_candidate_for_contact_info_suppression": false,
+        "supplier_location_id": "654640",
+        "supplier_location_name": "Eureka Skydeck",
+        "supplier_location_subtype": "none",
+        "is_reviewable": true
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 107 reviews"
+      },
+      "review_snippet": {
+        "snippet": "The views were amazing of the city of Melbourne.",
+        "spans": [{ "start_index": 38, "end_index": 48 }],
+        "review_id": "880112672"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "257041",
+        "name": "Sofitel Melbourne on Collins",
+        "latitude": "-37.8141",
+        "longitude": "144.97278",
+        "num_reviews": "6346",
+        "timezone": "Australia/Melbourne",
+        "location_string": "Melbourne, Victoria",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/26/cc/11/42/guest-room.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/26/cc/11/42/guest-room.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "1024",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/26/cc/11/42/guest-room.jpg",
+              "height": "768"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/26/cc/11/42/guest-room.jpg",
+              "height": "413"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/26/cc/11/42/guest-room.jpg",
+              "height": "188"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2022-11-06T17:06:48-0500",
+          "caption": "Guest room",
+          "id": "650907970",
+          "helpful_votes": "0",
+          "published_date": "2022-11-06T17:06:48-0500",
+          "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "city", "name": "City" }],
+            "name": "Melbourne",
+            "abbrv": null,
+            "location_id": "255100"
+          },
+          {
+            "subcategory": [{ "key": "state", "name": "State" }],
+            "name": "Victoria",
+            "abbrv": null,
+            "location_id": "255098"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Australia",
+            "abbrv": null,
+            "location_id": "255055"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "25 Collins Street",
+          "street2": "",
+          "city": "Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "postalcode": "3000"
+        },
+        "address": "25 Collins Street, Melbourne, Victoria 3000 Australia",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 2,822 reviews"
+      },
+      "review_snippet": {
+        "snippet": "If in Melbourne and you are looking for a truly five star hotel both in",
+        "spans": [{ "start_index": 6, "end_index": 15 }],
+        "review_id": "879921063"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "257779",
+        "name": "Rendezvous Hotel Melbourne",
+        "latitude": "-37.818226",
+        "longitude": "144.9635",
+        "num_reviews": "7115",
+        "timezone": "Australia/Melbourne",
+        "location_string": "Melbourne, Victoria",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/26/d1/a7/49/rendezvous-hotel-melbourne.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/26/d1/a7/49/rendezvous-hotel-melbourne.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "1024",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/26/d1/a7/49/rendezvous-hotel-melbourne.jpg",
+              "height": "768"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/26/d1/a7/49/rendezvous-hotel-melbourne.jpg",
+              "height": "413"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/26/d1/a7/49/rendezvous-hotel-melbourne.jpg",
+              "height": "188"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2022-11-09T17:07:11-0500",
+          "caption": "rendezvous hotel melbourne commerce queen yarra view room styled",
+          "id": "651274057",
+          "helpful_votes": "0",
+          "published_date": "2022-11-09T17:07:11-0500",
+          "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "city", "name": "City" }],
+            "name": "Melbourne",
+            "abbrv": null,
+            "location_id": "255100"
+          },
+          {
+            "subcategory": [{ "key": "state", "name": "State" }],
+            "name": "Victoria",
+            "abbrv": null,
+            "location_id": "255098"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Australia",
+            "abbrv": null,
+            "location_id": "255055"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "328 Flinders St",
+          "street2": "",
+          "city": "Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "postalcode": "3000"
+        },
+        "address": "328 Flinders St, Melbourne, Victoria 3000 Australia",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 2,082 reviews"
+      },
+      "review_snippet": {
+        "snippet": "Great central location for a Melbourne stay. Beautiful old building.",
+        "spans": [{ "start_index": 29, "end_index": 38 }],
+        "review_id": "883308074"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "things_to_do",
+      "result_object": {
+        "location_id": "522417",
+        "name": "Melbourne Central",
+        "latitude": "-37.79825",
+        "longitude": "144.9857",
+        "num_reviews": "1655",
+        "timezone": "Australia/Melbourne",
+        "location_string": "Melbourne, Victoria",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/09/e3/87/d5/melbourne-central.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/09/e3/87/d5/melbourne-central.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "2000",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/09/e3/87/d5/melbourne-central.jpg",
+              "height": "1500"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/09/e3/87/d5/melbourne-central.jpg",
+              "height": "413"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/09/e3/87/d5/melbourne-central.jpg",
+              "height": "188"
+            }
+          },
+          "is_blessed": false,
+          "uploaded_date": "2015-12-30T06:39:33-0500",
+          "caption": "Melbourne Central",
+          "id": "165906389",
+          "helpful_votes": "7",
+          "published_date": "2015-12-30T06:39:33-0500",
+          "user": { "user_id": null, "member_id": "0", "type": "user" }
+        },
+        "awards": [],
+        "location_subtype": "none",
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "open_now_text": "Closed Now",
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "city", "name": "City" }],
+            "name": "Melbourne",
+            "abbrv": null,
+            "location_id": "255100"
+          },
+          {
+            "subcategory": [{ "key": "state", "name": "State" }],
+            "name": "Victoria",
+            "abbrv": null,
+            "location_id": "255098"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Australia",
+            "abbrv": null,
+            "location_id": "255055"
+          }
+        ],
+        "category": { "key": "attraction", "name": "Attraction" },
+        "subcategory": [
+          { "key": "26", "name": "Shopping" },
+          { "key": "47", "name": "Sights & Landmarks" },
+          { "key": "51", "name": "Other" }
+        ],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": null,
+          "street2": "Corner of LaTrobe and Swanston Streets",
+          "city": "Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "postalcode": "3000"
+        },
+        "address": "Corner of LaTrobe and Swanston Streets, Melbourne, Victoria 3000 Australia",
+        "is_candidate_for_contact_info_suppression": false
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 580 reviews"
+      },
+      "review_snippet": {
+        "snippet": "There are a lot of amazing places in Melbourne to shop, but as shopping",
+        "spans": [{ "start_index": 37, "end_index": 46 }],
+        "review_id": "875901607"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "lodging",
+      "result_object": {
+        "location_id": "257047",
+        "name": "The Westin Melbourne",
+        "latitude": "-37.815735",
+        "longitude": "144.96721",
+        "num_reviews": "2809",
+        "timezone": "Australia/Melbourne",
+        "location_string": "Melbourne, Victoria",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/21/8e/63/8b/exterior.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/21/8e/63/8b/exterior.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "4000",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-o/21/8e/63/8b/exterior.jpg",
+              "height": "2667"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/21/8e/63/8b/exterior.jpg",
+              "height": "367"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/21/8e/63/8b/exterior.jpg",
+              "height": "167"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2021-12-09T02:01:16-0500",
+          "caption": "Exterior",
+          "id": "562979723",
+          "helpful_votes": "1",
+          "published_date": "2021-12-09T02:01:16-0500",
+          "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "open_now_text": "Open Now",
+        "is_long_closed": false,
+        "special_offers": { "desktop": [], "mobile": [] },
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "city", "name": "City" }],
+            "name": "Melbourne",
+            "abbrv": null,
+            "location_id": "255100"
+          },
+          {
+            "subcategory": [{ "key": "state", "name": "State" }],
+            "name": "Victoria",
+            "abbrv": null,
+            "location_id": "255098"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Australia",
+            "abbrv": null,
+            "location_id": "255055"
+          }
+        ],
+        "category": { "key": "hotel", "name": "Hotel" },
+        "subcategory": [{ "key": "hotel", "name": "Hotel" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "205 Collins Street",
+          "street2": null,
+          "city": "Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "postalcode": "3000"
+        },
+        "address": "205 Collins Street, Melbourne, Victoria 3000 Australia",
+        "is_candidate_for_contact_info_suppression": false,
+        "amenities": []
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 1,448 reviews"
+      },
+      "review_snippet": {
+        "snippet": "With the numerous new and glossy hotels springing up all over Melbourne",
+        "spans": [{ "start_index": 62, "end_index": 71 }],
+        "review_id": "864546591"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "things_to_do",
+      "result_object": {
+        "location_id": "256568",
+        "name": "Old Melbourne Gaol",
+        "latitude": "-37.807816",
+        "longitude": "144.96555",
+        "num_reviews": "3239",
+        "timezone": "Australia/Melbourne",
+        "location_string": "Melbourne, Victoria",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/16/1e/3e/e0/exterior-shot-showing.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/16/1e/3e/e0/exterior-shot-showing.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "1280",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/16/1e/3e/e0/exterior-shot-showing.jpg",
+              "height": "960"
+            },
+            "large": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/16/1e/3e/e0/exterior-shot-showing.jpg",
+              "height": "413"
+            },
+            "medium": {
+              "width": "250",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-f/16/1e/3e/e0/exterior-shot-showing.jpg",
+              "height": "188"
+            }
+          },
+          "is_blessed": false,
+          "uploaded_date": "2019-01-16T08:16:12-0500",
+          "caption": "Exterior shot showing the courtyard.",
+          "id": "371080928",
+          "helpful_votes": "0",
+          "published_date": "2019-01-16T08:16:12-0500",
+          "user": { "user_id": null, "member_id": "0", "type": "user" }
+        },
+        "awards": [],
+        "location_subtype": "none",
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "open_now_text": "Closed Now",
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "city", "name": "City" }],
+            "name": "Melbourne",
+            "abbrv": null,
+            "location_id": "255100"
+          },
+          {
+            "subcategory": [{ "key": "state", "name": "State" }],
+            "name": "Victoria",
+            "abbrv": null,
+            "location_id": "255098"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Australia",
+            "abbrv": null,
+            "location_id": "255055"
+          }
+        ],
+        "category": { "key": "attraction", "name": "Attraction" },
+        "subcategory": [{ "key": "47", "name": "Sights & Landmarks" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "377 Russell St",
+          "street2": "",
+          "city": "Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "postalcode": "3000"
+        },
+        "address": "377 Russell St, Melbourne, Victoria 3000 Australia",
+        "is_candidate_for_contact_info_suppression": false
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 1,041 reviews"
+      },
+      "review_snippet": {
+        "snippet": "The goal is well worth a visit if you are in Melbourne.",
+        "spans": [{ "start_index": 45, "end_index": 55 }],
+        "review_id": "884515699"
+      },
+      "scope": "local"
+    },
+    {
+      "result_type": "things_to_do",
+      "result_object": {
+        "location_id": "256584",
+        "name": "Melbourne Cricket Ground (MCG)",
+        "latitude": "-37.822758",
+        "longitude": "144.9823",
+        "num_reviews": "9090",
+        "timezone": "Australia/Melbourne",
+        "location_string": "Melbourne, Victoria",
+        "photo": {
+          "images": {
+            "small": {
+              "width": "150",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-l/19/e3/03/99/2019-preliminary-final.jpg",
+              "height": "150"
+            },
+            "thumbnail": {
+              "width": "50",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-t/19/e3/03/99/2019-preliminary-final.jpg",
+              "height": "50"
+            },
+            "original": {
+              "width": "1280",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/19/e3/03/99/2019-preliminary-final.jpg",
+              "height": "853"
+            },
+            "large": {
+              "width": "1024",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-w/19/e3/03/99/2019-preliminary-final.jpg",
+              "height": "683"
+            },
+            "medium": {
+              "width": "550",
+              "url": "https://media-cdn.tripadvisor.com/media/photo-s/19/e3/03/99/2019-preliminary-final.jpg",
+              "height": "367"
+            }
+          },
+          "is_blessed": true,
+          "uploaded_date": "2019-11-01T00:57:44-0400",
+          "caption": "2019 Preliminary Final. Collingwood VS GWS Giants",
+          "id": "434307993",
+          "helpful_votes": "6",
+          "published_date": "2019-11-01T00:57:44-0400",
+          "user": { "user_id": null, "member_id": "0", "type": "user" }
+        },
+        "awards": [],
+        "location_subtype": "none",
+        "preferred_map_engine": "default",
+        "distance": null,
+        "distance_string": null,
+        "bearing": null,
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "description": "",
+        "web_url": "",
+        "ancestors": [
+          {
+            "subcategory": [{ "key": "city", "name": "City" }],
+            "name": "Melbourne",
+            "abbrv": null,
+            "location_id": "255100"
+          },
+          {
+            "subcategory": [{ "key": "state", "name": "State" }],
+            "name": "Victoria",
+            "abbrv": null,
+            "location_id": "255098"
+          },
+          {
+            "subcategory": [{ "key": "country", "name": "Country" }],
+            "name": "Australia",
+            "abbrv": null,
+            "location_id": "255055"
+          }
+        ],
+        "category": { "key": "attraction", "name": "Attraction" },
+        "subcategory": [{ "key": "47", "name": "Sights & Landmarks" }],
+        "is_jfy_enabled": false,
+        "nearest_metro_station": [],
+        "address_obj": {
+          "street1": "Brunton Ave",
+          "street2": "Yarra Park, Jolimont",
+          "city": "Melbourne",
+          "state": "Victoria",
+          "country": "Australia",
+          "postalcode": "8002"
+        },
+        "address": "Brunton Ave Yarra Park, Jolimont, Melbourne, Victoria 8002 Australia",
+        "is_candidate_for_contact_info_suppression": false
+      },
+      "search_explanations": {
+        "mentioned_by_travelers": "matches 2,414 reviews"
+      },
+      "review_snippet": {
+        "snippet": "there are always plenty of staff on hand to help if you are a visitor to Melbourne.",
+        "spans": [{ "start_index": 73, "end_index": 83 }],
+        "review_id": "873709010"
+      },
+      "scope": "local"
+    }
+  ],
+  "metadata": { "scope": "local" },
+  "sort": [
+    {
+      "filter_key": "relevance",
+      "label": "Relevance",
+      "locale_independent_label": "relevance",
+      "selected": true
+    },
+    {
+      "filter_key": "distance",
+      "label": "Distance",
+      "locale_independent_label": "distance",
+      "selected": false
+    }
+  ],
+  "partial_content": false,
+  "tracking": { "search_id": "F9EC10D5D4CC4CC5854308FD519DEB721680815223748" },
+  "paging": { "results": "30", "total_results": "55395" }
+}
